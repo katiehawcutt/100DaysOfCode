@@ -82,13 +82,13 @@ _4th July_
 
 - Listened to a SyntaxFM podcast on servers and what makes them fast. I learnt about :
 
-[RAM](https://www.digitaltrends.com/computing/what-is-ram/) (Random Access Memory) which is basically short term memory in your deivce. It is an extremely fast component that temporarily stores all the information your PC needs right now and in the near future.
+  [RAM](https://www.digitaltrends.com/computing/what-is-ram/) (Random Access Memory) which is basically short term memory in your deivce. It is an extremely fast component that temporarily stores all the information your PC needs right now and in the near future.
 
-[CPU's](https://www.digitaltrends.com/computing/what-is-a-cpu/) (Central Processing Units) which are responsible for processing and executing instructions.
+  [CPU's](https://www.digitaltrends.com/computing/what-is-a-cpu/) (Central Processing Units) which are responsible for processing and executing instructions.
 
-[GPU's](https://www.itpro.co.uk/hardware/30399/what-is-a-gpu) (Graphics Processing Unit) which are processors that are specially-designed to handle intensive graphics rendering tasks.
+  [GPU's](https://www.itpro.co.uk/hardware/30399/what-is-a-gpu) (Graphics Processing Unit) which are processors that are specially-designed to handle intensive graphics rendering tasks.
 
-[SSD's](https://www.avast.com/c-what-is-ssd) (Solid-State Drives) which are a new generation of storage device used in computers. SSDs replace traditional mechanical hard disks by using flash-based memory which is significantly faster.
+  [SSD's](https://www.avast.com/c-what-is-ssd) (Solid-State Drives) which are a new generation of storage device used in computers. SSDs replace traditional mechanical hard disks by using flash-based memory which is significantly faster.
 
 - I also watched Lecture 2 (Arrays) of Havard's CS50 course. I'm learning more C as we go along and although it feels a bit different I am noticing the similarities it has with JavaScript.
 
@@ -134,7 +134,7 @@ Found it hard to focus today as I had lots of other non-code related things on m
 
 ### Links to work / resources:
 
-[Wes Bos CSS Grid Course](https://courses.wesbos.com/account/access/5ec126e69edbdf3638124595/view/249566909)
+[Wes Bos CSS Grid Course](https://wesbos.com/courses)
 
 ## Day 8
 
@@ -142,6 +142,7 @@ _8th July_
 
 ### Today's progress:
 
+- I did Wes Bos' Mastering Markdown course and learnt a few new tricks! It was really helpful seeing as I'm going to be using markdown a lot more over the coming weeks as I do this diary.
 - I finished writing README files for all my GitHub repo's which was a really useful and productive activity. As I was reflecting on my main learning points for each project, it allowed me recap on lots of useful topics (fetch, asynchronous callback functions, promises, JSON). A really good refresher!
 - I created this 100 Days Of Code diary and filled in the last weeks worth of notes. I'm really pleased I'm doing this diary as part of the challenge as it is helping me to reflect upon and consolidate my learning. I think it's also going to be super encouraging to be able to look back on all I've learnt and see how much I've progressed.
 
@@ -152,6 +153,8 @@ I'm feeling really good about code at the moment and I've got quite a few things
 ### Links to work / resources:
 
 [My GitHub repos's with all my README files](https://github.com/katiehawcutt?tab=repositories)
+
+[Wes Bos Mastering Markdown Course](https://wesbos.com/courses)
 
 ## Day 9
 
