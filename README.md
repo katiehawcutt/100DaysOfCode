@@ -212,11 +212,25 @@ As well as being exciting, it can be overwhelming thinking ahead as I am venturi
 
 ### Day 12
 
+_14th July_
+
 ### Today's progress:
+
+- I spent all morning researching and learning about Agile Methodolody and the Scrum framework. I found the [Atlassian website](https://www.atlassian.com/agile) particuarly helpful along with their YouTube videos and I now feel like I have a much clearer understanding of agile priciples and agile project management frameworks.
+
+- I also read an article on [Mission, Strategy, Tactics and Vision](https://boz.com/articles/strategy-tactics). I learnt more about what each of them are and why they are important.
 
 ### Thoughts:
 
+Having looked into lots of possible job roles yesterday, I realised that the one skill that ties a lot of them together is the ability to be able to work effectively in a team. This inspired me to look into agile methodology and the scrum framework as I know these are widely used approaches in the tech sector. (I'd also like to look into other frameworks such as Kanban and XP.) I felt inspired after my research / learning and it increased my desire to work in an environment like this and be part of such a well functioning team. Whatever line of work I go into, I know these skills and knowledge will be very useful. I can't wait to join a bootcamp and start learning / working as a team rather than as a solo learner!
+
 ### Links to work / resources:
+
+[The Original Agile Manifesto](https://agilemanifesto.org/)
+
+[Atlassian Website](https://www.atlassian.com/agile)
+
+[Atlassian YouTube videos on What Is Scrum?](https://www.youtube.com/watch?v=dJNCHvqKljU&list=PLaD4FvsFdarT0B2yi9byhKWYX1YmrkrpC&index=10)
 
 ### Day 13
 
