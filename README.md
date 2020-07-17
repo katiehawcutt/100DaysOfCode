@@ -232,7 +232,74 @@ Having looked into lots of possible job roles yesterday, I realised that the one
 
 [Atlassian YouTube videos on What Is Scrum?](https://www.youtube.com/watch?v=dJNCHvqKljU&list=PLaD4FvsFdarT0B2yi9byhKWYX1YmrkrpC&index=10)
 
+### Day 12
+
+_14th July_
+
+### Today's progress:
+
+- I spent all morning researching and learning about Agile Methodolody and the Scrum framework. I found the [Atlassian website](https://www.atlassian.com/agile) particuarly helpful along with their YouTube videos and I now feel like I have a much clearer understanding of agile priciples and agile project management frameworks.
+
+- I also read an article on [Mission, Strategy, Tactics and Vision](https://boz.com/articles/strategy-tactics). I learnt more about what each of them are and why they are important.
+
+### Thoughts:
+
+Having looked into lots of possible job roles yesterday, I realised that the one skill that ties a lot of them together is the ability to be able to work effectively in a team. This inspired me to look into agile methodology and the scrum framework as I know these are widely used approaches in the tech sector. (I'd also like to look into other frameworks such as Kanban and XP.) I felt inspired after my research / learning and it increased my desire to work in an environment like this and be part of such a well functioning team. Whatever line of work I go into, I know these skills and knowledge will be very useful. I can't wait to join a bootcamp and start learning / working as a team rather than as a solo learner!
+
+### Links to work / resources:
+
+[The Original Agile Manifesto](https://agilemanifesto.org/)
+
+[Atlassian Website](https://www.atlassian.com/agile)
+
+[Atlassian YouTube videos on What Is Scrum?](https://www.youtube.com/watch?v=dJNCHvqKljU&list=PLaD4FvsFdarT0B2yi9byhKWYX1YmrkrpC&index=10)
+
 ### Day 13
+
+_16th July_
+
+### Today's progress:
+
+- I completed the first stage of the School of Code bootcamp applicaton process. I made three avatars using the School of Code's introduction to HTML, CSS and JavaScript on their learning platform. I also had to write a little bit about why I wanted to do the bootcamp.
+- I listened to a Syntax Podcast episode and learnt a bit more about frameworks, fonts and CMS's.
+
+### Thoughts:
+
+I'm really excited to be starting the application stages for SoC and although I found it an easy task and didn't struggle to complete it, I was still a bit nervous about it. I think it's because I've had a lot of time over the last few months to think about how much I want to do the course and it's become quite a big deal to me now. I'm trying to keep things in perspective, stay calm and just do my thing!
+
+### Links to work / resources:
+
+SoC Application Avatar Task:
+
+![my avatar](./assets/images/happy-katie-avatar.PNG)
+
+[Syntax FM Podcast - Potluck on fonts, framworks, and more...](https://open.spotify.com/episode/3bktBVChDHgDnOFqU8Cakv?si=qMKxNr36ToKIoVwxjyuD3w)
+
+### Day 14
+
+_17th July_
+
+### Today's progress:
+
+- I completed the FreeCodeCamp learning section on Applied Accessibility. I learnt that "accessibility" generally means having web content and a user interface that can be understood, navigated, and interacted with by a broad audience. This includes people with visual, auditory, mobility, or cognitive disabilities.The main points I took away were that it's important to:
+
+  1. Have well-organized code that uses appropriate markup
+
+  2. Ensure text alternatives exist for non-text and visual content
+
+  3. Create an easily-navigated page that's keyboard-friendly
+
+I learnt about some HTML tags that are particulay useful and important for this (eg. main, header, footer, section, article, fieldset, legend, date) and that it's important to label images / inputs /graphs, etc. appropriately using alt / for / figcaption. We should also style our pages with CSS in a colour friendly way and use the correct contrast.
+
+### Thoughts:
+
+I was listening to a podcast yesterday in which they mentioned accessibility and it reminded me that it was something I wanted to look into again. I did cover it when I first got into coding but I wanted to refresh myself. It was much easier to take it all in now I've learnt more and have a framework in my mind to attch new knowledge too. It nice to be reminded of how far I've come since March!
+
+### Links to work / resources:
+
+![FreeCodeCamp Applied Accessibility Course](./assets/images/applied-accessibility-complete.PNG)
+
+### Day 15
 
 ### Today's progress:
 
@@ -240,7 +307,7 @@ Having looked into lots of possible job roles yesterday, I realised that the one
 
 ### Links to work / resources:
 
-### Day 14
+### Day 16
 
 ### Today's progress:
 
