@@ -271,7 +271,7 @@ I'm really excited to be starting the application stages for SoC and although I 
 
 SoC Application Avatar Task:
 
-![my avatar](./assets/images/happy-katie-avatar.PNG)
+![my avatar](./Assets/Images/happy-katie-avatar.PNG)
 
 [Syntax FM Podcast - Potluck on fonts, framworks, and more...](https://open.spotify.com/episode/3bktBVChDHgDnOFqU8Cakv?si=qMKxNr36ToKIoVwxjyuD3w)
 
@@ -297,7 +297,7 @@ I was listening to a podcast yesterday in which they mentioned accessibility and
 
 ### Links to work / resources:
 
-![FreeCodeCamp Applied Accessibility Course](./assets/images/applied-accessibility-complete.PNG)
+![FreeCodeCamp Applied Accessibility Course](./Assets/Images/applied-accessibility-complete.PNG)
 
 ### Day 15
 
