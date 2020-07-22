@@ -301,16 +301,84 @@ I was listening to a podcast yesterday in which they mentioned accessibility and
 
 ### Day 15
 
+_18th July_
+
 ### Today's progress:
+
+- I worked on a couple of Codewars challenges and learnt how to chain array methods together!
 
 ### Thoughts:
 
+I was really pleased as I managed to complete the 7kyu kata by myself (which I still get really excited about!). I'm finding myself being able to think through the logic of the solution so much faster and I'm able to break down the solution into manageable chunks. This really encourged me as it used to take me ages to even be able to formulate a pseudo plan. It's now happening much more quickly and naturally. Ben helped me with the 6kyu kata and I learnt how to chain together array methods which we'd talked about before but I'd never actually done. This was a really good learning session.
+
 ### Links to work / resources:
+
+![7kyu Kata - Fix String Case](./Assets/Images/7kyuKata-FixStringCase.PNG)
+
+![6kyu Kata - Meeting](./Assets/Images/6kyuKata-Meeting.PNG)
 
 ### Day 16
 
+_21st July_
+
+### Today's progress:
+
+- I submitted my School of Code Bootcamp Video Application. This involved answering four different questions (with around a minute for each question) and then ediitng them together into a little film.
+
+- I read an article on [How To Go From A Junior Developer To A Mid-Level Developer](https://www.freecodecamp.org/news/how-to-go-from-junior-developer-to-mid-level-developer/). I know I'm a way off yet but it's good to look ahead and make sure I'm going in the right direction!
+
+### Thoughts:
+
+I've had a couple of days off from actual coding as I've been working on my School of Code Bootcamp Video Application which I submitted last night. This involved me spending quite a lot of time planning my answers to four questions and then filming them / editing them together into a little video. I have never done a video interview before and I found it difficult. I think I tend to over-think these things and would have much preferred a live interview! After I'd filmed the different questions I found a video editor on my laptop (which I'd never used before) and I really enjoyed editing the different sections of film together. It was a great new experience and I'd like to do more of it!
+
+### Links to work / resources:
+
+![SoC Video Application](./Assets/Images/SoC-video-app.PNG)
+
+### Day 17
+
+_22nd July_
+
+### Today's progress:
+
+- I started work on a little CodePen project using CSS to draw a beach scene. I've not used CoedPen before so it was fun to try it out!
+
+### Thoughts:
+
+It was great to be using CSS again as I've haven't used any for a few weeks. I really enjoy the visual design aspect of coding and get into a nice work flow with it. As I'm in Devon near the beach at the moment I thought I'd create something relevant! Looking forward to finishing this off and getting more stuck into CSS.
+
+### Links to work / resources:
+
+![CodePen Beach Scene](./Assets/Images/codepen-take1.PNG)
+
+### Day
+
 ### Today's progress:
 
 ### Thoughts:
 
 ### Links to work / resources:
+
+### Day
+
+### Today's progress:
+
+### Thoughts:
+
+### Links to work / resourcs:
+
+### Day
+
+### Today's progress:
+
+### Thoughts:
+
+### Links to work / resourcs:
+
+### Day
+
+### Today's progress:
+
+### Thoughts:
+
+### Links to work / resourcs:
