@@ -351,15 +351,25 @@ It was great to be using CSS again as I've haven't used any for a few weeks. I r
 
 ![CodePen Beach Scene](./Assets/Images/codepen-take1.PNG)
 
-### Day
+### Day 18
+
+_24th July_
 
 ### Today's progress:
 
+- I finished my first Scratch project - an interactive animation called Deeno The Dancing Dinosaur. This is the third part of my School of Code Application and I'm very pleased to have submitted it today!
+
 ### Thoughts:
+
+I really enjoyed working on this animation project and absolutely loved the creative aspect of it. I also really enjoyed using Scratch - the coding building blocks (with their different shapes and colours) remind me of Lego and serve as a really helpful visual aid to building code. It was a good recap on logical / programmatic thinking.
 
 ### Links to work / resources:
 
-### Day
+[Deeno The Dancing Dinosaur](https://scratch.mit.edu/projects/410791742)
+
+![Deeno](./Assets/Images/Deeno-scratch.PNG)
+
+### Day 19
 
 ### Today's progress:
 
@@ -367,7 +377,7 @@ It was great to be using CSS again as I've haven't used any for a few weeks. I r
 
 ### Links to work / resourcs:
 
-### Day
+### Day 20
 
 ### Today's progress:
 
