@@ -371,19 +371,117 @@ I really enjoyed working on this animation project and absolutely loved the crea
 
 ### Day 19
 
+_29th July_
+
 ### Today's progress:
+
+- I learnt about the history of open source by listening to a couple of great Command Line Heroes podcasts called OS Wars: Part 1 & 2. It was really interesting to learn more about the history of computing, the development of operating systems and the battles between the big players - Microsoft, Apple and Linux.
 
 ### Thoughts:
 
-### Links to work / resourcs:
+After completing my School of Code application last week I had a few days off from coding / learing to refresh myself as I realised I'd been feeling quite anxious about the bootcamp application and it felt right to have a little break. Listening to these podcasts was a great was to ease myself back in and I'm feeling inspired to get down to some good coding over the coming weeks!
+
+### Links to work / resources:
+
+[OS Wars: Part 1](https://open.spotify.com/episode/1YyKEZ71i9af1hohHoNjYu?si=qA0vnm4WSquFe08gfCHJzg)
+
+[OS Wars: Part 2](https://open.spotify.com/episode/5cQ9coeieMnnnpUedANIqe?si=tJMikHFXS2udh3vOhIP98Q)
 
 ### Day 20
 
+_31st July_
+
 ### Today's progress:
+
+I followed a CodePen tutorial and made a CSS sheep! It was a really helpful exercise and I learnt about quite a few new things such as:
+
+- How to use clip-path to make shapes (and I used [Clippy](https://bennettfeely.com/clippy/) to help)
+
+- Using CSS variables
+
+- Using ::before and ::after selectors
+
+I also got to recap on a few things which I'd not done for a while:
+
+- The position property - specifically using absolute and relative
+
+- Positioning elements with %'s
 
 ### Thoughts:
 
-### Links to work / resourcs:
+I really enjoyed making this little sheep! As well as learing a few new things it opened my eyes to how many lines of code is needed just to make one small image with CSS!
+
+### Links to work / resources:
+
+[My CSS Sheep on CodePen](https://codepen.io/katiehawcutt/pen/jOWgOwR)
+
+![CSS sheep](./Assets/Images/CSS-sheep.PNG)
+
+### Day 21
+
+_2nd August_
+
+### Today's progress:
+
+I used what I learnt making my CSS sheep to add to my Beach Scene (in Codepen):
+
+- I added quite a few other elements including a kite, spade, shark-fin, starfish and shell and I used clip-path to make the shapes of these elements
+- I took the process I used to make the sheep fluff and used it to make the cloud (they are very similar!)
+- I used the ::before and ::after selectors quite a few times to cut down on div's
+- I got much better at positioning using % and px
+- I added some animation to the elements using @keyframes and the transform / trnaslate properties
+
+### Thoughts:
+
+I really enjoyed making this animated picture and it was great to implement lots of the things I'd learnt about making the CSS sheep into my own project. It's been a really useful few days getting into CSS again and going into detail with positioning and creating shapes.
+
+### Links to work / resources:
+
+[My Beach Scene on CodePen](https://codepen.io/katiehawcutt/pen/QWyYvGe)
+
+![Beach Scene](./Assets/Images/beach-scene-finished.PNG)
+
+### Day 22
+
+_3rd August_
+
+### Today's progress:
+
+- I started Wes Bos' JavaScript30 Course and made a drum-kit by following his first tutorial! I learnt about key events, playing audio and listening for the transition end event. I also used an attribute selector which I'd not done before. Then I custom styled it with a video background of a concert so I feel like a rock star when I'm playing it!
+
+- I talked through the code with Ben when I'd finished and explained to him what everything did. I find this helps to solidify my learning and makes sure that I really know what's going on in detail on each line of code, rather than just getting the gist of things.
+
+- I also looked into _this_ as I had to use it again today and wanted a refresher. I found the below very helpful:
+
+## What is this?
+
+The JavaScript _this_ keyword refers to the object it belongs to.
+
+It has different values depending on where it is used:
+
+    In a method, this refers to the owner object.
+
+    Alone, this refers to the global object.
+
+    In a function, this refers to the global object.
+
+    In a function, in strict mode, this is undefined.
+
+    In an event, this refers to the element that received the event.
+
+    Methods like call(), and apply() can refer this to any object.
+
+Handy tip: if you're not sure what 'this' is, just console log it!
+
+### Thoughts:
+
+I've made similar audio apps before so the ideas I used today weren't completely foreign to me but I definitely learnt some new things about events which was really helpful. In terms of technical understanding of the code and committing processes to memory I just find repetition so helpful so the more I can talk through the code / refactor / make more, the better!
+
+### Links to work / resources:
+
+My drumkit:
+
+![JS30 Drumkit](./Assets/Images/JS30-drumkit.PNG)
 
 ### Day
 
@@ -391,4 +489,12 @@ I really enjoyed working on this animation project and absolutely loved the crea
 
 ### Thoughts:
 
-### Links to work / resourcs:
+### Links to work / resources:
+
+### Day
+
+### Today's progress:
+
+### Thoughts:
+
+### Links to work / resources:
