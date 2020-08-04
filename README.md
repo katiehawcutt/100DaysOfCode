@@ -483,13 +483,21 @@ My drumkit:
 
 ![JS30 Drumkit](./Assets/Images/JS30-drumkit.PNG)
 
-### Day
+### Day 23
+
+_4th August_
 
 ### Today's progress:
 
+- I've started making a To-Do List App. I'm happy with the design and I've got it working but I want to refactor it tomorrow as I've got quite a bit of repetition in my code at the moment.
+
 ### Thoughts:
 
+I tried to make this to-do list app a little while ago when I first started coding. I followed a tutorial at the time and didn't really understand what I was doing. Now when I look at the code I understand it all which is great! I never finished the project properly and I'd left it in quite a basic state. I've now overhauled the whole design and made three lists instead of one which meant adding quite a bit of new code. I felt a bit frustrated at the end as I wanted to refactor it straight away but I'm really tired now so I'll tackle it tomorrow when I'm fresh!
+
 ### Links to work / resources:
+
+![to-do list](./Assets/Images/to-do-list.PNG)
 
 ### Day
 
