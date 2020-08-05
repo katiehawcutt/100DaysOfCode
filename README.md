@@ -499,6 +499,36 @@ I tried to make this to-do list app a little while ago when I first started codi
 
 ![to-do list](./Assets/Images/to-do-list.PNG)
 
+### Day 24
+
+_5th August_
+
+### Today's progress:
+
+- I made an analogue clock with the help of the next JavaScript30 tutorial. I really enjoyed combining CSS and JavaScript to make something really functional. I found it surprisingly simple and although I did have help with the JS (in the tutorial) I feel like I understand what everything is doing and like I could recreate it on my own. Also, all the CSS I've been doing over the past few weeks really helped me to design my clock quickly, efficiently and confidently.
+
+- I used the CSS property _transform-origin_ for the first time which was very exciting! I could have done with that the other day when I was making my beach scene! I want to try and make a sun with rays of light now I've learnt about that.
+
+- I started refactoring my To-Do List app but didn't get too far before I broke it! Struggled with it for a while and managed to reduce a few lines of code and get part of it working. But I'm a bit stuck now - I will ask Ben for a bit of help at some point.
+
+### Thoughts:
+
+I found the refactoring hard and I feel like I'm struggling to get my JavaScript to the next level. I know that I am able to do quite a few different things with JS and use methods / solve problems (for example, on Codewars I'm doing okay) but when it comes to pulling a real life app / project together I can't seems to connect all the dots. I know that with practice this will improve but I feel myself getting frustrated sometimes and like I'm having a complete blank! I'm happy I can get things working but I want my code to be as efficient and non-repetitive as possible. I'm choosing to see it as a good test of my mental robustness which I know I need to work on!
+
+### Links to work / resources:
+
+[Click here to see my clock in action!](https://codepen.io/katiehawcutt/pen/eYZYexw)
+
+![my clock](./Assets/Images/js30-clock.PNG)
+
+### Day
+
+### Today's progress:
+
+### Thoughts:
+
+### Links to work / resources:
+
 ### Day
 
 ### Today's progress:
