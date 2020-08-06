@@ -521,13 +521,35 @@ I found the refactoring hard and I feel like I'm struggling to get my JavaScript
 
 ![my clock](./Assets/Images/js30-clock.PNG)
 
-### Day
+### Day 25
+
+_6th August_
 
 ### Today's progress:
 
+I made a litte app in which you can adjust the border width, color and blur of a photo. I made it as part of [Wes Bos' JavaScript30](https://wesbos.com/) course to practice using CSS variables and then updating them with JavaScript.
+
+Things I learnt:
+
+- I used the HTML range input and color input for the first time.
+
+- I learnt that when you use `querySelector / querySelectorAll` it returns you a Node List which is very similar to an array except there are a lot less methods you can use on it. `forEach` _is_ one of the methods you can use on a Node List and I used this one today.
+
+- I learnt that there is an `EventListener` called 'change'.
+
+- I learnt that `document.documentElement` returns you the element which is the root element of the HTML document.
+
+- I learnt how to update a CSS variable with JavaScript.
+
 ### Thoughts:
 
+I really enjoyed this little project and learnt lots! I'm having a really positive week code-wise and feeling super motivated to learn everyday!
+
 ### Links to work / resources:
+
+[Click here to see my app which uses JavaScript to update CSS variables!](https://github.com/katiehawcutt/CSS-variables-project)
+
+![CSS variables & JS](./Assets/Images/CSSvariables.PNG)
 
 ### Day
 
