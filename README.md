@@ -551,6 +551,52 @@ I really enjoyed this little project and learnt lots! I'm having a really positi
 
 ![CSS variables & JS](./Assets/Images/CSSvariables.PNG)
 
+### Day 26
+
+_8th August_
+
+### Today's progress:
+
+- I refactored my To-Do-List app which I am so pleased about as although I was happy I'd got it working this week there was a lot of repetition in my code and the data wasn't stored in a very efficient way. With a little help from Ben, I did a big refactor and got 80 lines of JavaScript down to 47! I've changed the data structure so that the items are now stored in an array (rather than as HTML strings) and that allowed me to store and access the data more efficiently. I learnt a lot during the refactoring process including:
+
+  - Thinking about good ways to store data - in this case, an array of objects.
+
+  - Accessing data in an object using dot notation and using the index.
+
+  - Saving data to localStorage and using the setItem() and getItem() methods on localStorage.
+
+  - Using JSON.stringify() to save my array to localStorage (which only takes data in a string format) and JSON.parse() to get the data back out as an array.
+
+  - Practiced using the array methods forEach(), splice() and indexOf().
+
+  - How to stop a page refreshing on 'submit' when using the HTML form element.
+
+- I read a really good article about CSS positioning using %'s and what the %'s actually means ([What Does 100% Actually Mean In CSS?](https://wattenberger.com/blog/css-percents)). I've been getting into CSS more recently and using %'s but sometimes they haven't worked how I thought they would. This article clears it all up and is super helpful! This is the main thing to take away:
+
+![CSS %'s](./Assets/Images/CSS%-positioning.PNG)
+
+- I updated my GitHub repo README's so they contained a screenshot of my project before the little write-up. I think it really adds to be able to see a snapshot of each project and brings the README file to life a bit more!
+
+### Thoughts:
+
+I really enjoyed doing the refactor of my list app with Ben. It was so helpful to have some one to one help and I felt really positive about all the learning. I think grasping and understanding ideas about effective data structures will really help me going forward as I build new apps / projects.
+
+I found out last night that I've got through to the final stage of the SoC bootcamp appilation stages so I'm feeling really happy about that! Just a final interview left to go next week!
+
+### Links to work / resources:
+
+[View my To-Do-List App source code on GitHub](https://github.com/katiehawcutt/to-do-list-app)
+
+![To-Do-List app](./Assets/Images/to-do-list-app-finished.PNG)
+
+### Day
+
+### Today's progress:
+
+### Thoughts:
+
+### Links to work / resources:
+
 ### Day
 
 ### Today's progress:
