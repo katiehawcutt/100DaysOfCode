@@ -573,7 +573,7 @@ _8th August_
 
 - I read a really good article about CSS positioning using %'s and what the %'s actually means ([What Does 100% Actually Mean In CSS?](https://wattenberger.com/blog/css-percents)). I've been getting into CSS more recently and using %'s but sometimes they haven't worked how I thought they would. This article clears it all up and is super helpful! This is the main thing to take away:
 
-![CSS %'s](./Assets/Images/CSS%-positioning.PNG)
+![CSS-positioning-using-percentages](./Assets/Images/CSSpercentage-positioning.PNG)
 
 - I updated my GitHub repo README's so they contained a screenshot of my project before the little write-up. I think it really adds to be able to see a snapshot of each project and brings the README file to life a bit more!
 
