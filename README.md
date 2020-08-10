@@ -589,13 +589,43 @@ I found out last night that I've got through to the final stage of the SoC bootc
 
 ![To-Do-List app](./Assets/Images/to-do-list-app-finished.PNG)
 
-### Day
+### Day 27
+
+_9th August_
 
 ### Today's progress:
 
+- I listened to two podcasts from the Command Line Heroes series about the Agile revolution and DevOps. I really enjoyed learning a bit more about the history of development and operations and it's helped me to understand more about the role of DevOps in the current world of tech.
+
 ### Thoughts:
 
+I've got my School of Code Final Interview tomorrow so I'm looking forward to that (and a little bit nervous / excited as I've been working towards this for a while!).
+
 ### Links to work / resources:
+
+[The Agile Revolution (Command Line Heroes Podcast)](https://open.spotify.com/episode/5GaPzvIM5cSffaULtGP3nR?si=p3iB3ng1RB6wOgvAbyXnIw)
+
+[DevOps Tear Down That Wall (Command Line Heroes Podcast)](https://open.spotify.com/episode/7i4d7AYsSapMG6bDtVPY1y?si=7w5mV-qURHqSnETLiusS_w)
+
+### Day 28
+
+_10th August_
+
+### Today's progress:
+
+- I had my SoC final interview this morning!
+
+- This afternoon I worked through the next JavaScript30 Challenge which was called Array Cardio (Day 1). I used map(), filter(), sort(), reduce() and split() to complete some exercises. I worked out a couple almost by myself but needed to watch the tutorial for the rest of them. I'd not used sort() in the way I used it today before so that was interesting. We also did one exercise in the browser using querySelector to access the div with the information we wanted. We then turned that information from a Node List into an array using Array.from() which was new to me. So lots to take in!
+
+### Thoughts:
+
+I was feeling quite tired this afternoon ( it's very, very hot and I'd expended lots of energy building up to my interview this morning!) so I found the Array Cardio challenge this afternoon quite a slog - I kep losing concentration because I was tired! I'm pleased I powered through though (and drank lots of water!) as I learnt a lot from these exercises. I still find JavaScript overwhleming at times as there is a lot to learn and understand with all the maths. But I am getting there and I know the key to success is repetition so I am planning on trying to do at least one CodeWars kata everyday for the rest of this week to practice all these array methods and also practice some ES6 syntax such as arrow functions.
+
+### Links to work / resources:
+
+[Array Cardio Day 1](https://github.com/katiehawcutt/array-cardio)
+
+![Array Cardio Day 1](./Assets/Images/array-cardio-1.PNG)
 
 ### Day
 
