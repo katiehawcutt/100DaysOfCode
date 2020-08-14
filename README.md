@@ -627,6 +627,86 @@ I was feeling quite tired this afternoon ( it's very, very hot and I'd expended 
 
 ![Array Cardio Day 1](./Assets/Images/array-cardio-1.PNG)
 
+### Day 29
+
+_11th August_
+
+### Today's progress:
+
+- I spent a few hours working on some CodeWars challenges and tried to put into pratice some string methods, array methods and use what I learnt doing the JS30 Array Cardio yesterday.
+
+### Thoughts:
+
+I almost finished two more tricky kata but have got a bit stuck on the last hurdle so hoping to get some help finishing them this week. I made some good progress though and it was good to get back into some serious JavaScript!
+
+### Links to work / resources:
+
+Kata I worked on today:
+
+[Ordered Count Of Characters (7kyu)](https://www.codewars.com/kata/57a6633153ba33189e000074)
+
+[Sum Of Parts (6kyu)](https://www.codewars.com/kata/5ce399e0047a45001c853c2b)
+
+### Day 30
+
+_12th August_
+
+### Today's progress:
+
+- I'm all about the JavaScript this week so I continued working on some more CodeWars Kata. Did a few easier ones today including one called Keep Hydrated! (see below) which I thought was apt as it's sooo hot!
+
+### Thoughts:
+
+It feels good to be practising JavaScript everyday at the moment and I'm seeing good results. I'm getting much quicker at getting my head around the problem and coming up with the right steps to solve it. It's feeling more natural. I'm also getting much more confident using ES6 syntax which I'm really pleased about!
+
+### Links to work / resources:
+
+Keep Hydrated! Kata 8kyu:
+
+![Keep Hydrated!](./Assets/Images/KeepHydratedKata.PNG)
+
+### Day 31
+
+_13th August_
+
+### Today's progress:
+
+- I solved another CodeWars kata called Fake Binary. With some help from Ben I then refactored it using map() rather than forEach() and cut down the lines of code quite significantly! It was good to practice chaining array methods.
+
+- I completed the next JavaScript30 challenge and made a responsive image gallery. I used toggle for the first time!
+
+### Thoughts:
+
+I enjoyed my coding today and did a good mix of technical and creative work. As usual, I made the JS30 project my own and changed the background images, words and font.
+
+### Links to work / resources:
+
+Fake Binary Kata 8kyu:
+
+![Fake Binary](./Assets/Images/fakeBinary.PNG)
+
+[JS30 Responsive Image Gallery on GitHub](https://github.com/katiehawcutt/responsive-image-gallery)
+
+![JS30 Responsive Image Gallery](./Assets/Images/js30-image-gallery.PNG)
+
+### Day 31
+
+_14th August_
+
+### Today's progress:
+
+- Today I woke up and wanted to make something cute so I created a little, grumpy, white cat on CodePen! I enjoyed using some of the skills I've recently learned. These included using clip-path to make the ears and nose, using the transform-origin property to rotate the whiskers correctly and using ::before and ::after to make the eyes, mouth and feet. I then added some animation at the end to make the eyes move!
+
+### Thoughts:
+
+I really enjoyed a very relaxed coding session today and ended up doing it all morning. It was a simple idea but I'm really pleased at how neat I managed to get it and I think adding the animation at the end really brings it to life!
+
+### Links to work / resources:
+
+[Cat on CodePen](https://codepen.io/katiehawcutt/pen/qBZbwmw)
+
+![Cat](./Assets/Images/codepen-cat.PNG)
+
 ### Day
 
 ### Today's progress:
