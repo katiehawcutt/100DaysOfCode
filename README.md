@@ -689,7 +689,7 @@ Fake Binary Kata 8kyu:
 
 ![JS30 Responsive Image Gallery](./Assets/Images/js30-image-gallery.PNG)
 
-### Day 31
+### Day 32
 
 _14th August_
 
@@ -707,6 +707,56 @@ I really enjoyed a very relaxed coding session today and ended up doing it all m
 
 ![Cat](./Assets/Images/codepen-cat.PNG)
 
+### Day 33
+
+_20th August_
+
+### Today's progress:
+
+- I finished a CodeWars Kata that I had got a bit stuck on and used a Map object for the first time. I was having trouble getting the numbers to show in order of appearance as somewhere along the way they were getting put into numerical order. That is why I ended up using Map as the Map object holds key-value pairs and remembers the original insertion order of the keys.
+
+### Thoughts:
+
+I needed some help to finish this one off and luckily Ben was on hand to assist! I hadn't used the Map object before so I did some good learning about that.
+
+### Links to work / resources:
+
+[Ordered Count Of Characters 7kyu Kata](https://www.codewars.com/kata/57a6633153ba33189e000074)
+
+![Ordered Count Of Characters 7kyu Kata](./Assets/Images/orderedCountOfCharactersKata.PNG)
+
+### Day
+
+_25th August_
+
+### Today's progress:
+
+- I completed the next JavaScript30 Challenge which was called Type Ahead. It's a little feature which allows you to search a list of American cities / states for a specific word / group of letters. My main learning points were:
+
+  - fetch returns a promise
+  - a promise is then-able
+  - using the spread operator to put data into an const variable
+  - a regular expression is a pattern used to match character combinations in strings. As well as matching it can also perform "search-and-replace" functions
+  - a regular expression is also an object (RegExp)
+
+- I decided I wanted to learn more about RegExp's so I started the Regular Expressions section on freeCodeCamp and got two thirds of the way through. I used match() and learnt how to use modifiers, brackets, metacharacters and quantifiers to search for matches.
+
+### Thoughts:
+
+I'd already used fetch a couple of times before when making my quiz and a Kanye West quote generator. It was helpful to go over it again and it was nice that it felt like a familiar concept. The RegExp object was completey new to me so I decided to do a bit more learning around that afterwards to get to grips with it more.
+
+I felt very tired this afternoon and found it hard to focus and take things in. Hoping I'll have more energy tomorrow!
+
+### Links to work / resources:
+
+JavaScript30 Type Ahead Challenge:
+
+![Type Ahead](./Assets/Images/typeAheadjs30.PNG)
+
+freeCodeCamp Regular Expressions:
+
+![RegExp on FreeCodeCamp](./Assets/Images/RegExpFCC.PNG)
+
 ### Day
 
 ### Today's progress:
@@ -714,3 +764,5 @@ I really enjoyed a very relaxed coding session today and ended up doing it all m
 ### Thoughts:
 
 ### Links to work / resources:
+
+### Day
