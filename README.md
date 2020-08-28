@@ -725,7 +725,7 @@ I needed some help to finish this one off and luckily Ben was on hand to assist!
 
 ![Ordered Count Of Characters 7kyu Kata](./Assets/Images/orderedCountOfCharactersKata.PNG)
 
-### Day
+### Day 34
 
 _25th August_
 
@@ -757,6 +757,40 @@ freeCodeCamp Regular Expressions:
 
 ![RegExp on FreeCodeCamp](./Assets/Images/RegExpFCC.PNG)
 
+### Day 35
+
+_27th August_
+
+### Today's progress:
+
+- I finished off the Regular Expression section on freeCodeCamp.
+
+- I did some more array method practice with Javacript30's Array Cardio 2! I used some(), every(), find() and findIndex().
+
+### Thoughts:
+
+I enjoyed learning about RegExp and felt that I did grasp it by the end. It would be nice to practice using them some more as I feel like it's the kind of thing you need to be doing regularly to remember and get fluent with. The array cardio I did today was a bit easier than last time. I'd not used some() or every() before so it was good to learn those!
+
+### Links to work / resources:
+
+![Completed RegExp](./Assets/Images/completedRegExpFCC.PNG)
+
+### Day 36
+
+_28th August_
+
+### Today's progress:
+
+- I learnt about HTML5 `<canvas>` and made a little drawing app (part of the JavaScript30 challenge). I learnt that the `getContext()` method returns an object that provides methods & properties for drawing on the canvas. I'm planning to develop this more so that the user can change the color, thickness and style of the pen!
+
+### Thoughts:
+
+- I really enjoyed learning something totally new today - it's exciting to discover a new element in HTML! I definitly feel like I'm picking up and understanding JavaScript more quickly now which is great.
+
+### Links to work / resources:
+
+![HTML5 Canvas](./Assets/Images/HTML5-canvas.PNG)
+
 ### Day
 
 ### Today's progress:
@@ -764,5 +798,3 @@ freeCodeCamp Regular Expressions:
 ### Thoughts:
 
 ### Links to work / resources:
-
-### Day
