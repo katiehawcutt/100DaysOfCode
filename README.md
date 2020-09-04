@@ -42,7 +42,7 @@ _2nd July_
 ### Today's progress:
 
 - I practised some SQL using SQL Bolt which was a really good way to put some theory into practice. I got up to Lesson 10.
-- I completed a CodeWars ("Largest Pair Sum In An Array") using the array method sort(). I then refactored it to make it cleaner and more consise.
+- I completed a CodeWars ("Largest Pair Sum In An Array") using the array method `sort()`. I then refactored it to make it cleaner and more consise.
 
 ### Thoughts:
 
@@ -62,7 +62,7 @@ _3rd July_
 
 ### Today's progress:
 
-- I spent some time working on another CodeWars 7kyu Kata ("Sentences Should Start With Capital Letters"), using some string methods (split() and slice()) and array methods (forEach()) to complete it. I found this one harder than yesterday's challenge and needed a little help to complete it. I hadn't used split(". ") like this before so it was a really good learning point.
+- I spent some time working on another CodeWars 7kyu Kata ("Sentences Should Start With Capital Letters"), using some string methods (`split()` and `slice()`) and array methods (forEach()) to complete it. I found this one harder than yesterday's challenge and needed a little help to complete it. I hadn't used `split(". ")` like this before so it was a really good learning point.
 
 ### Thoughts:
 
@@ -126,7 +126,7 @@ _6th July_
 
 ### Today's progress:
 
-- Continued with Wes Bos' CSS Grid Course and learnt how to make a responsive website with grid without using any media queries! You use the minMax property instead - pretty cool!
+- Continued with Wes Bos' CSS Grid Course and learnt how to make a responsive website with grid without using any media queries! You use the `minMax` property instead - pretty cool!
 
 ### Thoughts:
 
@@ -209,28 +209,6 @@ As well as being exciting, it can be overwhelming thinking ahead as I am venturi
 [How To Get Into Product Management](https://medium.com/hackernoon/how-to-get-into-product-management-78c58bd9c8cf)
 
 [How To Succeed In A Project Manager Role In The Tech Industry](https://www.randstad.co.uk/career-advice/career-guidance/how-to-succeed-a-project-manager-role-tech-industry/)
-
-### Day 12
-
-_14th July_
-
-### Today's progress:
-
-- I spent all morning researching and learning about Agile Methodolody and the Scrum framework. I found the [Atlassian website](https://www.atlassian.com/agile) particuarly helpful along with their YouTube videos and I now feel like I have a much clearer understanding of agile priciples and agile project management frameworks.
-
-- I also read an article on [Mission, Strategy, Tactics and Vision](https://boz.com/articles/strategy-tactics). I learnt more about what each of them are and why they are important.
-
-### Thoughts:
-
-Having looked into lots of possible job roles yesterday, I realised that the one skill that ties a lot of them together is the ability to be able to work effectively in a team. This inspired me to look into agile methodology and the scrum framework as I know these are widely used approaches in the tech sector. (I'd also like to look into other frameworks such as Kanban and XP.) I felt inspired after my research / learning and it increased my desire to work in an environment like this and be part of such a well functioning team. Whatever line of work I go into, I know these skills and knowledge will be very useful. I can't wait to join a bootcamp and start learning / working as a team rather than as a solo learner!
-
-### Links to work / resources:
-
-[The Original Agile Manifesto](https://agilemanifesto.org/)
-
-[Atlassian Website](https://www.atlassian.com/agile)
-
-[Atlassian YouTube videos on What Is Scrum?](https://www.youtube.com/watch?v=dJNCHvqKljU&list=PLaD4FvsFdarT0B2yi9byhKWYX1YmrkrpC&index=10)
 
 ### Day 12
 
@@ -399,7 +377,7 @@ I followed a CodePen tutorial and made a CSS sheep! It was a really helpful exer
 
 - Using CSS variables
 
-- Using ::before and ::after selectors
+- Using `::before` and `::after` selectors
 
 I also got to recap on a few things which I'd not done for a while:
 
@@ -427,9 +405,9 @@ I used what I learnt making my CSS sheep to add to my Beach Scene (in Codepen):
 
 - I added quite a few other elements including a kite, spade, shark-fin, starfish and shell and I used clip-path to make the shapes of these elements
 - I took the process I used to make the sheep fluff and used it to make the cloud (they are very similar!)
-- I used the ::before and ::after selectors quite a few times to cut down on div's
+- I used the `::before` and `::after` selectors quite a few times to cut down on div's
 - I got much better at positioning using % and px
-- I added some animation to the elements using @keyframes and the transform / trnaslate properties
+- I added some animation to the elements using `@keyframes` and the transform / trnaslate properties
 
 ### Thoughts:
 
@@ -451,11 +429,11 @@ _3rd August_
 
 - I talked through the code with Ben when I'd finished and explained to him what everything did. I find this helps to solidify my learning and makes sure that I really know what's going on in detail on each line of code, rather than just getting the gist of things.
 
-- I also looked into _this_ as I had to use it again today and wanted a refresher. I found the below very helpful:
+- I also looked into `this` as I had to use it again today and wanted a refresher. I found the below very helpful:
 
 ## What is this?
 
-The JavaScript _this_ keyword refers to the object it belongs to.
+The JavaScript `this` keyword refers to the object it belongs to.
 
 It has different values depending on where it is used:
 
@@ -507,7 +485,7 @@ _5th August_
 
 - I made an analogue clock with the help of the next JavaScript30 tutorial. I really enjoyed combining CSS and JavaScript to make something really functional. I found it surprisingly simple and although I did have help with the JS (in the tutorial) I feel like I understand what everything is doing and like I could recreate it on my own. Also, all the CSS I've been doing over the past few weeks really helped me to design my clock quickly, efficiently and confidently.
 
-- I used the CSS property _transform-origin_ for the first time which was very exciting! I could have done with that the other day when I was making my beach scene! I want to try and make a sun with rays of light now I've learnt about that.
+- I used the CSS property `transform-origin` for the first time which was very exciting! I could have done with that the other day when I was making my beach scene! I want to try and make a sun with rays of light now I've learnt about that.
 
 - I started refactoring my To-Do List app but didn't get too far before I broke it! Struggled with it for a while and managed to reduce a few lines of code and get part of it working. But I'm a bit stuck now - I will ask Ben for a bit of help at some point.
 
@@ -531,7 +509,7 @@ I made a litte app in which you can adjust the border width, color and blur of a
 
 Things I learnt:
 
-- I used the HTML range input and color input for the first time.
+- I used the HTML `range` input and `color` input for the first time.
 
 - I learnt that when you use `querySelector / querySelectorAll` it returns you a Node List which is very similar to an array except there are a lot less methods you can use on it. `forEach` _is_ one of the methods you can use on a Node List and I used this one today.
 
@@ -563,11 +541,11 @@ _8th August_
 
   - Accessing data in an object using dot notation and using the index.
 
-  - Saving data to localStorage and using the setItem() and getItem() methods on localStorage.
+  - Saving data to `localStorage` and using the `setItem()` and `getItem()` methods on localStorage.
 
-  - Using JSON.stringify() to save my array to localStorage (which only takes data in a string format) and JSON.parse() to get the data back out as an array.
+  - Using `JSON.stringify()` to save my array to localStorage (which only takes data in a string format) and `JSON.parse()` to get the data back out as an array.
 
-  - Practiced using the array methods forEach(), splice() and indexOf().
+  - Practiced using the array methods `forEach()`, `splice()` and `indexOf()`.
 
   - How to stop a page refreshing on 'submit' when using the HTML form element.
 
@@ -615,11 +593,11 @@ _10th August_
 
 - I had my SoC final interview this morning!
 
-- This afternoon I worked through the next JavaScript30 Challenge which was called Array Cardio (Day 1). I used map(), filter(), sort(), reduce() and split() to complete some exercises. I worked out a couple almost by myself but needed to watch the tutorial for the rest of them. I'd not used sort() in the way I used it today before so that was interesting. We also did one exercise in the browser using querySelector to access the div with the information we wanted. We then turned that information from a Node List into an array using Array.from() which was new to me. So lots to take in!
+- This afternoon I worked through the next JavaScript30 Challenge which was called Array Cardio (Day 1). I used `map()`, `filter()`, `sort()`, `reduce()` and `split()` to complete some exercises. I worked out a couple almost by myself but needed to watch the tutorial for the rest of them. I'd not used `sort()` in the way I used it today before so that was interesting. We also did one exercise in the browser using querySelector to access the div with the information we wanted. We then turned that information from a Node List into an array using `Array.from()` which was new to me. So lots to take in!
 
 ### Thoughts:
 
-I was feeling quite tired this afternoon ( it's very, very hot and I'd expended lots of energy building up to my interview this morning!) so I found the Array Cardio challenge this afternoon quite a slog - I kep losing concentration because I was tired! I'm pleased I powered through though (and drank lots of water!) as I learnt a lot from these exercises. I still find JavaScript overwhleming at times as there is a lot to learn and understand with all the maths. But I am getting there and I know the key to success is repetition so I am planning on trying to do at least one CodeWars kata everyday for the rest of this week to practice all these array methods and also practice some ES6 syntax such as arrow functions.
+I was feeling quite tired this afternoon (it's very, very hot and I'd expended lots of energy building up to my interview this morning!) so I found the Array Cardio challenge this afternoon quite a slog - I kep losing concentration because I was tired! I'm pleased I powered through though (and drank lots of water!) as I learnt a lot from these exercises. I still find JavaScript overwhleming at times as there is a lot to learn and understand with all the maths. But I am getting there and I know the key to success is repetition so I am planning on trying to do at least one CodeWars kata everyday for the rest of this week to practice all these array methods and also practice some ES6 syntax such as arrow functions.
 
 ### Links to work / resources:
 
@@ -671,7 +649,7 @@ _13th August_
 
 ### Today's progress:
 
-- I solved another CodeWars kata called Fake Binary. With some help from Ben I then refactored it using map() rather than forEach() and cut down the lines of code quite significantly! It was good to practice chaining array methods.
+- I solved another CodeWars kata called Fake Binary. With some help from Ben I then refactored it using `map()` rather than `forEach()` and cut down the lines of code quite significantly! It was good to practice chaining array methods.
 
 - I completed the next JavaScript30 challenge and made a responsive image gallery. I used toggle for the first time!
 
@@ -695,7 +673,7 @@ _14th August_
 
 ### Today's progress:
 
-- Today I woke up and wanted to make something cute so I created a little, grumpy, white cat on CodePen! I enjoyed using some of the skills I've recently learned. These included using clip-path to make the ears and nose, using the transform-origin property to rotate the whiskers correctly and using ::before and ::after to make the eyes, mouth and feet. I then added some animation at the end to make the eyes move!
+- Today I woke up and wanted to make something cute so I created a little, grumpy, white cat on CodePen! I enjoyed using some of the skills I've recently learned. These included using `clip-path` to make the ears and nose, using the `transform-origin` property to rotate the whiskers correctly and using `::before` and `::after` to make the eyes, mouth and feet. I then added some animation at the end to make the eyes move!
 
 ### Thoughts:
 
@@ -713,7 +691,7 @@ _20th August_
 
 ### Today's progress:
 
-- I finished a CodeWars Kata that I had got a bit stuck on and used a Map object for the first time. I was having trouble getting the numbers to show in order of appearance as somewhere along the way they were getting put into numerical order. That is why I ended up using Map as the Map object holds key-value pairs and remembers the original insertion order of the keys.
+- I finished a CodeWars Kata that I had got a bit stuck on and used a `Map object` for the first time. I was having trouble getting the numbers to show in order of appearance as somewhere along the way they were getting put into numerical order. That is why I ended up using Map as the Map object holds key-value pairs and remembers the original insertion order of the keys.
 
 ### Thoughts:
 
@@ -733,17 +711,17 @@ _25th August_
 
 - I completed the next JavaScript30 Challenge which was called Type Ahead. It's a little feature which allows you to search a list of American cities / states for a specific word / group of letters. My main learning points were:
 
-  - fetch returns a promise
-  - a promise is then-able
+  - `fetch` returns a `promise`
+  - a `promise` is `then-able`
   - using the spread operator to put data into an const variable
   - a regular expression is a pattern used to match character combinations in strings. As well as matching it can also perform "search-and-replace" functions
   - a regular expression is also an object (RegExp)
 
-- I decided I wanted to learn more about RegExp's so I started the Regular Expressions section on freeCodeCamp and got two thirds of the way through. I used match() and learnt how to use modifiers, brackets, metacharacters and quantifiers to search for matches.
+- I decided I wanted to learn more about RegExp's so I started the Regular Expressions section on freeCodeCamp and got two thirds of the way through. I used `match()` and learnt how to use modifiers, brackets, metacharacters and quantifiers to search for matches.
 
 ### Thoughts:
 
-I'd already used fetch a couple of times before when making my quiz and a Kanye West quote generator. It was helpful to go over it again and it was nice that it felt like a familiar concept. The RegExp object was completey new to me so I decided to do a bit more learning around that afterwards to get to grips with it more.
+I'd already used `fetch` a couple of times before when making my quiz and a Kanye West quote generator. It was helpful to go over it again and it was nice that it felt like a familiar concept. The `RegExp` object was completey new to me so I decided to do a bit more learning around that afterwards to get to grips with it more.
 
 I felt very tired this afternoon and found it hard to focus and take things in. Hoping I'll have more energy tomorrow!
 
@@ -765,11 +743,11 @@ _27th August_
 
 - I finished off the Regular Expression section on freeCodeCamp.
 
-- I did some more array method practice with Javacript30's Array Cardio 2! I used some(), every(), find() and findIndex().
+- I did some more array method practice with Javacript30's Array Cardio 2! I used `some()`, `every()`, `find()` and `findIndex()`.
 
 ### Thoughts:
 
-I enjoyed learning about RegExp and felt that I did grasp it by the end. It would be nice to practice using them some more as I feel like it's the kind of thing you need to be doing regularly to remember and get fluent with. The array cardio I did today was a bit easier than last time. I'd not used some() or every() before so it was good to learn those!
+I enjoyed learning about RegExp and felt that I did grasp it by the end. It would be nice to practice using them some more as I feel like it's the kind of thing you need to be doing regularly to remember and get fluent with. The array cardio I did today was a bit easier than last time. I'd not used `some()` or `every()` before so it was good to learn those!
 
 ### Links to work / resources:
 
@@ -790,6 +768,81 @@ _28th August_
 ### Links to work / resources:
 
 ![HTML5 Canvas](./Assets/Images/HTML5-canvas.PNG)
+
+### Day 37
+
+_2nd September_
+
+### Today's progress:
+
+- I recapped on Markdown and completed a Markdown Tutorial / Course on Gibhub. New things I learnt were:
+
+  - How to write a reference link
+  - How to format a soft break within a paragraph
+
+I'm looking forward to using my Markdown skills to write my first blog post!
+
+### Thoughts:
+
+**I got into the School of Code and I can officially tell the world! Woohoo! I'm so excited and happy to be on the next bootcamp and I can't wait to get started!**
+
+After all the work I've put in over the last 6 months it feels so fantastic to have this opportunity to take my coding to the next level and to have the chance to make a career in tech a reality. I can't quite believe it and it's amazing to think where I'll be in 6 months time. I really looking forward to meeting lots of new people on the course, making new friends and getting stuck in to a new industry! Bring on 21st September 😀
+
+### Links to work / resources:
+
+[Markdown Tutorial](https://www.markdowntutorial.com/)
+
+### Day 38
+
+_3rd September_
+
+### Today's progress:
+
+- I recapped on HTML using the [Learn HTML course on Codecademy](https://www.codecademy.com/learn/learn-html). It was really to go back to basics again and solidify my knowledge. I found it particularly helpful going over the `<table>` and `<form>` elements again.
+
+- I also read quite a few interesting articles today which were on the suggested reading list from SoC. They included:
+
+  - [Stack Overflow 2020 Developer Survey](https://insights.stackoverflow.com/survey/2020#work-hours-worked-per-week-overall) - I found this a really interesting insight into the wider context around the programming landscape and community. It's great to learn more about the industry I'm moving into.
+
+  - [What is Pair Programming?](https://stackify.com/pair-programming-advantages/) - having been learning to code by myself this year I am so excited to work with actual other humans and do some pair programming on the bootcamp!
+
+  - [HTTP Requests](https://www.codecademy.com/articles/http-requests) - as I was learning about the HTML `<form>` element the subject of `POST` requests came up so I decided to do a bit of reading into HTTP requests. Although I've learnt about these before it was a great article which clearly explains how the web browser communicates with the internet.
+
+### Thoughts:
+
+I really enjoyed recapping on some HTML today and I feel very comfortable with this language now. It shows how far I've come in the last six months and fills me with confidence about what I can achieve in the next few!
+
+### Links to work / resources:
+
+![Learn HTML course progress](./Assets/Images/CodeAcademyHTML-1.PNG)
+
+### Day 39
+
+_4th September_
+
+### Today's progress:
+
+- I finished the Learn HTML Course on Codecademy and learnt about client side form validation and semantic HTML. I'd not done form validation before so I really enjoyed learning about that and it included a bit of RegExp which I learnt about last week so that was nice!
+
+- I practiced some more JavaScript and did a couple of CodeWars Kata (8kyu and 7kyu). Still get a buzz when I solve one! Also, I'm really enjoying refatoring my solutions in ES6 syntax and getting more comfortable with arrow functions now.
+
+### Thoughts:
+
+Feeling motivated at the moment to keep pushing forward with my learning so I can hit the ground running when the bootcamp starts. I'm enjoying feeling more confident with the languages I'm learning and it's motivating me to learn even more!
+
+### Links to work / resources:
+
+![Completed Learn HTML Course](./Assets/Images/finishedLearnHTML.PNG)
+
+![CodeWars 8kyu CanWeDivideIt Kata](./Assets/Images/8kyuKata-CanWeDivideIt.PNG)
+
+### Day
+
+### Today's progress:
+
+### Thoughts:
+
+### Links to work / resources:
 
 ### Day
 
