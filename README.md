@@ -800,6 +800,8 @@ _3rd September_
 
 - I recapped on HTML using the [Learn HTML course on Codecademy](https://www.codecademy.com/learn/learn-html). It was really to go back to basics again and solidify my knowledge. I found it particularly helpful going over the `<table>` and `<form>` elements again.
 
+- I refactored my SoC Avatar so it has the appropriate size hair (eg. very big) and I'm now really happy with it! I think it looks just like me 😀
+
 - I also read quite a few interesting articles today which were on the suggested reading list from SoC. They included:
 
   - [Stack Overflow 2020 Developer Survey](https://insights.stackoverflow.com/survey/2020#work-hours-worked-per-week-overall) - I found this a really interesting insight into the wider context around the programming landscape and community. It's great to learn more about the industry I'm moving into.
@@ -813,6 +815,8 @@ _3rd September_
 I really enjoyed recapping on some HTML today and I feel very comfortable with this language now. It shows how far I've come in the last six months and fills me with confidence about what I can achieve in the next few!
 
 ### Links to work / resources:
+
+![My SoC Avatar](./Assets/Images/SoC-avatar-final.PNG)
 
 ![Learn HTML course progress](./Assets/Images/CodeAcademyHTML-1.PNG)
 
