@@ -840,13 +840,43 @@ Feeling motivated at the moment to keep pushing forward with my learning so I ca
 
 ![CodeWars 8kyu CanWeDivideIt Kata](./Assets/Images/8kyuKata-CanWeDivideIt.PNG)
 
-### Day
+### Day 40
+
+_7th September_
 
 ### Today's progress:
 
+- I made a drawing app called Let's Draw! by building on the concepts I learnt in JS30 (CSS Variables and HTML5-Canvas). I'm using `<canvas>` to draw and you can adjust the size, style and colour of the brush. There is also a magical rainbow mode! 🌈 I'm really pleased with this and feel great that I've been able to bring together a few different concepts and make something cool.
+
+- I completed almost all of [CSS Diner](https://flukeout.github.io/) and praticed using CSS selectors. Getting better at this - I only got stuck on 19 and 24!
+
+- I started the [CodePen course on CSS](https://www.codecademy.com/learn/learn-css) and completed the first couple of modules. Although I feel quite comfortable with CSS now I still learnt some new things:
+
+  - Horizontal margins add
+  - Vertical margins collapse
+  - `margin: 0 auto;` horizontally centers an element inside of its parent content area, if it has a width.
+  - the `visibility` property can `hide` or `show` elements.
+  - Content box-model, border box-model and the `box-sizing` property.
+
+- Here's more on the `box-sizing`:
+
+  - The `box-sizing` property controls the box model used by the browser.
+  - The default value of the box-sizing property is `content-box`.
+  - In the default box model, box dimensions are affected by border thickness and padding.
+  - The value for the new box model is `border-box`.
+  - The `border-box` model is not affected by border thickness or padding. The height and width of the box will remain fixed. The border thickness and padding will be included inside of the box, which means the overall dimensions of the box do not change.
+
 ### Thoughts:
 
+I'm really pleased with my JavaScript progress and can feel myself getting more confident and familiar with concepts all the time. A few weeks ago I definitely would not have been able to put Let's Draw! together - the JS30 Course has been amazing at introducing me to different concepts and showing me how to build using javascript. 🙂
+
+Enjoying going over some CSS basics again - I'll finish the course tomorrow!
+
 ### Links to work / resources:
+
+![Let's Draw app](./Assets/Images/letsDrawApp1.PNG)
+
+![CSS course badges](./Assets/Images/codecademyCSS1.PNG)
 
 ### Day
 
