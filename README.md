@@ -878,6 +878,47 @@ Enjoying going over some CSS basics again - I'll finish the course tomorrow!
 
 ![CSS course badges](./Assets/Images/codecademyCSS1.PNG)
 
+### Day 41
+
+_8th July_
+
+### Today's progress:
+
+- Today is an exciting day as I deployed my first ever web app. Let's Draw! is live on the web! I spent some time today making it work for mobile and you can now save your image too! My main learning points were:
+
+  - Mobile event listeners - touchstart, touchend and touchmove.
+  - How to download a canvas image by using `canvas.toDataURL()`. This method returns a data URL containing a representation of the image in the format specified by the type parameter (defaults to PNG).
+  - How to add an icon to the browser tab
+  - `this` used in an arrow function refers to the whole window
+  - Made a Netlify account and deployed my website
+
+- I continued with the Codecademy CSS Course and have almost finished it. Recapped on a lot of CSS Grid stuff which was really useful and I also learnt some new things:
+
+  - The `word-spacing` property changes how far apart individual words are.
+  - The `letter-spacing` property changes how far apart individual letters are.
+  - The vertical spacing between lines of text can be modified with the `line-height` property.
+  - `Serif` fonts have extra details on the ends of each letter. `Sans-Serif` fonts do not.
+  - Fallback fonts are used when a certain font is not installed on a user’s computer.
+  - Local fonts can be added to a document with the `@font-face` property and the path to the font’s source.
+
+### Thoughts:
+
+I am super excited to have made something worthy of putting out in the real world and it was great to deploy my first ever website. I'm really proud of what I've achieved with Let's Draw! It's a relatively simple app but works well and is fun. Hoping I get some positive feedback from Twitter!
+
+### Links to work / resources:
+
+[Let's Draw!](https://letsdraw.netlify.app/)
+
+![Let's Draw](./Assets/Images/letsDrawApp2.PNG)
+
+### Day
+
+### Today's progress:
+
+### Thoughts:
+
+### Links to work / resources:
+
 ### Day
 
 ### Today's progress:
