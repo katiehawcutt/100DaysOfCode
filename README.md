@@ -911,6 +911,101 @@ I am super excited to have made something worthy of putting out in the real worl
 
 ![Let's Draw](./Assets/Images/letsDrawApp2.PNG)
 
+### Day 42
+
+_9th September_
+
+### Today's progress:
+
+- I finished the CSS Course on Codecademy. Today I learnt about CSS Transitions. CSS Transitions have 4 components:
+
+  - `transition-property` - a property that will transition.
+  - `transition-duration` - the duration which describes how long the transition takes.
+  - `transition-timing-function` - the timing function that describes the transition’s acceleration.
+  - `transition-delay` - the delay to pause before the transition will take place.
+  - These can be combined into the shorthand `transition`.
+  - You can use `all` as a value for `transition-property` and this means that every value that changes will be transitioned in the same way.
+
+- I completed another JS30 called Dev Tool Domination! I learnt a bit more about what you can do in the console including `console.table`, `console.error`, `console.warn`, `console.assert`, `console.info`, `console.clear`, `console.dir`, `console.group`, `console.count` and `console.time`.
+
+- Started the [JavaScript Course on Codeacedemy](https://www.codecademy.com/learn/introduction-to-javascript). Good to go back to basics. I want to try and finish this before the bootcamp starts.
+
+### Thoughts:
+
+Looking forward to our first pre-bootcamp session this evening and meeting everyone on SoC Bootcamp 4.0! Can't wait to work with other people and be in a group learning environment 🙂
+
+### Links to work / resources:
+
+![CSS Course on Codecademy finished!](./Assets/Images/completedCSScourse.PNG)
+
+![JS30 Dev Tools](./Assets/Images/JS30devTools.PNG)
+
+### Day 43
+
+_10th September_
+
+### Today's progress:
+
+- I finished a CSS Drawing I started yesterday of a cocktail glass. I'm really pleased with it and it didn't take me too long at all. I'm definitely getting quicker with my coding which is great! I used `@keyframes` to animate the bubbles. I think I could have done it more consisely with JavaScript so I may refactor it at some point.
+
+- I did some SoC homework which included:
+  - CSS Diner (again! - I only did it earlier in the week! 😂). This time I managed to complete all the levels! (last time I got stuck on 19 but did a bit of reading into `:nth-last-child` and was able to figure it out: [CSS Tricks article on :nth-last-child](https://css-tricks.com/almanac/selectors/n/nth-last-child/)).
+  - Watching three videos from Crash Course Computer Science (#28, #29 & #30) on Computer Networks, The Internet and The World Wide Web. I've seen them before but great to go over them again.
+
+### Thoughts:
+
+I really enjoyed making another CSS picture! I get a real buzz out of it and totally get in the zone. I enjoy designing things and making them look good.
+
+I think I will watch all of the [Crash Course Computer Science videos](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) as they are really good and will be a fanastic intro to CS as a whole.
+
+I enjoyed the SoC pre-bootcamp session last night. Can't wait to get started properly. Really pleased I have a good grasp of HTML, CSS and JS now as I think I'd find it very fast-paced and maybe a little overwhelming otherwise!
+
+### Links to work / resources:
+
+[Check out my cocktail on Codepen!](https://codepen.io/katiehawcutt/pen/bGpvNXN)
+
+![Cheers!](./Assets/Images/cheers.PNG)
+
+JS30 Dev Tools Challenge:
+
+![JS30 Dev Tools](./Assets/Images/JS30devTools.PNG)
+
+### Day 44
+
+_11th September_
+
+### Today's progress:
+
+- I continued with the JavaScript course on Codecademy which is proving very helpful. Today I covered Conditionals, Functions, Arrays, Scope and ES6 arrow functions.
+
+ES6 Arrow Functions:
+
+![Arrow Functions 1](./Assets/Images/ES6ArrowFunctions1.PNG)
+
+![Arrows Functions 2](./Assets/Images/ES6ArrowFunctions2.PNG)
+
+- I completed another JS30 in which I learnt how to check multiple checkboxes by holding down the shift key.
+
+- I completed a CodeWars 7kyu Kata which I felt really good about. I wrote pseudo code for it first and then made it happen with real code. Afterwards I refactored it and used arrow functions so it's very consise.
+
+### Thoughts:
+
+I achieved a lot today. Really getting in the flow of learning at the moment. There's a few things I want to finish before the bootcamp starts so that's spurring me on and I also want to get to 50 Days of Code before next weekend. So I will probaby code this weekend to make sure I get there!
+
+### Links to work / resources:
+
+Codecademy JavaScript course progress:
+
+![JS course progress](./Assets/Images/JScourseProgress1.PNG)
+
+JS30 Checkbox Challenge:
+
+![JS30 Checkboxes](./Assets/Images/JS30checkboxes.PNG)
+
+CodeWars 7kyu Kata: Testing 1-2-3:
+
+![Codewars Testing 123](./Assets/Images/Kata7kyuTesting123.PNG)
+
 ### Day
 
 ### Today's progress:
