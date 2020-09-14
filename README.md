@@ -1006,6 +1006,71 @@ CodeWars 7kyu Kata: Testing 1-2-3:
 
 ![Codewars Testing 123](./Assets/Images/Kata7kyuTesting123.PNG)
 
+### Day 45
+
+_12th September_
+
+### Today's progress:
+
+- I read a really useful article - [9 Habits I Wish I Had as a Junior Developer](https://www.freecodecamp.org/news/good-habits-for-junior-developers/) - which had some helpful advice about building healthy habits.
+
+- I completed another module of my JavaScript Course on Loops. It was really useful to go over for loops, while loops and do-while loops again as I haven't used them for a while. I found the questions a little more challenging which I enjoyed!
+
+### Thoughts:
+
+I've got a unique opportunity at the moment to get into some really positive habits as I've got a totally clean slate. I want to make sure I'm getting into good routines and habits, not unhealthy ones, as I embark on this new adventure and career in tech. It's very exciting to have such a fresh start and I feel in a great position, both physically and mentally, to shape a really healthy and positive new season.
+
+### Links to work / resources:
+
+### Day 46
+
+_13th September_
+
+### Today's progress:
+
+- I finished the Higher Order Functions and Iterators modules on my JavaScript Course.
+
+- I refactored my CSS Cocktail picture and used JavaScript to help animate it rather than just CSS. This enabled me to cut out over 100 lines of code. Very satisfying! 🙂 I used JS to set the `top` of each bubble animation to 105px, then evenly space the 10 bubbles along the length of the drink, and then used Math.random to generate different amount of `animation-delay` to each bubble so they all moved at different times:
+
+![Use of JS](./Assets/Images/CSScocktailRefactorJS.PNG)
+
+### Thoughts:
+
+Really enjoyed refactoring my CSS animation (with a little help from Ben!). It highlights the power of JavaScript and how it can make processes much easier and faster and your code more consise.
+
+### Links to work / resources:
+
+![Higher Order Functions & Iterator Modules complete](./Assets/Images/JScourseProgress2.PNG)
+
+![CSS Cocktail refactored](./Assets/Images/CSScocktailRefactored.PNG)
+
+### Day 47
+
+_14th September_
+
+### Today's progress:
+
+- I completed the Command Line game (Line Commander) as part of my SoC homework. I feel a lot more confident moving around the command line than I used to. I think using GitHub and regularly pushing work to it helps.
+
+- I completed the next module in my JavaScript course on Objects and learnt about a few more advanced concepts including:
+
+  - The `this` keyword which refers the calling object and can be used to access properties of the calling object. The value of `this` depends on where the `this` is being accessed from.
+  - We cannot use arrow functions as methods if we want to access other internal properties using `this`.
+  - Setter and getter methods allow for more detailed ways of accessing and assigning properties.
+  - Factory functions allow us to create object instances quickly and repeatedly.
+
+- I put my JavaScript into practice and solved another CodeWars 7kyu Kata called [Hungerian Vowel Harmony](https://www.codewars.com/kata/57fd696e26b06857eb0011e7!) I got a bit stuck for a few minutes but I'm really glad I persevered as I got there in the end! More great learning 😀
+
+### Thoughts:
+
+Really pleased with my work today and got a good buzz at the end from solving a kata! I feel like everything is sinking in at the moment and that I'm consolidating a lot of my learning which is very encourging.
+
+### Links to work / resources:
+
+![Line Commander complete!](./Assets/Images/lineCommander.PNG)
+
+![Kata 7kyu Hungarian Vowel Harmony](./Assets/Images/7kyuKataVowelHarmony.PNG)
+
 ### Day
 
 ### Today's progress:
