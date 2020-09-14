@@ -1002,7 +1002,7 @@ JS30 Checkbox Challenge:
 
 ![JS30 Checkboxes](./Assets/Images/JS30checkboxes.PNG)
 
-CodeWars 7kyu Kata: Testing 1-2-3:
+CodeWars 7kyu Kata - Testing 1-2-3:
 
 ![Codewars Testing 123](./Assets/Images/Kata7kyuTesting123.PNG)
 
@@ -1040,8 +1040,10 @@ Really enjoyed refactoring my CSS animation (with a little help from Ben!). It h
 
 ### Links to work / resources:
 
+Higher Order Functions & Iterator Modules complete:
 ![Higher Order Functions & Iterator Modules complete](./Assets/Images/JScourseProgress2.PNG)
 
+CSS Cocktail refactored using JavaScript to animate bubbles:
 ![CSS Cocktail refactored](./Assets/Images/CSScocktailRefactored.PNG)
 
 ### Day 47
@@ -1067,8 +1069,11 @@ Really pleased with my work today and got a good buzz at the end from solving a 
 
 ### Links to work / resources:
 
+Line Commander complete! ⬇️
+
 ![Line Commander complete!](./Assets/Images/lineCommander.PNG)
 
+Codewars 7kyu Kata - Hungarian Vowel Harmony:
 ![Kata 7kyu Hungarian Vowel Harmony](./Assets/Images/7kyuKataVowelHarmony.PNG)
 
 ### Day
