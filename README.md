@@ -1076,13 +1076,97 @@ Line Commander complete! ⬇️
 Codewars 7kyu Kata - Hungarian Vowel Harmony:
 ![Kata 7kyu Hungarian Vowel Harmony](./Assets/Images/7kyuKataVowelHarmony.PNG)
 
-### Day
+### Day 48
+
+_15th September_
 
 ### Today's progress:
 
+- I spent most of the day writing my first blog post about my journey from musician to School of Code bootcamper! I wrote it on Dev using Markdown. It's not published yet as SoC want drafts first, but we'll be publishing them soon!
+
+- I watched more Crash Course Computer Science videos and refreshed on some basic Computer Science principles such as boolean logic and logic gates and learnt about ALU and RAM.
+
 ### Thoughts:
 
+It was nice to write a blog post and reflect on my journey so far. It makes me realise how far I've come over these past few months (and I'm excited about how much further I will go as I am about to embark on the bootcamp)!
+
+Love the Crash Course Computer Science videos - I always learn so much from them and they are so fun with great graphics!
+
 ### Links to work / resources:
+
+[Crash Course Computer Science videos on YouTube](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye&ab_channel=CrashCourse)
+
+### Day 49
+
+_16th September_
+
+### Today's progress:
+
+- I continued with the Codecademy JavaScript course and learnt about JavaScript Classes. I'd never heard of them or used them before so it was really useful! Here are my main learning points:
+
+  - Classes are templates for objects.
+  - Javascript calls a constructor method when we create a new instance of a class.
+  - Inheritance is when we create a parent class with properties and methods that we can extend to child classes.
+  - We use the extends keyword to create a subclass.
+  - The super keyword calls the constructor() of a parent class.
+  - Static methods are called on the class, but not on instances of the class.
+
+- I then did another module on Browser Compatibility & Transpilation and used Babel for the first time to convert ES5 code into ES6 code.
+
+  - Babel is a JavaScript package that transpiles JavaScript ES6+ code to ES5.
+  - caniuse.com — a website you can use to look up HTML, CSS, and JavaScript browser compatibility information.
+
+### Thoughts:
+
+Really enjoyed learning brand new content on my JavaScript course today. I'm finding it easier to understand and remember new information now that I have a broader understand of programming and syntax. It's like my brain knows where to file the new information!
+
+We had a final pre-bootcamp session tonight and went over Git and Github which was a useful refresher. I enjoyed working with another person again and helping someone else really helps to consolidte my own learning.
+
+### Links to work / resources:
+
+![JS Modules completed](./Assets/Images/CodecademyJSmodules.PNG)
+
+['How to use Babel' document I made](https://docs.google.com/document/d/1GpxPjWSaRwdItfeffks2MflTHcNcYYY7vNkZ45skvG8/edit)
+
+### Day 50
+
+_17th September_
+
+### Today's progress:
+
+Today I started making myself a webpage using just HTML and CSS as part of my SoC pre-bootcamp homework. I spent quite a while working on the design and I'm really happy with it so far. Excited to continue working on it tomorrow and hopefully get it finished!
+
+### Thoughts:
+
+Tomorrow I want to refresh myself on CSS Grid some I can make a little photo gallery.
+
+### Links to work / resources:
+
+Nothing to show yet...the grand reveal will be tomorrow!
+
+### Day 51
+
+_18th September_
+
+### Today's progress:
+
+Continued working on my webpage:
+
+- Added a photo gallery using CSS Grid and I'm pleased that I managed to make it reponsive without using any media queries. Love the power of CSS grid!
+
+- Added content to the 'about' section.
+
+- Finished off my webpage, made it work well on mobile (used a couple of media queires for H1 and H2's but that's it!). Then I hosted it on Netlify so it's now live!
+
+### Thoughts:
+
+- I've loved designing and making this simple but effective webpage over the past two days. I have been so in the flow that time has passed super quickly! I'm really pleased with the outcome and it shows how much you can achieve with just HTML and CSS. Maybe at some point I'll add a few extra features using JavaScript.
+
+### Links to work / resources:
+
+![Hi, I'm Katie webpage](./Assets/Images/myWebpage.PNG)
+
+[Link to my page!](https://helloimkatie.netlify.app/)
 
 ### Day
 
