@@ -1124,7 +1124,7 @@ We had a final pre-bootcamp session tonight and went over Git and Github which w
 
 ### Links to work / resources:
 
-![JS Modules completed](./Assets/Images/CodecademyJSmodules.PNG)
+![JS Modules completed](./Assets/Images/CodecademyJSclasses.PNG)
 
 ['How to use Babel' document I made](https://docs.google.com/document/d/1GpxPjWSaRwdItfeffks2MflTHcNcYYY7vNkZ45skvG8/edit)
 
@@ -1167,6 +1167,43 @@ Continued working on my webpage:
 ![Hi, I'm Katie webpage](./Assets/Images/myWebpage.PNG)
 
 [Link to my page!](https://helloimkatie.netlify.app/)
+
+### Day 52
+
+_20th July_
+
+### Today's progress:
+
+- I completed another section of my JavaScript course on Modules. This was totally new to me and I was struggling a bit to put it in conext but apparently it's what I'm going to be doing when I start using React so it's good practice for then! Here's what I learnt:
+
+  - Modules in Node.js are reusable pieces of code that can be exported from one program and imported for use in another program.
+  - `module.exports` exports the module for use in another program.
+  - `require()` imports the module for use in the current program.
+
+  ES6 introduced a more flexible, easier syntax to export modules:
+
+  - default exports: use `export default` to export JavaScript objects, functions, and primitive data types.
+  - named exports: use the `export` keyword to export data in variables.
+  - named exports can be aliased with the `as` keyword.
+  - `import` is a keyword that imports any object, function, or data type.
+
+- I improved the accessibility of my webpage by adding semantic HTML tags such as `<header>`, `<footer>`, `<nav>`, `<main>` and `<section>`. I also added `<alt>` tags to all of my photos.
+
+### Thoughts:
+
+I really wanted to finish my JavaScript course before starting the bootcamp tomorrow but I've still got a few modules to go and don't want to rush through them so I will finish it off in my evenings this week or next weekend. Can't believe the bootcamp starts tomorrow! Nervous and excited! 😀
+
+### Links to work / resources:
+
+![Codecademy JS Modules module completed](./Assets/Images/CodecademyJSmodules.PNG)
+
+### Day
+
+### Today's progress:
+
+### Thoughts:
+
+### Links to work / resources:
 
 ### Day
 
