@@ -1189,6 +1189,8 @@ _20th July_
 
 - I improved the accessibility of my webpage by adding semantic HTML tags such as `<header>`, `<footer>`, `<nav>`, `<main>` and `<section>`. I also added `<alt>` tags to all of my photos.
 
+- I read an article on [Transport Layer Security Encryption (TLS)](https://www.freecodecamp.org/news/what-is-tls-transport-layer-security-encryption-explained-in-plain-english/) and learnt the basics of what it is and how it works.
+
 ### Thoughts:
 
 I really wanted to finish my JavaScript course before starting the bootcamp tomorrow but I've still got a few modules to go and don't want to rush through them so I will finish it off in my evenings this week or next weekend. Can't believe the bootcamp starts tomorrow! Nervous and excited! 😀
