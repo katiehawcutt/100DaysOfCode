@@ -1199,6 +1199,24 @@ I really wanted to finish my JavaScript course before starting the bootcamp tomo
 
 ![Codecademy JS Modules module completed](./Assets/Images/CodecademyJSmodules.PNG)
 
+### Day 53
+
+_21st September_
+
+### Today's progress:
+
+- First day of the SoC Bootcamp! We went over javascript fundamentals including operators, variables & types, logic flow, loops and functions.
+
+### Thoughts:
+
+I really enjoyed working in pairs / teams. It's quite different to working alone and I need to get used to it. But it's totally great! Although there was nothing that was new to me today I thoroughly enjoyed going over the basics again and it really helped to reaffirm the fundamentals. I'm exhausted now though! 😅
+
+### Links to work / resources:
+
+Here's a little password checker we made using JS:
+
+![SoC JS Day 1](./Assets/Images/passwordProtected.PNG)
+
 ### Day
 
 ### Today's progress:
