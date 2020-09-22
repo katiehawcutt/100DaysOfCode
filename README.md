@@ -1205,7 +1205,13 @@ _21st September_
 
 ### Today's progress:
 
-- First day of the SoC Bootcamp! We went over javascript fundamentals including operators, variables & types, logic flow, loops and functions.
+- First day of the SoC Bootcamp! We went over javascript fundamentals. My main learning points were:
+  - Algorithms are processes / rules / a set of steps followed to acheieve an output.
+  - The 5 pillars of programming are operators, variables & types, logic flow, loops and functions.
+  - Types are number, string, boolean, undefined, null, bigint, symbol, object and function.
+  - while loops are useful when we're are working with an undetermined number (eg. something === true)
+  - for loops are useful when we're working with a determined number (eg. arr.length)
+  - a function is a reusable block of code that groups together a sequence of statements to perform a specific task
 
 ### Thoughts:
 
@@ -1216,6 +1222,53 @@ I really enjoyed working in pairs / teams. It's quite different to working alone
 Here's a little password checker we made using JS:
 
 ![SoC JS Day 1](./Assets/Images/passwordProtected.PNG)
+
+### Day 54
+
+_22nd September_
+
+### Today's progress:
+
+- Day 2 of of MOB (Massive Online Bootcamp). Today we learnt about objects and arrays. My main learning points were:
+
+  - Objects are made up of key-value pairs
+  - We can access properties and values in an object using dot or bracket notation
+  - Objects and functions are NOT primitive types which means they are mutable. Primitive types are immutable.
+  - Two empty objects are not the same. Every time we create a new object it is distinct.
+  - Arrays are JavaScripts way of making lists - they are ordered. We can access their contents using the index.
+  - The reason we can use a function on a string (eg. `"string".toUpperCase()`) is because of **Primitive Wrapping** - this is where the string (or other primitive type) is wrapped in a helper object so that we can perform functions on it.
+  - When we sepreate our HTML, CSS and JavaScript into different file this is called _seperation of concerns_.
+  - we can use `Object.is()` to compare different types and see if they are the same. It will return true or false.
+  - different case types
+  - brief intro to object destructuring (want to practice doing this more)
+
+- After SoC I did some extra learning on asynchronus JavaScript and promises on my Codecademy course. (I still want to keep pushing myself as the last two days have mostly been re-cap!) I found them quite tricky to get my head around although I have used them before so I know I can do it! Here's a long list of what I learnt:
+
+  - Promises are JavaScript objects that represent the eventual result of an asynchronous operation.
+  - Promises can be in one of three states: pending, resolved, or rejected.
+  - A promise is settled if it is either resolved or rejected.
+  - We construct a promise by using the new keyword and passing an executor function to the Promise constructor method.
+  - `setTimeout()` is a Node function which delays the execution of a callback function using the event-loop.
+  - We use `.then()` with a success handler callback containing the logic for what should happen if a promise resolves.
+  - We use `.catch()` with a failure handler callback containing the logic for what should happen if a promise rejects.
+  - Promise composition enables us to write complex, asynchronous code that’s still readable. We do this by chaining multiple `.then()`‘s and `.catch()`‘s.
+  - To use promise composition correctly, we have to remember to return promises constructed within a `.then()`.
+  - We should chain multiple promises rather than nesting them.
+  - To take advantage of concurrency, we can use `Promise.all()`.
+
+### Thoughts:
+
+Another big day of learning and concentrating but I'm getting into the swing of the bootcamp now! I enjoyed today's tasks and working with Max on our Objects and Array Challenges. I found it quite hard to concentrate once I got to my evening learning (already had a long day!) but wanted to push through this time and pleased I did. I'm learning that with small but regular learning steps you can go a long way in the course of a week or month!
+
+### Links to work / resources:
+
+Case types:
+
+![Case types](./Assets/Images/caseTypes.PNG)
+
+Intro to destructuring:
+
+![Intro to destructuring](./Assets/Images/objectDestructuring.jpg)
 
 ### Day
 
