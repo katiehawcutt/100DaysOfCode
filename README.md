@@ -1205,7 +1205,9 @@ _21st September_
 
 ### Today's progress:
 
-- First day of the SoC Bootcamp! We went over javascript fundamentals. My main learning points were:
+#### First day of the SoC Bootcamp!
+
+- We went over javascript fundamentals. My main learning points were:
   - Algorithms are processes / rules / a set of steps followed to acheieve an output.
   - The 5 pillars of programming are operators, variables & types, logic flow, loops and functions.
   - Types are number, string, boolean, undefined, null, bigint, symbol, object and function.
@@ -1229,18 +1231,20 @@ _22nd September_
 
 ### Today's progress:
 
-- Day 2 of of MOB (Massive Online Bootcamp). Today we learnt about objects and arrays. My main learning points were:
+#### Day 2 of of the MOB (Massive Online Bootcamp)
+
+- Today we learnt about objects and arrays. My main learning points were:
 
   - Objects are made up of key-value pairs
   - We can access properties and values in an object using dot or bracket notation
   - Objects and functions are NOT primitive types which means they are mutable. Primitive types are immutable.
   - Two empty objects are not the same. Every time we create a new object it is distinct.
-  - Arrays are JavaScripts way of making lists - they are ordered. We can access their contents using the index.
+  - Arrays are JavaScript's way of making lists - they are ordered. We can access their contents using the index.
   - The reason we can use a function on a string (eg. `"string".toUpperCase()`) is because of **Primitive Wrapping** - this is where the string (or other primitive type) is wrapped in a helper object so that we can perform functions on it.
-  - When we sepreate our HTML, CSS and JavaScript into different file this is called _seperation of concerns_.
-  - we can use `Object.is()` to compare different types and see if they are the same. It will return true or false.
-  - different case types
-  - brief intro to object destructuring (want to practice doing this more)
+  - When we separate our HTML, CSS and JavaScript into different file this is called _separation of concerns_.
+  - We can use `Object.is()` to compare different types and see if they are the same. It will return true or false.
+  - Different case types
+  - Brief intro to object destructuring (want to practice doing this more)
 
 - After SoC I did some extra learning on asynchronus JavaScript and promises on my Codecademy course. (I still want to keep pushing myself as the last two days have mostly been re-cap!) I found them quite tricky to get my head around although I have used them before so I know I can do it! Here's a long list of what I learnt:
 
@@ -1270,13 +1274,43 @@ Intro to destructuring:
 
 ![Intro to destructuring](./Assets/Images/objectDestructuring.jpg)
 
-### Day
+### Day 55
+
+_23rd September_
 
 ### Today's progress:
 
+#### Day 3 of the MOB
+
+- This morning we learnt about pair-programming and how it's really important to be able to work together. Teamwork is an essential skill to have in the workplace and without it you won't get hired! We can think of pair-programming with a driver / navigator analogy. Both are contributing but the drivers main role is to sit at the steering wheel and practically drive the car (eg. sit at the keyboard and do the typing), while the navigators main role is to give directions and lead the way with the route (eg. say out loud what we should be coding and and directing the next steps). Obviously both are looking out for hazards or a faster route (eg. bugs/errors or more effective solutions) so either person will speak up if they need to. Swap around roles every five minutes.
+
+- We also learnt how to go about problem solving and that we should always write pseudo code and break the problem down into little steps until you are able to find a solution. We practiced our problem solving skills with some CodeWars challenges.
+
+- In the afternoon we learnt about the DOM (Document Object Model) and how we can use it to create dynamic and interactive web pages. We can access anything on the HTML page using `document.querySelector()` and then select the element using any CSS selectors. We practiced using these new skills with some DOM practice tasks.
+
+- After Soc I finished another module of my Codecademy JavaScript course on Async...Await. Here's what I learnt:
+
+  - `async...await` is syntactic sugar built on native JavaScript promises and generators.
+  - We declare an `async` function with the keyword `async`.
+  - Inside an `async` function we use the `await` operator to pause execution of our function until an asynchronous action completes and the awaited promise is no longer pending .
+  - `await` returns the resolved value of the awaited promise.
+  - We can write multiple await statements to produce code that reads like synchronous code.
+  - We use `try...catch `statements within our async functions for error handling.
+  - We should still take advantage of concurrency by writing `async` functions that allow asynchronous actions to happen in concurrently whenever possible.
+
 ### Thoughts:
 
+I enjoyed doing some good pair programming today and I'm getting used to working with another person! I found the Codewars Kata really helpful and always get a good buzz out of completing those! I also really enjoyed working through the DOM practice exercises this afternoon. I found a couple of them quite challenging but we persevered and managed to complete them without asking for help which was great!
+
+Feeling rather tired today so need to make sure I'm getting enough 'switch off' time and working in a sustainable manner.
+
 ### Links to work / resources:
+
+Some of the DOM tasks we worked through:
+![SoC DOM Practice](./Assets/Images/socDOMpractice.PNG)
+
+Async...Await module complete on Codecademy:
+![Async...Await module complete](./Assets/Images/CodecademyAsyncAwait.PNG)
 
 ### Day
 
