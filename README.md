@@ -1312,6 +1312,50 @@ Some of the DOM tasks we worked through:
 Async...Await module complete on Codecademy:
 ![Async...Await module complete](./Assets/Images/CodecademyAsyncAwait.PNG)
 
+### Day 56
+
+_25th Septemer_
+
+### Today's progress:
+
+#### Day 4 of the MOB
+
+- Today on the bootcamp we learnt about JavaScript Events and event listeners. We went over the difference between invoking a function and handing a reference to a function. When we use `addEventListener()` the first argument handed to it is the event (eg. `"click"`) and the second argument is a reference to a function (or an inline function).
+
+- I learnt about event bubbling, capturing and propagation. To put it simply, when an event happens on an element, it first runs the handlers on it (the target), then on its parent, then all the way up on other ancestors. Sometimes we don't want this to happen and we can stop it using `event.stopPropagation()` which prevents the event from bubbling up.
+
+- In the afternoon we put all our knowledge about the DOM together and made a To-Do List. During this process I learnt how to toggle between adding and removing a `className` from an element with JavaScript. I also practiced accessing properties on the events which I had not done very much of before (eg. e.shiftKey === true) so that was really helpful.
+
+- We also had a talk on Growth Mindset which was interesting. SoC is not just about learning to code - it's going to change our lives! And to make the most of it we need to have a growth mindset rather than a fixed mindset. See the pictures below (in today's resources) of my favourite / importants points.
+
+### Thoughts:
+
+I really enjoyd all the tasks today (they were fun and engaging!) and I feel my understanding of Javacript really growing. I've been able to make things work previously but I haven't always totally understood why or the details about what is really happening under the hood. But now I am starting too which is fab! I'm also getting really good a googling!
+
+### Links to work / resources:
+
+Some work we did on JavaScript Events:
+
+![SoC Day4 Events work 1](./Assets/Images/socDay4events1.PNG)
+
+![SoC Day4 Events work 2](./Assets/Images/socDay4events2.PNG)
+
+Growth Mindset:
+
+![Growth Mindset](./Assets/Images/growthMindset.PNG)
+
+![Comfort Zone](./Assets/Images/comfortZone.PNG)
+
+![Learning types](./Assets/Images/learningTypes.PNG)
+
+### Day
+
+### Today's progress:
+
+### Thoughts:
+
+### Links to work / resources:
+
 ### Day
 
 ### Today's progress:
