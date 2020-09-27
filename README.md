@@ -1381,13 +1381,21 @@ A while loop that we used today when making Rock, Paper, Scissors:
 
 ![while loop](./Assets/Images/whileLoopRockPaperScissors.PNG)
 
-### Day
+### Day 58
+
+_27th September_
 
 ### Today's progress:
 
+- I refactored my Rock, Paper, Scissors game so that all the interactions are through HTML elements and using the DOM rather than `prompt()`, `alert()` and `confirm()`. I made this game a while ago before the SoC Bootcamp but after Friday's hackathon I was inspired to make it better! I also seperated the CSS out into it's own file and refactored the styling to use flexbox rather than grid.
+
 ### Thoughts:
 
+I wasn't planning to do much today but then I got carried away! I have loved working in pairs this week but it's also nice to be able to work on something in my own time again and at my own pace. I'm really pleased with the outcome and I was able to refactor the JavaScript without any help. It's definitely consolidated my learning from the bootcamp this week!
+
 ### Links to work / resources:
+
+![Refactored Rock, Paper, Scissors game](./Assets/Images/rockPaperScissorsRefactor.PNG)
 
 ### Day
 
