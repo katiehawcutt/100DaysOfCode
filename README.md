@@ -1330,7 +1330,7 @@ _25th Septemer_
 
 ### Thoughts:
 
-I really enjoyd all the tasks today (they were fun and engaging!) and I feel my understanding of Javacript really growing. I've been able to make things work previously but I haven't always totally understood why or the details about what is really happening under the hood. But now I am starting too which is fab! I'm also getting really good a googling!
+I really enjoyed all the tasks today (they were fun and engaging!) and I feel my understanding of Javacript really growing. I've been able to make things work previously but I haven't always totally understood why or the details about what is really happening under the hood. But now I am starting too which is fab! I'm also getting really good a googling!
 
 ### Links to work / resources:
 
@@ -1347,6 +1347,39 @@ Growth Mindset:
 ![Comfort Zone](./Assets/Images/comfortZone.PNG)
 
 ![Learning types](./Assets/Images/learningTypes.PNG)
+
+### Day 57
+
+_26th September_
+
+##### Day 5 of the MOB
+
+### Today's progress:
+
+- Today on the SoC Bootcamp we had our first hackathon and the task was to make a Rock, Paper, Scissors game. We started off using `prompt()`, `alert()` and `confirm()` to play the game and then started on refactoring it so that all interactions were through HTML elements using the DOM.
+
+- I also did another module of my Codecademy JavaScript course and learnt about `GET` and `POST` requests. Here are my main learning points:
+
+  - JavaScript is the language of the web because of its asynchronous capabilities. AJAX, which stands for Asynchronous JavaScript and XML, is a set of tools that are used together to take advantage of JavaScript’s asynchronous capabilities.
+  - There are many HTTP request methods, two of which are GET and POST.
+  - GET requests only request information from other sources.
+  - POST methods can introduce new information to other sources in addition to requesting it.
+  - GET requests can be written using an XMLHttpRequest object and vanilla JavaScript.
+  - POST requests can also be written using an XMLHttpRequest object and vanilla JavaScript.
+  - Writing GET and POST requests with XHR objects and vanilla JavaScript requires constructing the XHR object using new, setting the responseType, creating a function that will handle the response object, and opening and sending the request.
+  - To add a query string to a URL endpoint you can use ? and include a parameter.
+  - To provide additional parameters, use & and then include a key-value pair, joined by =.
+  - Determining how to correctly write the requests and how to properly implement them requires carefully reading the documentation of the API with which you’re working.
+
+### Thoughts:
+
+I struggled with the hackathon a bit today because we didn't totally stick to the instructions the first time we made the game (which was totally my fault) and went a bit off track. We made a game that worked but it wasn't in the way required so we decided to refactor it and got it working the correct way. However, this meant that we didn't get a far as I'd hoped and didn't managed to implement using the DOM at all. I found this frustrating as I wanted to have got further and have a better end point to show. However, with reflection, I realise that throughout this task I was functioning more with a fixed mindset rather than a growth one. I was more interested in the destination rather than the journey when in reality, the journey is where all the learning happens. We actually learnt a lot from refactoring - more than if we'd ploughed on with our own ideas. It was a big learning curve. I felt frustrated at the time but I know I need to move and turn it into a positive learning point. Which I will! My main learning points being - 1) read instructions and don't think you know better 2) try to cultivate a growth mindset by putting less pressure on myself to achieve and enjoy the learning journey - see mistakes as an opportunity to learn rather than a failure.
+
+### Links to work / resources:
+
+A while loop that we used today when making Rock, Paper, Scissors:
+
+![while loop](./Assets/Images/whileLoopRockPaperScissors.PNG)
 
 ### Day
 
