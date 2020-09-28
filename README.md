@@ -1397,6 +1397,50 @@ I wasn't planning to do much today but then I got carried away! I have loved wor
 
 ![Refactored Rock, Paper, Scissors game](./Assets/Images/rockPaperScissorsRefactor.PNG)
 
+### Day 59
+
+_28th September_
+
+##### Day 6 of the MOB
+
+### Today's progress:
+
+- This morning we completed some individual coding tasks, recapping all the basic JavaScript we learnt last week. I found this a really helpful way to consolidate all my SoC learning to date.
+
+- This afternoon we went into Advanced JavaScript Functions and I learnt:
+  - how to use default parameter syntax (you can set defaults for where there are missing arguments)
+  - how to use fat arrow functions (which have an implicit return)
+  - what type coercion is and when to watch out for it
+  - that function composition is when you take a function that already exists and compose some new functionality from it
+  - what an immediately invoked function expression (IIFE) is and when it might be used
+  - that when a function is on an object, it's called a method
+  - what callback functions are and how to use them
+  - how to use destructured parameters to make code more concise and easier to read
+  - that using a spread operator and rest parameter is easier than I thought!
+
+### Thoughts:
+
+I was really happy with the recap task this morning and the fact that I could complete all the problems without any help boosted my confidence. I'm pleased I've got the basics down as wow! - lots covered this afternoon on advanced javascript! This stuff is less familiar to me and I'm loving having something to get my teeth into. Really enjoying wrestling with some problems and overcoming them. Feeling more refreshed than I thought after a weekend off so that's good. Just got to remember to pace myself this week now!
+
+### Links to work / resources:
+
+Function composition practice:
+![Composition Practice](./Assets/Images/compositionPractice.PNG)
+
+Using callback functions:
+![Callback functions](./Assets/Images/callbackFunctionPractice.PNG)
+
+Object destructuring:
+![Object destructuring](./Assets/Images/objectDestructuringPractice.PNG)
+
+### Day
+
+### Today's progress:
+
+### Thoughts:
+
+### Links to work / resources:
+
 ### Day
 
 ### Today's progress:
