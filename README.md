@@ -1433,13 +1433,40 @@ Using callback functions:
 Object destructuring:
 ![Object destructuring](./Assets/Images/objectDestructuringPractice.PNG)
 
-### Day
+### Day 60
+
+_29th September_
+
+#### Day 7 of the MOB
 
 ### Today's progress:
 
+- I learnt the difference between imperative and declaritive code:
+
+  - Imperative code (eg. for loops) is when you have to tell the computer exactly what to do as if you are micro-managing it's actions.
+  - Declarative code (eg. methods) is when the method handles the details - you tell it what you want and it decides how to do it. The details are abstracted away.
+
+- We spent the day learning about different array methods, how to use them and what each of them return you. I learnt that some array methods take in a callback funtion as an argument. These callback functions can be written inline using fat arrow syntax or they can be written seperately as a traditional function.
+
 ### Thoughts:
 
+Today was definitely a step up in terms of difficulty. I found as couple of the last tasks particularly challenging - the ones that involved using `sort()`. I want to understand more fully how the `sort()` compare function works when comparing different types of data.
+
 ### Links to work / resources:
+
+Some of our array methods tasks:
+
+Using `filter()` :
+
+![Using filter()](./Assets/Images/arrayMethodsFilter.PNG)
+
+Using `sort()` :
+
+![Using sort()](./Assets/Images/arrayMethodSort.PNG)
+
+Making another to-do list with :
+
+![To-Do List using array methods](./Assets/Images/toDoListArrayMethods.PNG)
 
 ### Day
 
