@@ -1441,16 +1441,16 @@ _29th September_
 
 ### Today's progress:
 
-- I learnt the difference between imperative and declaritive code:
+- I learnt the difference between imperative and declarative code:
 
   - Imperative code (eg. for loops) is when you have to tell the computer exactly what to do as if you are micro-managing it's actions.
   - Declarative code (eg. methods) is when the method handles the details - you tell it what you want and it decides how to do it. The details are abstracted away.
 
-- We spent the day learning about different array methods, how to use them and what each of them return you. I learnt that some array methods take in a callback funtion as an argument. These callback functions can be written inline using fat arrow syntax or they can be written seperately as a traditional function.
+- We spent the day learning about different array methods, how to use them and what each of them return you. I learnt that some array methods take in a callback function as an argument. These callback functions can be written inline using fat arrow syntax or they can be written seperately as a traditional function. We practiced using these different array methods by solving lots of different tasks.
 
 ### Thoughts:
 
-Today was definitely a step up in terms of difficulty. I found as couple of the last tasks particularly challenging - the ones that involved using `sort()`. I want to understand more fully how the `sort()` compare function works when comparing different types of data.
+Today was definitely a step up in terms of difficulty. I found a couple of the last tasks particularly challenging - the ones that involved using `sort()`. I want to understand more fully how the `sort()` compare function works when comparing different types of data.
 
 ### Links to work / resources:
 
