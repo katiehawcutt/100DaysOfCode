@@ -1450,7 +1450,7 @@ _29th September_
 
 ### Thoughts:
 
-Today was definitely a step up in terms of difficulty. I found a couple of the last tasks particularly challenging - the ones that involved using `sort()`. I want to understand more fully how the `sort()` compare function works when comparing different types of data.
+Today was definitely a step up in terms of difficulty. I found a couple of the last tasks particularly challenging - the ones that involved using `sort()`. I want to understand more fully how the `sort()` compare function works when comparing different types of data. I found it quite a tough day in terms of problem solving and I'm rather tired and drained now!
 
 ### Links to work / resources:
 
@@ -1467,6 +1467,44 @@ Using `sort()` :
 Making another to-do list with :
 
 ![To-Do List using array methods](./Assets/Images/toDoListArrayMethods.PNG)
+
+### Day 61
+
+_30th September_
+
+#### Day 8 of the MOB
+
+### Today's progress:
+
+- We started the day with a guest lecture on Web Accessibility - what it is, why it matters and how we achieve it. I learnt all about semantic HTML and how HTML is declarative, fault-tolerant, backwards compatible and interoperable.
+
+- For the rest of the day we continued learning more about asynchronous programming and I learnt the following:
+
+  - `setTimeout()`, and `setInterval()` are API's
+  - when JavaScript is using an API it delegates the work out to the run-time environment
+  - this relationship between JavaScript and it's run-time environment allows JavaScript to behave asynchronously
+  - JSON stands for JavaScript Object Notation. It is an interchange format which allows us to send data (which looks like a JavaScript object) across the internet
+  - in a JSON object, the keys are stringified. This is the main difference between JSON and a JavaScript object
+  - `fetch()` returns a promise
+  - a promise has 3 possible states - pending, resolved or rejected
+  - async allows us to write asynchronous functions, and allows us to await promises
+  - we must always await a promise
+
+- We put all this knowledge into practice today by building a clock and a Kanye West quote generator!
+
+### Thoughts:
+
+I really enjoyed today. It was nice to have a bit of a 'bigger picture' talk first thing this morning to break up the Javacript intensity! But then I really enjoyed all of the rest of our learning today. I thought the lectures were clear and interesting and I really enjoyed the tasks. Although we were still very much practicing our JavaScript it was nice that they had more of a visual aspect too. They were a good contrast from yesterday's tasks.
+
+### Links to work / resources:
+
+Using our new knowledge of asynchronous programming we made a clock:
+
+![clock](./Assets/Images/clock.PNG)
+
+And a Kanye West quote generator!
+
+![Kanye West quote generator](./Assets/Images/kanyeWestQuoteGenerator.PNG)
 
 ### Day
 
