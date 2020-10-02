@@ -1514,7 +1514,7 @@ _1st October_
 
 ### Today's progress:
 
-- This morning we had a talk from Joe on personality types which was really interesting. In preperation for the lecture we had all done Myers-Briggs before hand so knew what our own types were. We discussed the benefits of working with different types to our own, what makes a strong team, what we love about our personality type and what can be our weaknesses. This will hopefully help us to understand each other better, build robust teams and work together more effectively.
+- This morning we had a talk from Joe on personality types which was really interesting. In preparation for the lecture we had all done Myers-Briggs before hand so knew what our own types were. We discussed the benefits of working with different types to our own, what makes a strong team, what we love about our personality type and what can be our weaknesses. This will hopefully help us to understand each other better, build robust teams and work together more effectively.
 
 - For the rest of the day we had a big recap on everything we have learnt so far over the past two weeks! (lots) I really enjoyed doing all the recap tasks and it was great to see how far we'd come already.
 
@@ -1539,6 +1539,26 @@ And we also did some setTimeout() and setInterval() practice:
 Completed Codecademy JavaScript course:
 
 ![Javascript course complete](./Assets/Images/JScodecademyCourseComplete.PNG)
+
+### Day 63
+
+_2nd October_
+
+#### Day 10 of the MOB
+
+### Today's progress:
+
+- First thing today we split into small teams to record our findings about some research we did yesterday afternoon. My teams research topic was CSS Box Model and we made a little video explaining what it is, how it works and then did a live demo to show how elements can be manipulated using the padding, border and margin properties. I learnt that everything in CSS is a box!
+
+- The rest of the day was spent on our hackathon challenge! Today was all about `fetch()` and me and Dan used a jokes API to create a Dad Jokes Generator! We used all of the knowledge we had learned over the past two weeks to make it which included variables, types, scope, functions, helper functions, objects, arrays, array methods, the DOM, asynchronous programming, async, await, `fetch()`, CSS and sematic HTML. We tried to make it unbreakable by only allowing certain buttons to be pressed at certain times, and only allowing jokes to be added to the lists once. This required some more tricky programming but we got there! (and without help!). We were both super pleased with the outcome. 😀
+
+### Thoughts:
+
+I really enjoyed the hackathon today and I know it's because I approached it with a better mindset. We did some great planning, talked everything through at each stage and then did all the coding together which worked well. I'm still getting used to pair-programming but I think I'm getting better at it! Ironically, because I was less bothered about a perfect end product and tried to focus more on the building and learning, we actually ended up with something that looked and worked great! But without the stress! It was a great way to consolidate all the learning we did over the last fortnight and it was the perfect end to the week!
+
+### Links to work / resources:
+
+![Dad Jokes Generator](./Assets/Images/dadJokes.PNG)
 
 ### Day
 
