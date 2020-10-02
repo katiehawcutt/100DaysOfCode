@@ -1506,6 +1506,40 @@ And a Kanye West quote generator!
 
 ![Kanye West quote generator](./Assets/Images/kanyeWestQuoteGenerator.PNG)
 
+### Day 62
+
+_1st October_
+
+#### Day 9 of the MOB
+
+### Today's progress:
+
+- This morning we had a talk from Joe on personality types which was really interesting. In preperation for the lecture we had all done Myers-Briggs before hand so knew what our own types were. We discussed the benefits of working with different types to our own, what makes a strong team, what we love about our personality type and what can be our weaknesses. This will hopefully help us to understand each other better, build robust teams and work together more effectively.
+
+- For the rest of the day we had a big recap on everything we have learnt so far over the past two weeks! (lots) I really enjoyed doing all the recap tasks and it was great to see how far we'd come already.
+
+- After the SoC Bootcamp I finished my Codecademy JavaScript course and the last module was on `fetch()` and asynchronus functions which we'd done this week on the SoC Bootcamp anyway so that was really good!
+
+### Thoughts:
+
+I enjoyed today and I'm feeling confident that I understand the fundamentals of everything we've learnt so far. It's nice to be able to get a task, understand the problem, make a plan to solve it and then implement the plan. Obviously I still get thrown sometimes but more often than not I'm able to solve these problems alone now. Also the muscle memory of writing certain lines of code is definitely kicking in!
+
+Feeling a bit apprehensive about tomorrow (hackathon) as I didn't have a very positive day last Friday but I'm going to just enjoy it, be in the moment and see how far we get. I think my expectations are set better this week.
+
+### Links to work / resources:
+
+Some of the recap tasks we did today were on functions:
+
+![Function recap task](./Assets/Images/helperFunctionPractice.PNG)
+
+And we also did some setTimeout() and setInterval() practice:
+
+![setTimeout and setInterval practice](./Assets/Images/timeoutAndIntervalPractice.PNG)
+
+Completed Codecademy JavaScript course:
+
+![Javascript course complete](./Assets/Images/JScodecademyCourseComplete.PNG)
+
 ### Day
 
 ### Today's progress:
