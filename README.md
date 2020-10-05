@@ -1560,6 +1560,48 @@ I really enjoyed the hackathon today and I know it's because I approached it wit
 
 ![Dad Jokes Generator](./Assets/Images/dadJokes.PNG)
 
+### Day 64
+
+_5th October_
+
+#### Day 11 of the MOB
+
+### Today's progress:
+
+- We started the day doing individual recap tasks on all that we have covered over the last two weeks including advanced functions, array methods, asynchronous programming, setTimeout() and setInterval(), API's and fetch(). I learnt that there are often many ways to solve a problem and it's good to try to solve problems in different ways (rather than just in the way we might have done previously) as that way we learn new things. This increases our understanding of how things work and makes us better problem solvers.
+
+- In the afternoon we started learning about databases and SQL. So far I have learnt that:
+
+  - CRUD (create, read, update, delete) is what you can do with any form of data (the basic operations)
+  - databases are computer programs that allow us to store data in a structured way that is easy to access
+  - there are two types of databases - relational (made up of tables, good for lots of interconnected data) and non-relational (looks like objects, more of a document store)
+  - SQL stands for structured query language - it was invented by IBM in the 1970's
+  - we use SQL to operate on the data stored in a database
+  - we are learning PostgreSQL which is a particular flavour / dialect of SQL
+  - how to make a SELECT query /statement and use FROM, WHERE, ORDER BY, LIMIT, OFFSET
+  - we can join two or more tables together using JOINS of which there are four types - INNER, LEFT, RIGHT and FULL
+  - we can also use the INSERT INTO, UPDATE and DELETE statements on data
+
+### Thoughts:
+
+I found the individual recap tasks today really helpful and I enjoyed working through the problems at my own pace. I'm feeling much more confident with approaching problems now and getting better at breaking them down into manageable steps and then solving each one. It feels like it has all clicked this week.
+
+It was nice to have a break from JS and learn something brand new. I'm excited to start learning more about the back end and looking forward to the rest of the week.
+
+### Links to work / resources:
+
+One of my week 2 individual recap tasks - making a ToDo list and using using `sort()` to display the list items in order of priority:
+
+![recap task - todo list](./Assets/Images/week2recapTasks.PNG)
+
+Types of databases:
+
+![database types](./Assets/Images/Databases.PNG)
+
+SQL queries with constraints:
+
+![queries with constraints](./Assets/Images/queriesWithConstraints.PNG)
+
 ### Day
 
 ### Today's progress:
