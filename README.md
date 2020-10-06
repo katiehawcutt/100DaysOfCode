@@ -1602,6 +1602,36 @@ SQL queries with constraints:
 
 ![queries with constraints](./Assets/Images/queriesWithConstraints.PNG)
 
+### Day 65
+
+_6th October_
+
+#### Day 12 of the MOB
+
+### Today's progress:
+
+- Today we continued learning SQL and practiced using it with lots of tasks including a murder mystery challenge! (we found the murderer btw) Some of the challenges required us to write more complex SELECT statements using JOINS (inner and left), the WHERE, GROUP BY, CASE and ORDER BY clause and the DISTINCT keyword. One of the brand new things I learnt was that you can join a table to itself!
+
+- I also learnt how to insert, update and delete rows, create, alter and drop (delete) a table.
+
+- I learnt about primary and foreign keys and that tables can reference other tables by ID.
+
+### Thoughts:
+
+I enjoyed working on the tasks today (with my new partner Tom) and we had good momentum through all the challenges as we work at a similar pace which is great! Although picking up the basic syntax of SQL has been fairly easy, once we started working on harder challenges the queries we were having to write were quite complex. They certainly got me thinking and I'm rather tired now!
+
+I'm looking forward to seeing how databases link into the bigger picture of what we've been learning as we continue through the week.
+
+### Links to work / resources:
+
+I learnt how to create a table:
+
+![SQL creating a table](./Assets/Images/creatingTablesSQL.PNG)
+
+I learnt about primary and foreign keys and that tables can reference other tables by ID:
+
+![c](./Assets/Images/SQLkeys.PNG)
+
 ### Day
 
 ### Today's progress:
