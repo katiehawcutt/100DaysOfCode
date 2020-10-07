@@ -1632,6 +1632,43 @@ I learnt about primary and foreign keys and that tables can reference other tabl
 
 ![c](./Assets/Images/SQLkeys.PNG)
 
+### Day 66
+
+_7th October_
+
+#### Day 13 of the MOB
+
+### Today's progress:
+
+Today we learnt about Node.js - what it is and how we use it! Main learning points:
+
+- Node is a free, open-source server environment which runs on any platform and it allows us to run JavaScript outside of the browser.
+- Web servers are one of Node's most common uses
+- PHP is another programming language used to interact with servers - it is a synchronous language. The benefits of using Node (rather than PHP) is that JavaScript can run asynchronously which means that it can handle multiple requests (many more per server) making it more resource efficient and faster, and it is also quick to build a server in Node.
+- Node can collect files, interact with data and dynamically fetch web pages.
+- modules are files containing code that other people have written which we can use in our own code. To do this we have to `require()` them into the file where we want to use them.
+- if you want to find out what certain modules do / how to use them, read the docs! All the information is out there.
+- we can also make our own modules and use them in the same way.
+- there are sources of modules - ones that are automatically built in to Node, ones that we can import from the internet, and ones that we make ourselves.
+- NPM stands for Node Package Manager. We can make a project a node project by npm init. This creates a package.json file (which makes it a node project)
+- the package.json contains all the information about our project including the dependencies. It allows us to keep track of external modules we've required.
+
+This afternoon we put all of this new knowledge into practice and created our own database using node.js, created a table, inserted values into it, read the file, and then deleted the whole schema!
+
+### Thoughts:
+
+I learnt loads today! It was great to finally see how JavaScript / Node.js and SQL all work together and I really enjoyed all the tasks of creating and populating our own database. Tom and I did some really great problem solving / pseudo code to overcome the challenge of inserting data from our array into the table. Feeling great about our teamwork this week and I'm learning lots plus getting to practice some really effective pair programming.
+
+### Links to work / resources:
+
+How we created our table in Node using SQL:
+
+![creating a table](./Assets/Images/createTable.PNG)
+
+How we populated our table with data from our array:
+
+![insert into table](./Assets/Images/insertIntoDatabase.PNG)
+
 ### Day
 
 ### Today's progress:
