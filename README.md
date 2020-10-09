@@ -1718,6 +1718,32 @@ One of the GET request tasks we did:
 
 ![GET request](./Assets/Images/getRequest.PNG)
 
+### Day 68
+
+_9th October_
+
+#### Day 15 of the MOB
+
+### Today's progress:
+
+- Today was hackathon day and we used all the knowledge we learnt this week to build a backend for a pre-existing front-end recipe app (we made a RESTful API). We created our own local server using Express which listened for GET and POST requests from the pre-built front-end. We then made our own database using Heroku, created a table and populated it with information from the user input (recipes). These recipes were then stored in the database and ready to be requested from the front end. My main learning points from today were:
+
+  - when working with other people's code, take the time to thoroughly read it / look at it so that you understand what it's doing and know how you need to go about interacting with it
+  - persist in trying to fix bugs and try lots of things - Google, console.log and make a plan!
+  - always remember to install dependencies for the app you're working on by running `npm i` in the terminal
+  - an API is just two programs talking to each other (eg. a front-end and back-end)
+  - I've learnt so much this week! SQL, Express, Node.js, servers - wowzers!! And today we got to use it all!
+
+### Thoughts:
+
+I'm feeling happy but very drained and tired and at capacity!! This week has been hard because of the sheer amount of new information we've taken on. My brain is full and need some time to process. But I will do that over the weekend. I was really pleased with mine and Tom's results from the hackathon today. We managed to complete the task and learnt so much along the way. We did SO MUCH problem solving and trying things and managed to figure everything out without asking for help which is a good habit to try and get in to. Over the weekend I want to read over all the code we wrote today and make sure I understand what all of it is doing. I am then hoping to make the front-end of the app a bit better.
+
+### Links to work / resources:
+
+Some of our code from today's hackathon - here's how we populated our table:
+
+![Populated table](./Assets/Images/populateTable.PNG)
+
 ### Day
 
 ### Today's progress:
