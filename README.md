@@ -1669,6 +1669,55 @@ How we populated our table with data from our array:
 
 ![insert into table](./Assets/Images/insertIntoDatabase.PNG)
 
+### Day 67
+
+_8th October_
+
+#### Day 14 of the MOB
+
+### Today's progress:
+
+- First thing this morning we had a talk from Joe on Deep Listening - it was about how to become better listeners and why this is important when we are working in a team. When we don't listen to people properly this can lead to frustration, hurt feelings and lack of progress. Things I learnt are:
+
+  - It's important to acknowledge what people are saying and not interrupt them.
+  - It's important to let there be pauses in the conversation and not try to fill the space, as the other person may not have finished talking.
+  - Remember - it's okay to just listen!
+  - There are different types of listeners - the Lost Listener, the Interrupting Listener, the Shrewd Listener and the Dramatic Listener. I tend to verge on the Interupting Listener so I need to watch that!
+  - When approaching conversations / discussions it's important to have a constructive and generative dialogue approach.
+  - Joe gave us some good suggestions for positive meetings (see slide below).
+
+- For the rest of the day we learnt how to make a server and interact with it! My main learning points were:
+
+  - We can communicate with servers with HTTP requests. There are different types of HTTP requests including GET, POST, PUT and DELETE. These are know as HTTP methods / verbs.
+  - The different HTTP requests represent the CRUD operations - create (POST), read (GET), update(PUT), delete (DELETE).
+  - The URL (Uniform Resource Locator) is the address of where we are sending / receiving the info. It is made up on different sections (see picture below).
+  - A port is a place where the computer can listen.
+  - A path is the way to find the data we are looking for
+  - We can listen to requests with JS using Node - it has built in HTTP support.
+  - Express (a module we can require) allows us to create maintainable servers and takes care of the the nitty gritty so we can focus on writing declaritive code about what we want the server to do.
+  - REST stands for REpresentational State Transfer and it is an architectural style for providing standards between computer systems on the web, making it easier for systems to communicate with each other.
+  - We can set up a server on our own computer.
+  - I learnt how to make a GET and POST request to a server.
+  - We can use Postman to input data into the `req.body` and see the results rather than having to create a front-end.
+
+### Thoughts:
+
+It was a big day of learning today and a lot to take in. I understand everything we did but I don't feel very confident with it all yet - I think the more I go over it the better. We have covered so much new content this week that I feel a little overwhelmed but I will take some time over the weekend to go over everything again and let it sink in.
+
+### Links to work / resources:
+
+Suggestions to improve deep listening within meetings:
+
+![Suggestions to improve deep listening](./Assets/Images/suggestions.PNG)
+
+What a URL is made up of:
+
+![URL construction](./Assets/Images/url.PNG)
+
+One of the GET request tasks we did:
+
+![GET request](./Assets/Images/getRequest.PNG)
+
 ### Day
 
 ### Today's progress:
