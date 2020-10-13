@@ -1446,7 +1446,7 @@ _29th September_
   - Imperative code (eg. for loops) is when you have to tell the computer exactly what to do as if you are micro-managing it's actions.
   - Declarative code (eg. methods) is when the method handles the details - you tell it what you want and it decides how to do it. The details are abstracted away.
 
-- We spent the day learning about different array methods, how to use them and what each of them return you. I learnt that some array methods take in a callback function as an argument. These callback functions can be written inline using fat arrow syntax or they can be written seperately as a traditional function. We practiced using these different array methods by solving lots of different tasks.
+- We spent the day learning about different array methods, how to use them and what each of them return you. I learnt that some array methods take in a callback function as an argument. These callback functions can be written inline using fat arrow syntax or they can be written separately as a traditional function. We practiced using these different array methods by solving lots of different tasks.
 
 ### Thoughts:
 
@@ -1694,7 +1694,7 @@ _8th October_
   - A port is a place where the computer can listen.
   - A path is the way to find the data we are looking for
   - We can listen to requests with JS using Node - it has built in HTTP support.
-  - Express (a module we can require) allows us to create maintainable servers and takes care of the the nitty gritty so we can focus on writing declaritive code about what we want the server to do.
+  - Express (a module we can require) allows us to create maintainable servers and takes care of the the nitty gritty so we can focus on writing declarative code about what we want the server to do.
   - REST stands for REpresentational State Transfer and it is an architectural style for providing standards between computer systems on the web, making it easier for systems to communicate with each other.
   - We can set up a server on our own computer.
   - I learnt how to make a GET and POST request to a server.
@@ -1743,6 +1743,98 @@ I'm feeling happy but very drained and tired and at capacity!! This week has bee
 Some of our code from today's hackathon - here's how we populated our table:
 
 ![Populated table](./Assets/Images/populateTable.PNG)
+
+### Day 69
+
+_12th October_
+
+### Today's progress:
+
+- I restructured and refactored my Recipe App from Friday's Hackathon. I read through all the code to make sure I understood what it was doing on each line and this really helped me to consolidate all the learning we did last week.
+
+### Thoughts:
+
+- I was feeling a bit overwhelmed after all the information last week and although we completed the hackathon I wasn't sure if I totally understood what all our code was doing. So it was really helpful to go over everything again after a bit of downtime on Saturday when I was fresh. I now feel like I understand it all and just want to practice it again to start to develop that muscle memory.
+
+### Links to work / resources:
+
+![Recipe App](./Assets/Images/recipeApp.PNG)
+
+### Day 70
+
+_12th October_
+
+#### Day 16 of the MOB
+
+### Today's progress:
+
+- This morning we had our usual individual Monday recap task and this week we had to make a back-end to a Cat App. A couple of things that I found it useful to go over again were:
+
+  - writing scripts and linking them to the app.js file
+  - remembering that prepared statements in SQL protect us against SQL injections.
+
+- This afternoon we learnt more about about REST and Express. I learnt / recapped that:
+
+  - Express helps us to create maintainable servers / is an easy way to set up a server. It is an npm package that we can install.
+  - REST is an architectural style for providing standards between computer systems on the web.
+  - An API (application programming interfaces) is a software intermediary that allows two applications to talk to each other. They make it easier for different apps to interact with each other.
+  - A RESTful API is an API of a certain convention where you structure your code and get information back in a certain way`.
+  - two more request types are `PUT` and `PATCH`. They are quite similar and used to update information but the big difference is that `PUT` should replace the whole item and `PATCH` should replace a bit of it.
+  - `npx` is the package runner; `npm` is the package manager.
+  - the `?` in a request is called a query.
+  - if an express path has `/:id`, we can use `req.params.id` to access 'id'
+  - we started looking into how to handle dynamic routes
+  - I had a really good array method recap as I wrote functions which handled specific requests to export and use in my book app
+
+### Thoughts:
+
+I feel like I'm starting to understand the back-end more and more in terms of how files / code link together and developing a deeper understanding of what is going on. I felt fairly confident on the individual recap task and managed to get it working which was great! Just need to practice more now!
+
+### Links to work / resources:
+
+Some functions I wrote to export and use in my book app:
+
+![Functions for my book app](./Assets/Images/functionsForBookApp.PNG)
+
+### Day 71
+
+_13th October_
+
+#### Day 17 of the MOB
+
+### Today's progress:
+
+- We continued with working on our books app and linked it up to a database (which we made and populated) rather than getting our data from an array. I'm getting much quicker at setting up a database and creating the script files as we have done that a lot over the past few days.
+- I made good progress on understanding how we separate our code into different folders/files (models and routes), separating out the functionality from the requests. This stops the files getting out of hand as everything is broken into small manageable chunks. This will become even more vital as we make bigger applications with many more routes. However, always remember to link your files!
+
+- This afternoon we learnt about testing, why it's important and how to write automated tests for our code.
+
+  - We used Jest (a node package module) which is a test platform. We can use it to write tests for our code and then run the tests.
+  - We have to install it like any other module.
+  - When you're writing tests, you often need to check that values meet certain conditions. `expect` gives you access to a number of "matchers" that let you validate different things.
+  - We have to use our own judgement / intuition about how many tests to write for our code and when we are happy that it works.
+  - One of the "matchers" we used was `toBe()`. However, we cannot use this when working with objects as no two objects are the same (even if they look it!). Instead,when comparing objects we could use `toEqual()`.
+  - look at the Jest docs to find out more!
+
+### Thoughts:
+
+I really enjoyed learning about testing today as it's something I've been wondering about for a while - I got interested seeing the Codewars tests and trying to get my code to pass them! I'm going to try the extra tasks we didn't get through to practice writing more tests.
+
+Finding it hard to know when to stop working in the evenings as there is always more to do. Need to somehow strike the balance between doing good extra learning and then getting too tired.
+
+### Links to work / resources:
+
+Some tests we wrote this afternoon:
+
+![Testing](./Assets/Images/testing.PNG)
+
+### Day
+
+### Today's progress:
+
+### Thoughts:
+
+### Links to work / resources:
 
 ### Day
 
