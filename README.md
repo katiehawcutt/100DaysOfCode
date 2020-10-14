@@ -12,7 +12,7 @@ _30th June_
 
 ### Thoughts:
 
-I'm feeling really excited to have started 100 Days Of Code and already feel more motivated to code every day. I think having a goal of just one hour a day seems very managable for me, rather than feeling like unless I spend at least 3 hours a day learning it's not worth it.
+I'm feeling really excited to have started 100 Days Of Code and already feel more motivated to code every day. I think having a goal of just one hour a day seems very manageable for me, rather than feeling like unless I spend at least 3 hours a day learning it's not worth it.
 
 ### Links to work / resources:
 
@@ -42,11 +42,11 @@ _2nd July_
 ### Today's progress:
 
 - I practised some SQL using SQL Bolt which was a really good way to put some theory into practice. I got up to Lesson 10.
-- I completed a CodeWars ("Largest Pair Sum In An Array") using the array method `sort()`. I then refactored it to make it cleaner and more consise.
+- I completed a CodeWars ("Largest Pair Sum In An Array") using the array method `sort()`. I then refactored it to make it cleaner and more concise.
 
 ### Thoughts:
 
-I enjoyed putting my SQL learning into pratice and found that I could recall a lot of what I watched in the videos yesterday which really helped me to complete the exercises. I'm really excited that I was able to complete a 7kyu Kata and then refactor it myself with no help at all! It really boosted my confidence and I finished today's learning on a high!
+I enjoyed putting my SQL learning into practice and found that I could recall a lot of what I watched in the videos yesterday which really helped me to complete the exercises. I'm really excited that I was able to complete a 7kyu Kata and then refactor it myself with no help at all! It really boosted my confidence and I finished today's learning on a high!
 
 ### Links to work / resources:
 
@@ -66,7 +66,7 @@ _3rd July_
 
 ### Thoughts:
 
-I used to always feel like I'd failed if I couldn't complete a CodeWars kata all by myself and had to ask for help. Rather than seeing it as an opportunity to learn I'd just feel frustrated and disappointed (something to do with me wanting to acheive perfection the whole time!). I've really been working hard to create new pathways in my brain that allow me to not be perfect and to be okay with not knowing things straight away. I'm pleased to say that I'm getting much better at it! I see this kata as a success as I was 80% there and then just needed a little help to get over the final hurdle (in which I learnt something new so that was a valuable process). I think the universe rewarded me as I then got a new rank of 6kyu!
+I used to always feel like I'd failed if I couldn't complete a CodeWars kata all by myself and had to ask for help. Rather than seeing it as an opportunity to learn I'd just feel frustrated and disappointed (something to do with me wanting to achieve perfection the whole time!). I've really been working hard to create new pathways in my brain that allow me to not be perfect and to be okay with not knowing things straight away. I'm pleased to say that I'm getting much better at it! I see this kata as a success as I was 80% there and then just needed a little help to get over the final hurdle (in which I learnt something new so that was a valuable process). I think the universe rewarded me as I then got a new rank of 6kyu!
 
 ### Links to work / resources:
 
@@ -82,7 +82,7 @@ _4th July_
 
 - Listened to a SyntaxFM podcast on servers and what makes them fast. I learnt about :
 
-  [RAM](https://www.digitaltrends.com/computing/what-is-ram/) (Random Access Memory) which is basically short term memory in your deivce. It is an extremely fast component that temporarily stores all the information your PC needs right now and in the near future.
+  [RAM](https://www.digitaltrends.com/computing/what-is-ram/) (Random Access Memory) which is basically short term memory in your device. It is an extremely fast component that temporarily stores all the information your PC needs right now and in the near future.
 
   [CPU's](https://www.digitaltrends.com/computing/what-is-a-cpu/) (Central Processing Units) which are responsible for processing and executing instructions.
 
@@ -90,7 +90,7 @@ _4th July_
 
   [SSD's](https://www.avast.com/c-what-is-ssd) (Solid-State Drives) which are a new generation of storage device used in computers. SSDs replace traditional mechanical hard disks by using flash-based memory which is significantly faster.
 
-- I also watched Lecture 2 (Arrays) of Havard's CS50 course. I'm learning more C as we go along and although it feels a bit different I am noticing the similarities it has with JavaScript.
+- I also watched Lecture 2 (Arrays) of Harvard's CS50 course. I'm learning more C as we go along and although it feels a bit different I am noticing the similarities it has with JavaScript.
 
 ### Thoughts:
 
@@ -200,7 +200,7 @@ _13th July_
 
 ### Thoughts:
 
-As well as being exciting, it can be overwhelming thinking ahead as I am venturing into a industry which is completely new to me. I don't even know all the possible jobs I could get let alone which one I want! But reading this article and looking into a few more roles specifially has helped, and I do know that I want to work as part of team, I really love organising things, communicating with people and feeling on top of / managing situations. At the moment, the roles that I am most drawn to are project manager, product manager, scrum master and teacher / trainer (I have prior experience in teaching), as well as web develper. It's good to bear this in mind as I move forward as I can aim to upskill in the releavent areas and try to connect with people currently in those roles to find out more about them.
+As well as being exciting, it can be overwhelming thinking ahead as I am venturing into a industry which is completely new to me. I don't even know all the possible jobs I could get let alone which one I want! But reading this article and looking into a few more roles specifically has helped, and I do know that I want to work as part of team, I really love organising things, communicating with people and feeling on top of / managing situations. At the moment, the roles that I am most drawn to are project manager, product manager, scrum master and teacher / trainer (I have prior experience in teaching), as well as web developer. It's good to bear this in mind as I move forward as I can aim to upskill in the relevant areas and try to connect with people currently in those roles to find out more about them.
 
 ### Links to work / resources:
 
@@ -216,7 +216,7 @@ _14th July_
 
 ### Today's progress:
 
-- I spent all morning researching and learning about Agile Methodolody and the Scrum framework. I found the [Atlassian website](https://www.atlassian.com/agile) particuarly helpful along with their YouTube videos and I now feel like I have a much clearer understanding of agile priciples and agile project management frameworks.
+- I spent all morning researching and learning about Agile Methodolody and the Scrum framework. I found the [Atlassian website](https://www.atlassian.com/agile) particularly helpful along with their YouTube videos and I now feel like I have a much clearer understanding of agile principles and agile project management frameworks.
 
 - I also read an article on [Mission, Strategy, Tactics and Vision](https://boz.com/articles/strategy-tactics). I learnt more about what each of them are and why they are important.
 
@@ -238,7 +238,7 @@ _16th July_
 
 ### Today's progress:
 
-- I completed the first stage of the School of Code bootcamp applicaton process. I made three avatars using the School of Code's introduction to HTML, CSS and JavaScript on their learning platform. I also had to write a little bit about why I wanted to do the bootcamp.
+- I completed the first stage of the School of Code bootcamp application process. I made three avatars using the School of Code's introduction to HTML, CSS and JavaScript on their learning platform. I also had to write a little bit about why I wanted to do the bootcamp.
 - I listened to a Syntax Podcast episode and learnt a bit more about frameworks, fonts and CMS's.
 
 ### Thoughts:
@@ -251,7 +251,7 @@ SoC Application Avatar Task:
 
 ![my avatar](./Assets/Images/happy-katie-avatar.PNG)
 
-[Syntax FM Podcast - Potluck on fonts, framworks, and more...](https://open.spotify.com/episode/3bktBVChDHgDnOFqU8Cakv?si=qMKxNr36ToKIoVwxjyuD3w)
+[Syntax FM Podcast - Potluck on fonts, frameworks, and more...](https://open.spotify.com/episode/3bktBVChDHgDnOFqU8Cakv?si=qMKxNr36ToKIoVwxjyuD3w)
 
 ### Day 14
 
@@ -267,7 +267,7 @@ _17th July_
 
   3. Create an easily-navigated page that's keyboard-friendly
 
-I learnt about some HTML tags that are particulay useful and important for this (eg. main, header, footer, section, article, fieldset, legend, date) and that it's important to label images / inputs /graphs, etc. appropriately using alt / for / figcaption. We should also style our pages with CSS in a colour friendly way and use the correct contrast.
+I learnt about some HTML tags that are particularly useful and important for this (eg. main, header, footer, section, article, fieldset, legend, date) and that it's important to label images / inputs /graphs, etc. appropriately using alt / for / figcaption. We should also style our pages with CSS in a colour friendly way and use the correct contrast.
 
 ### Thoughts:
 
@@ -287,7 +287,7 @@ _18th July_
 
 ### Thoughts:
 
-I was really pleased as I managed to complete the 7kyu kata by myself (which I still get really excited about!). I'm finding myself being able to think through the logic of the solution so much faster and I'm able to break down the solution into manageable chunks. This really encourged me as it used to take me ages to even be able to formulate a pseudo plan. It's now happening much more quickly and naturally. Ben helped me with the 6kyu kata and I learnt how to chain together array methods which we'd talked about before but I'd never actually done. This was a really good learning session.
+I was really pleased as I managed to complete the 7kyu kata by myself (which I still get really excited about!). I'm finding myself being able to think through the logic of the solution so much faster and I'm able to break down the solution into manageable chunks. This really encouraged me as it used to take me ages to even be able to formulate a pseudo plan. It's now happening much more quickly and naturally. Ben helped me with the 6kyu kata and I learnt how to chain together array methods which we'd talked about before but I'd never actually done. This was a really good learning session.
 
 ### Links to work / resources:
 
@@ -301,7 +301,7 @@ _21st July_
 
 ### Today's progress:
 
-- I submitted my School of Code Bootcamp Video Application. This involved answering four different questions (with around a minute for each question) and then ediitng them together into a little film.
+- I submitted my School of Code Bootcamp Video Application. This involved answering four different questions (with around a minute for each question) and then editing them together into a little film.
 
 - I read an article on [How To Go From A Junior Developer To A Mid-Level Developer](https://www.freecodecamp.org/news/how-to-go-from-junior-developer-to-mid-level-developer/). I know I'm a way off yet but it's good to look ahead and make sure I'm going in the right direction!
 
@@ -319,7 +319,7 @@ _22nd July_
 
 ### Today's progress:
 
-- I started work on a little CodePen project using CSS to draw a beach scene. I've not used CoedPen before so it was fun to try it out!
+- I started work on a little CodePen project using CSS to draw a beach scene. I've not used CodePen before so it was fun to try it out!
 
 ### Thoughts:
 
@@ -357,7 +357,7 @@ _29th July_
 
 ### Thoughts:
 
-After completing my School of Code application last week I had a few days off from coding / learing to refresh myself as I realised I'd been feeling quite anxious about the bootcamp application and it felt right to have a little break. Listening to these podcasts was a great was to ease myself back in and I'm feeling inspired to get down to some good coding over the coming weeks!
+After completing my School of Code application last week I had a few days off from coding / learning to refresh myself as I realised I'd been feeling quite anxious about the bootcamp application and it felt right to have a little break. Listening to these podcasts was a great was to ease myself back in and I'm feeling inspired to get down to some good coding over the coming weeks!
 
 ### Links to work / resources:
 
@@ -387,7 +387,7 @@ I also got to recap on a few things which I'd not done for a while:
 
 ### Thoughts:
 
-I really enjoyed making this little sheep! As well as learing a few new things it opened my eyes to how many lines of code is needed just to make one small image with CSS!
+I really enjoyed making this little sheep! As well as learning a few new things it opened my eyes to how many lines of code is needed just to make one small image with CSS!
 
 ### Links to work / resources:
 
@@ -505,7 +505,7 @@ _6th August_
 
 ### Today's progress:
 
-I made a litte app in which you can adjust the border width, color and blur of a photo. I made it as part of [Wes Bos' JavaScript30](https://wesbos.com/) course to practice using CSS variables and then updating them with JavaScript.
+I made a little app in which you can adjust the border width, color and blur of a photo. I made it as part of [Wes Bos' JavaScript30](https://wesbos.com/) course to practice using CSS variables and then updating them with JavaScript.
 
 Things I learnt:
 
@@ -559,7 +559,7 @@ _8th August_
 
 I really enjoyed doing the refactor of my list app with Ben. It was so helpful to have some one to one help and I felt really positive about all the learning. I think grasping and understanding ideas about effective data structures will really help me going forward as I build new apps / projects.
 
-I found out last night that I've got through to the final stage of the SoC bootcamp appilation stages so I'm feeling really happy about that! Just a final interview left to go next week!
+I found out last night that I've got through to the final stage of the SoC bootcamp application stages so I'm feeling really happy about that! Just a final interview left to go next week!
 
 ### Links to work / resources:
 
@@ -597,7 +597,7 @@ _10th August_
 
 ### Thoughts:
 
-I was feeling quite tired this afternoon (it's very, very hot and I'd expended lots of energy building up to my interview this morning!) so I found the Array Cardio challenge this afternoon quite a slog - I kep losing concentration because I was tired! I'm pleased I powered through though (and drank lots of water!) as I learnt a lot from these exercises. I still find JavaScript overwhleming at times as there is a lot to learn and understand with all the maths. But I am getting there and I know the key to success is repetition so I am planning on trying to do at least one CodeWars kata everyday for the rest of this week to practice all these array methods and also practice some ES6 syntax such as arrow functions.
+I was feeling quite tired this afternoon (it's very, very hot and I'd expended lots of energy building up to my interview this morning!) so I found the Array Cardio challenge this afternoon quite a slog - I kep losing concentration because I was tired! I'm pleased I powered through though (and drank lots of water!) as I learnt a lot from these exercises. I still find JavaScript overwhelming at times as there is a lot to learn and understand with all the maths. But I am getting there and I know the key to success is repetition so I am planning on trying to do at least one CodeWars kata everyday for the rest of this week to practice all these array methods and also practice some ES6 syntax such as arrow functions.
 
 ### Links to work / resources:
 
@@ -611,7 +611,7 @@ _11th August_
 
 ### Today's progress:
 
-- I spent a few hours working on some CodeWars challenges and tried to put into pratice some string methods, array methods and use what I learnt doing the JS30 Array Cardio yesterday.
+- I spent a few hours working on some CodeWars challenges and tried to put into practice some string methods, array methods and use what I learnt doing the JS30 Array Cardio yesterday.
 
 ### Thoughts:
 
@@ -721,7 +721,7 @@ _25th August_
 
 ### Thoughts:
 
-I'd already used `fetch` a couple of times before when making my quiz and a Kanye West quote generator. It was helpful to go over it again and it was nice that it felt like a familiar concept. The `RegExp` object was completey new to me so I decided to do a bit more learning around that afterwards to get to grips with it more.
+I'd already used `fetch` a couple of times before when making my quiz and a Kanye West quote generator. It was helpful to go over it again and it was nice that it felt like a familiar concept. The `RegExp` object was completely new to me so I decided to do a bit more learning around that afterwards to get to grips with it more.
 
 I felt very tired this afternoon and found it hard to focus and take things in. Hoping I'll have more energy tomorrow!
 
@@ -759,11 +759,11 @@ _28th August_
 
 ### Today's progress:
 
-- I learnt about HTML5 `<canvas>` and made a little drawing app (part of the JavaScript30 challenge). I learnt that the `getContext()` method returns an object that provides methods & properties for drawing on the canvas. I'm planning to develop this more so that the user can change the color, thickness and style of the pen!
+- I learnt about HTML5 `<canvas>` and made a little drawing app (part of the JavaScript30 challenge). I learnt that the `getContext()` method returns an object that provides methods & properties for drawing on the canvas. I'm planning to develop this more so that the user can change the colour, thickness and style of the pen!
 
 ### Thoughts:
 
-- I really enjoyed learning something totally new today - it's exciting to discover a new element in HTML! I definitly feel like I'm picking up and understanding JavaScript more quickly now which is great.
+- I really enjoyed learning something totally new today - it's exciting to discover a new element in HTML! I definitely feel like I'm picking up and understanding JavaScript more quickly now which is great.
 
 ### Links to work / resources:
 
@@ -828,7 +828,7 @@ _4th September_
 
 - I finished the Learn HTML Course on Codecademy and learnt about client side form validation and semantic HTML. I'd not done form validation before so I really enjoyed learning about that and it included a bit of RegExp which I learnt about last week so that was nice!
 
-- I practiced some more JavaScript and did a couple of CodeWars Kata (8kyu and 7kyu). Still get a buzz when I solve one! Also, I'm really enjoying refatoring my solutions in ES6 syntax and getting more comfortable with arrow functions now.
+- I practiced some more JavaScript and did a couple of CodeWars Kata (8kyu and 7kyu). Still get a buzz when I solve one! Also, I'm really enjoying refactoring my solutions in ES6 syntax and getting more comfortable with arrow functions now.
 
 ### Thoughts:
 
@@ -848,13 +848,13 @@ _7th September_
 
 - I made a drawing app called Let's Draw! by building on the concepts I learnt in JS30 (CSS Variables and HTML5-Canvas). I'm using `<canvas>` to draw and you can adjust the size, style and colour of the brush. There is also a magical rainbow mode! 🌈 I'm really pleased with this and feel great that I've been able to bring together a few different concepts and make something cool.
 
-- I completed almost all of [CSS Diner](https://flukeout.github.io/) and praticed using CSS selectors. Getting better at this - I only got stuck on 19 and 24!
+- I completed almost all of [CSS Diner](https://flukeout.github.io/) and practiced using CSS selectors. Getting better at this - I only got stuck on 19 and 24!
 
 - I started the [CodePen course on CSS](https://www.codecademy.com/learn/learn-css) and completed the first couple of modules. Although I feel quite comfortable with CSS now I still learnt some new things:
 
   - Horizontal margins add
   - Vertical margins collapse
-  - `margin: 0 auto;` horizontally centers an element inside of its parent content area, if it has a width.
+  - `margin: 0 auto;` horizontally centres an element inside of its parent content area, if it has a width.
   - the `visibility` property can `hide` or `show` elements.
   - Content box-model, border box-model and the `box-sizing` property.
 
@@ -946,7 +946,7 @@ _10th September_
 
 ### Today's progress:
 
-- I finished a CSS Drawing I started yesterday of a cocktail glass. I'm really pleased with it and it didn't take me too long at all. I'm definitely getting quicker with my coding which is great! I used `@keyframes` to animate the bubbles. I think I could have done it more consisely with JavaScript so I may refactor it at some point.
+- I finished a CSS Drawing I started yesterday of a cocktail glass. I'm really pleased with it and it didn't take me too long at all. I'm definitely getting quicker with my coding which is great! I used `@keyframes` to animate the bubbles. I think I could have done it more concisely with JavaScript so I may refactor it at some point.
 
 - I did some SoC homework which included:
   - CSS Diner (again! - I only did it earlier in the week! 😂). This time I managed to complete all the levels! (last time I got stuck on 19 but did a bit of reading into `:nth-last-child` and was able to figure it out: [CSS Tricks article on :nth-last-child](https://css-tricks.com/almanac/selectors/n/nth-last-child/)).
@@ -956,7 +956,7 @@ _10th September_
 
 I really enjoyed making another CSS picture! I get a real buzz out of it and totally get in the zone. I enjoy designing things and making them look good.
 
-I think I will watch all of the [Crash Course Computer Science videos](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) as they are really good and will be a fanastic intro to CS as a whole.
+I think I will watch all of the [Crash Course Computer Science videos](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) as they are really good and will be a fantastic intro to CS as a whole.
 
 I enjoyed the SoC pre-bootcamp session last night. Can't wait to get started properly. Really pleased I have a good grasp of HTML, CSS and JS now as I think I'd find it very fast-paced and maybe a little overwhelming otherwise!
 
@@ -986,11 +986,11 @@ ES6 Arrow Functions:
 
 - I completed another JS30 in which I learnt how to check multiple checkboxes by holding down the shift key.
 
-- I completed a CodeWars 7kyu Kata which I felt really good about. I wrote pseudo code for it first and then made it happen with real code. Afterwards I refactored it and used arrow functions so it's very consise.
+- I completed a CodeWars 7kyu Kata which I felt really good about. I wrote pseudo code for it first and then made it happen with real code. Afterwards I refactored it and used arrow functions so it's very concise.
 
 ### Thoughts:
 
-I achieved a lot today. Really getting in the flow of learning at the moment. There's a few things I want to finish before the bootcamp starts so that's spurring me on and I also want to get to 50 Days of Code before next weekend. So I will probaby code this weekend to make sure I get there!
+I achieved a lot today. Really getting in the flow of learning at the moment. There's a few things I want to finish before the bootcamp starts so that's spurring me on and I also want to get to 50 Days of Code before next weekend. So I will probably code this weekend to make sure I get there!
 
 ### Links to work / resources:
 
@@ -1036,7 +1036,7 @@ _13th September_
 
 ### Thoughts:
 
-Really enjoyed refactoring my CSS animation (with a little help from Ben!). It highlights the power of JavaScript and how it can make processes much easier and faster and your code more consise.
+Really enjoyed refactoring my CSS animation (with a little help from Ben!). It highlights the power of JavaScript and how it can make processes much easier and faster and your code more concise.
 
 ### Links to work / resources:
 
@@ -1061,11 +1061,11 @@ _14th September_
   - Setter and getter methods allow for more detailed ways of accessing and assigning properties.
   - Factory functions allow us to create object instances quickly and repeatedly.
 
-- I put my JavaScript into practice and solved another CodeWars 7kyu Kata called [Hungerian Vowel Harmony](https://www.codewars.com/kata/57fd696e26b06857eb0011e7!) I got a bit stuck for a few minutes but I'm really glad I persevered as I got there in the end! More great learning 😀
+- I put my JavaScript into practice and solved another CodeWars 7kyu Kata called [Hungarian Vowel Harmony](https://www.codewars.com/kata/57fd696e26b06857eb0011e7!) I got a bit stuck for a few minutes but I'm really glad I persevered as I got there in the end! More great learning 😀
 
 ### Thoughts:
 
-Really pleased with my work today and got a good buzz at the end from solving a kata! I feel like everything is sinking in at the moment and that I'm consolidating a lot of my learning which is very encourging.
+Really pleased with my work today and got a good buzz at the end from solving a kata! I feel like everything is sinking in at the moment and that I'm consolidating a lot of my learning which is very encouraging.
 
 ### Links to work / resources:
 
@@ -1120,7 +1120,7 @@ _16th September_
 
 Really enjoyed learning brand new content on my JavaScript course today. I'm finding it easier to understand and remember new information now that I have a broader understand of programming and syntax. It's like my brain knows where to file the new information!
 
-We had a final pre-bootcamp session tonight and went over Git and Github which was a useful refresher. I enjoyed working with another person again and helping someone else really helps to consolidte my own learning.
+We had a final pre-bootcamp session tonight and went over Git and Github which was a useful refresher. I enjoyed working with another person again and helping someone else really helps to consolidate my own learning.
 
 ### Links to work / resources:
 
@@ -1152,11 +1152,11 @@ _18th September_
 
 Continued working on my webpage:
 
-- Added a photo gallery using CSS Grid and I'm pleased that I managed to make it reponsive without using any media queries. Love the power of CSS grid!
+- Added a photo gallery using CSS Grid and I'm pleased that I managed to make it responsive without using any media queries. Love the power of CSS grid!
 
 - Added content to the 'about' section.
 
-- Finished off my webpage, made it work well on mobile (used a couple of media queires for H1 and H2's but that's it!). Then I hosted it on Netlify so it's now live!
+- Finished off my webpage, made it work well on mobile (used a couple of media queries for H1 and H2's but that's it!). Then I hosted it on Netlify so it's now live!
 
 ### Thoughts:
 
@@ -1174,7 +1174,7 @@ _20th July_
 
 ### Today's progress:
 
-- I completed another section of my JavaScript course on Modules. This was totally new to me and I was struggling a bit to put it in conext but apparently it's what I'm going to be doing when I start using React so it's good practice for then! Here's what I learnt:
+- I completed another section of my JavaScript course on Modules. This was totally new to me and I was struggling a bit to put it in context but apparently it's what I'm going to be doing when I start using React so it's good practice for then! Here's what I learnt:
 
   - Modules in Node.js are reusable pieces of code that can be exported from one program and imported for use in another program.
   - `module.exports` exports the module for use in another program.
@@ -1208,7 +1208,7 @@ _21st September_
 #### First day of the SoC Bootcamp!
 
 - We went over javascript fundamentals. My main learning points were:
-  - Algorithms are processes / rules / a set of steps followed to acheieve an output.
+  - Algorithms are processes / rules / a set of steps followed to achieve an output.
   - The 5 pillars of programming are operators, variables & types, logic flow, loops and functions.
   - Types are number, string, boolean, undefined, null, bigint, symbol, object and function.
   - while loops are useful when we're are working with an undetermined number (eg. something === true)
@@ -1246,7 +1246,7 @@ _22nd September_
   - Different case types
   - Brief intro to object destructuring (want to practice doing this more)
 
-- After SoC I did some extra learning on asynchronus JavaScript and promises on my Codecademy course. (I still want to keep pushing myself as the last two days have mostly been re-cap!) I found them quite tricky to get my head around although I have used them before so I know I can do it! Here's a long list of what I learnt:
+- After SoC I did some extra learning on asynchronous JavaScript and promises on my Codecademy course. (I still want to keep pushing myself as the last two days have mostly been re-cap!) I found them quite tricky to get my head around although I have used them before so I know I can do it! Here's a long list of what I learnt:
 
   - Promises are JavaScript objects that represent the eventual result of an asynchronous operation.
   - Promises can be in one of three states: pending, resolved, or rejected.
@@ -1326,7 +1326,7 @@ _25th Septemer_
 
 - In the afternoon we put all our knowledge about the DOM together and made a To-Do List. During this process I learnt how to toggle between adding and removing a `className` from an element with JavaScript. I also practiced accessing properties on the events which I had not done very much of before (eg. e.shiftKey === true) so that was really helpful.
 
-- We also had a talk on Growth Mindset which was interesting. SoC is not just about learning to code - it's going to change our lives! And to make the most of it we need to have a growth mindset rather than a fixed mindset. See the pictures below (in today's resources) of my favourite / importants points.
+- We also had a talk on Growth Mindset which was interesting. SoC is not just about learning to code - it's going to change our lives! And to make the most of it we need to have a growth mindset rather than a fixed mindset. See the pictures below (in today's resources) of my favourite / important points.
 
 ### Thoughts:
 
@@ -1518,7 +1518,7 @@ _1st October_
 
 - For the rest of the day we had a big recap on everything we have learnt so far over the past two weeks! (lots) I really enjoyed doing all the recap tasks and it was great to see how far we'd come already.
 
-- After the SoC Bootcamp I finished my Codecademy JavaScript course and the last module was on `fetch()` and asynchronus functions which we'd done this week on the SoC Bootcamp anyway so that was really good!
+- After the SoC Bootcamp I finished my Codecademy JavaScript course and the last module was on `fetch()` and asynchronous functions which we'd done this week on the SoC Bootcamp anyway so that was really good!
 
 ### Thoughts:
 
@@ -1682,7 +1682,7 @@ _8th October_
   - It's important to acknowledge what people are saying and not interrupt them.
   - It's important to let there be pauses in the conversation and not try to fill the space, as the other person may not have finished talking.
   - Remember - it's okay to just listen!
-  - There are different types of listeners - the Lost Listener, the Interrupting Listener, the Shrewd Listener and the Dramatic Listener. I tend to verge on the Interupting Listener so I need to watch that!
+  - There are different types of listeners - the Lost Listener, the Interrupting Listener, the Shrewd Listener and the Dramatic Listener. I tend to verge on the Interrupting Listener so I need to watch that!
   - When approaching conversations / discussions it's important to have a constructive and generative dialogue approach.
   - Joe gave us some good suggestions for positive meetings (see slide below).
 
@@ -1807,13 +1807,13 @@ _13th October_
 - We continued with working on our books app and linked it up to a database (which we made and populated) rather than getting our data from an array. I'm getting much quicker at setting up a database and creating the script files as we have done that a lot over the past few days.
 - I made good progress on understanding how we separate our code into different folders/files (models and routes), separating out the functionality from the requests. This stops the files getting out of hand as everything is broken into small manageable chunks. This will become even more vital as we make bigger applications with many more routes. However, always remember to link your files!
 
-- This afternoon we learnt about testing, why it's important and how to write automated tests for our code.
+- This afternoon we learnt about testing, why it's important and how to write automated tests for our code:
 
   - We used Jest (a node package module) which is a test platform. We can use it to write tests for our code and then run the tests.
   - We have to install it like any other module.
   - When you're writing tests, you often need to check that values meet certain conditions. `expect` gives you access to a number of "matchers" that let you validate different things.
   - We have to use our own judgement / intuition about how many tests to write for our code and when we are happy that it works.
-  - One of the "matchers" we used was `toBe()`. However, we cannot use this when working with objects as no two objects are the same (even if they look it!). Instead,when comparing objects we could use `toEqual()`.
+  - One of the "matchers" we used was `toBe()`. However, we cannot use this when working with objects as no two objects are the same (even if they look it!). Instead, when comparing objects we could use `toEqual()`.
   - look at the Jest docs to find out more!
 
 ### Thoughts:
@@ -1827,6 +1827,36 @@ Finding it hard to know when to stop working in the evenings as there is always 
 Some tests we wrote this afternoon:
 
 ![Testing](./Assets/Images/testing.PNG)
+
+### Day 72
+
+_14th October_
+
+#### Day 18 of the MOB
+
+### Today's progress:
+
+- Today was all about problem solving! We started the day by working on some Codewars challenges and writing pseudo code for them all before we wrote actual code. I'm feeling so much more confident using Javascript now (and specifically array methods and functions) and I really feel like I understand what is going on rather than just guessing or hoping!
+
+- For the rest of the day we worked on a debugging challenge. We were given some back-end code with quite a few errors and we had to make it work! I really enjoyed this...(well mostly!). It was very satisfying when we fixed the bug. All the hard work I've been putting in the last few days to understand the back-end and what all the code is doing really help me to troubleshoot things. It was really good to be forced to read the errors in the terminal and to use our detective skills to work our way to the specific area of code in which the problem lay.
+
+- When we had finished the debugging task we wrote a few more routes to perform other CRUD operations (update and delete). I used PATCH for the first time.
+
+### Thoughts:
+
+All the tasks today were really good practice - sometimes I skip writing pseudo code if I think the problem is easy but it can be at these times that I trip up. I must do it all the time! Make the effort 😀
+
+We got stuck on one of the debugging tasks for aaages! I think we fixed all the other bugs in the process as as soon as we got over this one bug everything else worked straight away! I could feel myself starting to get a bit frustrated at one point but we just kept reading back through all the code (and Google-ing) until we found the problem! I'm really pleased I persevered and it was very satisfying in the end!
+
+### Links to work / resources:
+
+I was pleased with this function I wrote using fat arrow syntax and a conditional operator:
+
+![Gravity Flip Codewars Kata](./Assets/Images/gravityFlip.PNG)
+
+Some routes I wrote to complete our debugging challenge:
+
+![Routes](./Assets/Images/routesForDebugging.PNG)
 
 ### Day
 
