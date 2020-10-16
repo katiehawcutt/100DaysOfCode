@@ -1858,13 +1858,51 @@ Some routes I wrote to complete our debugging challenge:
 
 ![Routes](./Assets/Images/routesForDebugging.PNG)
 
-### Day
+### Day 73
+
+_15th October_
+
+#### Day 19 of the MOB
 
 ### Today's progress:
 
+- This morning we had a talk from Joe on Crucial Conversations. I learnt that a Crucial Conversation is one in which the stakes feel high, opinions may differ and where emotions will likely become involved. Although it's often important and necessary to have these conversations it can be difficult to do them well and often people will either avoid them altogether, dilute down what they really need to say, shutdown or withdraw completely or force their opinion on someone else. To help stop this happening we must be willing to share our stories and listen to other peoples in order to better understand other viewpoints and hopefully enable us to come to the correct decision in a positive manner. We must respect others viewpoints, try to find a shared goal, and try to agree a way forward together.
+
+- For the rest of the day we started working on this weeks hackathon (we got a head start this week!) and our challenge was to build our first ever full stack app! It's a scoreboard for the SoC Energizers! The criteria was that the app:
+  - Must use a Database for persistent storage
+  - Must use the model pattern to allow easy interaction with the data
+  - Must use an REST API server to manage requests and serve back data
+  - Must have a front end which allows users to at least view the data
+
+We made fantastic progress today and got the back-end working fairly quickly and easily! We then started work on the front end and have designed a basic web page. I was super happy as I managed to connect the back-end to the front-end and display the data from our database in a table on the web page! Tomorrow we need to hook up our post request to the front end and do a bit more styling.
+
 ### Thoughts:
 
+I am so pleased with our progress today! I really feel like I have understood all the back-end learning we have done over the past couple of weeks and so we didn't have too many problems making our own. We made a detailed plan for setting up the back-end and made sure we stuck to it which I think really helped. And I was so buzzing that I managed to connect it to the front end using the DOM. My understanding of functionality and syntax has increased so much over the last month and it's great to have the chance to prove to myself that I can tackle new problems and solve them! 😀
+
 ### Links to work / resources:
+
+Some of the code I wrote to get the data from the database displaying on the web-page:
+
+![scoreboard app](./Assets/Images/scoreboardFront.PNG)
+
+### Day 74
+
+_16th October_
+
+#### Day 20 of the MOB
+
+### Today's progress:
+
+- Today we finished off our hackathon project that we started yesterday! We got our front end working and did some styling on it. We were able to display the data from our database, create a new entry and save it to the database / display it on the page, and also delete all the data. If we had more time, we could have added functionality to delete rows by id.
+
+### Thoughts:
+
+I'm so pleased with all the progress I have made this week. It's really consolidated both the back-end and front-end and how they link together. I'm so happy that I was able to make my first full-stack app with no help! After just 4 weeks on the bootcamp that feels awesome! Going to have a rest this weekend but also keep pushing forward with my learning and recap on a couple of things. Looking forward to React next week!
+
+### Links to work / resources:
+
+![Our SoC Scoreboard app](./Assets/Images/socEnergizerScoreboard.PNG)
 
 ### Day
 
