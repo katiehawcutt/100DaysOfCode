@@ -1773,6 +1773,8 @@ _12th October_
   - writing scripts and linking them to the app.js file
   - remembering that prepared statements in SQL protect us against SQL injections.
 
+- Over lunch I had my first meeting with my mentor and we introduced ourselves and got to know each other a bit! It was interesting to hear how he got in to tech and what he does for a job now.
+
 - This afternoon we learnt more about about REST and Express. I learnt / recapped that:
 
   - Express helps us to create maintainable servers / is an easy way to set up a server. It is an npm package that we can install.
@@ -1894,7 +1896,7 @@ _16th October_
 
 ### Today's progress:
 
-- Today we finished off our hackathon project that we started yesterday! We got our front end working and did some styling on it. We were able to display the data from our database, create a new entry and save it to the database / display it on the page, and also delete all the data. If we had more time, we could have added functionality to delete rows by id.
+- Today we finished off our hackathon project that we started yesterday! We got our front end working and did some styling on it. We were able to display the data from our database, create a new entry and save it to the database / display it on the page, and also delete all the data. If we had more time, we could have added functionality to delete rows by id. I really have learnt so much about connecting the back & front ends, reading errors messages and deciphering them, and the importance of planning before you start to do any coding!
 
 ### Thoughts:
 
@@ -1903,6 +1905,34 @@ I'm so pleased with all the progress I have made this week. It's really consolid
 ### Links to work / resources:
 
 ![Our SoC Scoreboard app](./Assets/Images/socEnergizerScoreboard.PNG)
+
+### Day 75
+
+_19th October_
+
+### Today's progress:
+
+- I completed the SoC Bootcamp JS 101 Mastery Task and submitted it.
+
+- I wrote a few more tests and debugged some functions that we were given the other day (as I hadn't completed them all). I used Jest to write and run my tests. One new thing I learnt is that you can use a for loop inside a test to make it run a certain amount of times. This was very useful as the test I was running was to check that one of three words ('rock', 'paper' or 'scissors') was being generated randomly every time the function ran. To make this test effective I needed to run it lots of times (to check no other words might be generated every so often).
+
+### Thoughts:
+
+I enjoyed doing a bit of chilled coding today. I actually really enjoy writing tests and running them, then fixing bugs. I find it very satisfying!
+
+### Links to work / resources:
+
+A couple of tests I wrote to check that one of three words ('rock', 'paper' or 'scissors') was being generated randomly every time the function ran:
+
+![tests for generateComputerMove function](./Assets/Images/testGenerateComputerMove.PNG)
+
+### Day
+
+### Today's progress:
+
+### Thoughts:
+
+### Links to work / resources:
 
 ### Day
 
