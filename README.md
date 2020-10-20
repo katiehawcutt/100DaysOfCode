@@ -1926,7 +1926,46 @@ A couple of tests I wrote to check that one of three words ('rock', 'paper' or '
 
 ![tests for generateComputerMove function](./Assets/Images/testGenerateComputerMove.PNG)
 
-### Day
+### Day 76
+
+_19th October_
+
+#### Day 21 of the MOB
+
+### Today's progress:
+
+- We started the week with our individual recap tasks as normal. We had to create a server, database, link them together, populate the database with information and then write routes for the different requests. Then we had to write a some tests for a function. I managed to complete it and get on to the bonus activity which was creating a front end - didn't get too far with this as I ran out of time!
+
+- We took a bit more of a deep dive into problem solving and how we approach it. I learnt that:
+
+  - Understanding the problem is the most important part of solving the problem. Really spend time doing this.
+  - Once you understand the problem you can come up with solutions and then prioritise the solutions / steps as you move forward.
+
+- We learnt that the Disney Ideation Framework (or Disney Method) is a way to think-up and refine ideas by breaking the process into three distinct chunks - the dreamer phase, the realist phase and the critic phase (see pictures below for more detail on each). It involves parallel thinking to analyse a problem, evaluate ideas, construct and critique a plan of action. This creative process bridges the gap between imagination and reality and allows teams to come up with creative solutions to problems with an action plan of how to achieve it.
+
+- I learnt that Agile Methodology revolves around iterations with regular reviews, progress reports and tests. This means that problems can be addressed as they arise, alterations to the plan put in place and less time wasted. The project is broken up into several stages and involves constant collaboration with stakeholders and continuous improvement and iteration at every stage. Because of this, the final product is likely to fit the customers needs much better than when using a 'waterfall' approach.
+
+- The MVP (minimum viable product) should be the first thing we aim to achieve as that way we are solving getting to the crux of the problem straight away and solving that first. Once we have the MVP we can then add more / expand from there.
+
+- This afternoon, in our pairs, we created our own CodeWars style challenges and wrote tests to test the answer. We then swapped these with another team and they had to answer ours and we had to complete theirs. It was a fun way to generate a creative problem, practice problem solving it ourselves before then writing the tests! Feedback from the team who had ours was that it was tricky but that they managed to complete it and learnt some new array methods along the way! So that was great 🙂
+
+### Thoughts:
+
+I enjoyed learning about the Disney Method and discussing in our groups. I also really liked creating the CodeWars style challenge and writing the tests. Felt like a fairly easy day today and nice to have a gentle start to the week!
+
+### Links to work / resources:
+
+The CodeWars style challenge that we wrote and then solved ourselves before writing tests for it:
+
+![Our coding challenge](./Assets/Images/jazzyStringMixChallenge.PNG)
+
+![Our challenge tests](./Assets/Images/jazztStringMixTests.PNG)
+
+### Day 77
+
+_20th October_
+
+#### Day 22 of the MOB
 
 ### Today's progress:
 
