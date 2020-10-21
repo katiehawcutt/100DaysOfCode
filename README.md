@@ -1969,6 +1969,39 @@ _20th October_
 
 ### Today's progress:
 
+- Today we started learning about Object Oriented Programming (OOP). I learnt that:
+
+  - Objects (with a capital O) are different to the JavaScript objects we have worked with so far
+  - Objects have state and behaviours.
+  - An Objects state is the properties on an object
+  - An Objects behaviour is the methods on an object
+  - A function within a class is called a method
+  - I learnt how to create a class and create a new instance of a class
+  - Classes act as a "blueprint" for objects by specifying states and behaviours
+  - They're helpful when you need to reuse behaviours and functionality.
+  - I learnt that OOP helps us to solve real world problems in a computational way
+  - Classes can be extended; the child class inherits the states and behaviours of its
+    parent class.
+  - The child class inherits all of the parents class states and properties
+  - You can use super to access the methods of the parent class.
+  - The downsides of OOP is that it is very rigid and relies on mutation
+  - In JavaScript OOP is a design choice but some programming languages (eg. Java) are completely object oriented
+  - A static method is a method you can use without declaring an instance of a class
+
+### Thoughts:
+
+I found this afternoons task really hard as I couldn't get my head around which classes needed which state, and how to use certain classes within others. Although it is still all JavaScript (and I know I could have completed the task fine without using Objects) somehow this new context for working really threw me. I hoping I'll get better at it throughout the week but I'm feeling a bit tired and disappointed about it all today.
+
+### Links to work / resources:
+
+The Game Class and game loop for Nim:
+
+![nim game loop](./Assets/Images/nimGameLoop.PNG)
+
+### Day
+
+### Today's progress:
+
 ### Thoughts:
 
 ### Links to work / resources:
