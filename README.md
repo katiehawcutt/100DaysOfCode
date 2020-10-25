@@ -1994,17 +1994,125 @@ I found this afternoons task really hard as I couldn't get my head around which 
 
 ### Links to work / resources:
 
-The Game Class and game loop for Nim:
+Using OOP to make the Game Class and game loop for Nim:
 
 ![nim game loop](./Assets/Images/nimGameLoop.PNG)
 
-### Day
+### Day 78
+
+_21st October_
+
+#### Day 23 of the MOB
 
 ### Today's progress:
 
+- We started the day with 90 mins of CodeWars challenges. I really enjoyed this today 🙂 We picked Kata that were challenging but not so hard that we couldn't complete them with a bit of good problem solving. We worked together as a great team and it was really satisfying to pass the tests.
+
+- We practiced planning games using OOP (no coding allowed, only planning!) to help up to understand state and behaviour better. We had to decide which classes were needed for the game and then which states and behaviours to write for each class. Finally we had to bring it all together by writing a game loop. It turns out that pretty much all games are quite tricky to make! Even the ones that you think will be simple, like hangman or snap.
+
+- In the afternoon we learnt about HTML5 Canvas and used it to try and re-create a famous painting! I learnt that:
+
+  - The HTML Canvas element allows you to draw graphics on a browser using JavaScript.
+  - You create a canvas in HTML with `<canvas></canvas>`
+  - One way to use canvas (the way we used it) is by using the 2d getContext method.
+  - We learnt how to draw a rectangle using `fillRect()` and a circle using `arc()` but there are lots of other things you can do to!
+  - You can create a stand-alone line using `beginPath()`.
+
+- To finish the day we began planning for this weeks Hackathon. Our challenge is to create a game using OOP. We chose to make Connect Four! We wrote a detailed plan about which classes, states and behaviours to use. We also briefly touched on Kanban (a workflow management method) and got introduced to Trello which is a simple implementation of Kanban style project management. We were encouraged to use it to help plan and run this weeks hackathon.
+
 ### Thoughts:
 
+Still struggling with OOP a bit but made some progress since yesterday so that's good. We used yesterday's 'Nim' game to help us plan Connect Four as it gave us ideas about what classes, states and behaviours we might need. Feeling a bit daunted by the hackathon this week as I've struggled with getting to grips with some of this weeks content. I do believe that things will click soon but in the mean time I just need to try and stay positive and get everything in perspective! (finding that a bit hard this week as I'm tired)
+
 ### Links to work / resources:
+
+Two of the kata's we solved:
+
+![Filling an array kata](./Assets/Images/fillingAnArrayKata.PNG)
+
+![A Wolf In Sheeps Clothing kata](./Assets/Images/aWolfInSheepsClothingKata.PNG)
+
+The famous painting we tried to re-create using HTML5 - _#3 Composition II in Red, Blue, and Yellow by Mondrian_:
+
+### Day 79
+
+_22nd October_
+
+#### Day 24 of the MOB
+
+### Today's progress:
+
+- We learnt about Resilience & Mental Toughness in our session with Joe this morning. His main point was that everyone has setbacks from time to time and that's perfectly normal - we wouldn't be human if we didn't! But knowing how you react to them (having good self-awareness) and putting some strategies in place to cope (taking action) when you do experience them is super important and will help you to build good mental resilience. That way, when you come through the experience you will have levelled up your mindset. I know I am a perfectionist and and pusher (see pictures below) and I do often struggle with the nagging voice inside my head saying I could do more! For me, keeping things in perspective is key, and making sure I have some down time and talk to people really helps.
+
+- We learnt about SOLID OOP Principles:
+  - S.O.L.I.D is an acronym for the first five OOP principles
+  - When combined together, these principles make it easy for a programmer to develop software that are easy to maintain and extend. They also make it easy for developers to avoid bad code, easily refactor code, and are also a part of the agile or adaptive software development.
+  - S: single-responsibility - A class should have one and only one reason to change, meaning that a class should have only one job.
+  - O: open-closed - Objects or entities should be open for extension, but closed for modification
+  - L: Liskov substitution - Every subclass/derived class should be substitutable for their base/parent class (put simply - when you extend a class the methods should behave in the same way - take in the same thing and give the same thing out)
+  - I: interface-segregation - A client should never be forced to implement an interface that it doesn’t use or clients shouldn’t be forced to depend on methods they do not use.
+  - D: dependency-inversion - Entities must depend on abstractions not on concretions. It states that the high level module must not depend on the low level module, but they should depend on abstractions.
+
+I don't really understand the last two but at least I know they exist so I can always look into them more at some point!
+
+- We continued working on our Hackathon challenge and we made some good progress today. We finished the planning stage and began building, making our classes and game loop. We have purposefully made a very simple MVP plan and once we have achieved that we can keep improving from there. By the end of the day we got out game loop working and almost managed to color in the chosen square. I did some extra work in the evening and managed to get it all working! This is great as it means we can set about making it even better tomorrow.
+
+- Some points that have been reaffirmed today about OOP:
+
+  - The two building blocks of Classes in Object Oriented Programming are State and Behaviours.
+  - Each Class in OOP should be responsible for changing its own properties.
+  - OOP allows for classes in a program to be easily re-used and scaled.
+  - It helps to build code that can be easily maintained and modified.
+  - It helps to conceptualise programming problems by breaking them down into
+    separate parts.
+
+- We attended a SoC webinar at lunchtime in which Chris was talking about the aim of SoC, interviewing some ex-bootcampers and also a potential bootcamper employer (and head of back-end) from The Economist in Birmingham. At the end of the day we also another talk from Manu, a bootcamper from the 2nd cohort who now works at The Economist. It was really helpful and inspiring to hear how SoC has changed so many lives (hopefullly mine too!), what working in the industry is really like and how tech businesses in Birmingham love recruting from SoC as it does a really good job of preparing bootcampers for real life work in tech teams. Which is great news! The main take-aways from these talks which I found really helpful were:
+  - You don't need to know everything before you start the job - you learn in the role
+  - There are many different tech jobs out there and you will be able to find one that you enjoy
+  - School of Code really is awesome!
+
+### Thoughts:
+
+Joe's session this morning came at the perfect time and was really helpful for me as I've been struggling with mental toughness a bit this week. It was also great to talk to fellow bootcampers about the struggles and it helped me to realise that I am not alone!
+
+I'm pleased with where we've got to with out Connect Four game today - we've almost got our very basic MVP working which considering where we were on Tuesday is a great achievement! Feeling more positive and confident about OOP.
+
+### Links to work / resources:
+
+My inner voice is often a perfectionist or pusher!
+
+![Perfectionist character traits](./Assets/Images/perfectionist.PNG)
+![Pusher character traits](./Assets/Images/pusher.PNG)
+![Ways to build resilience](./Assets/Images/resilience3.PNG)
+
+### Day 80
+
+_23rd October_
+
+#### Day 25 of the MOB
+
+### Today's progress:
+
+- We had a guest talk on Agile Methodology - what it is and why it's useful. I learnt that Agile Methodology values:
+
+  - Individuals ad interactions over processes and tools
+  - Working software over comprehensive documentation
+  - Customer collaboration over contract negotiation
+  - Responding to change over following a plan
+
+- The main reasons why Agile is better than Waterfall is that it reduces the risks associated with the delivery of the product and it delivers better value to the client. There are many way to implement Agile including Scrum, Kanban, XP (extreme programming) and FDD (feature driven development).
+
+- We spent the rest of the day working on our OOP games. Valentina and I completed our MVP in the morning which was great! We got our game working using prompt to get the users name and their column choice. So then we set about adding even more value to it. We made inputs for the players names, and allowed them to pick their own counter color. We added buttons to the bottom of the grid which were used to select the column rather than prompt. This was interesting as it turned the game from being loop driven to event driven. Once we'd completed that we started working on an a 'winner' algorithm to work out if there are four of the same color counters in a row and if so, who's won the game. It was quite tricky as we have to check the grid / arrays horizontally, vertically and diagonally. We didn't get time to complete this but I would like to continue working on it as I'd love to find out how to do it!
+
+### Thoughts:
+
+I'm really pleased with the progress I've made this week - both code-wise and character-wise. It was a tough week as I didn't get OOP to start with and I really hate not understanding things. It was the first time since I started the bootcamp that I felt completely lost and it really knocked my confidence and enthusiasm and made me very emotional! BUT I persevered and was desperate to understand and so put in extra hours, went to the after-bootcamp sessions and asked lots of questions until things started to make more sense. I need to keep remembering that what we're learning is hard, to be kind to myself and to keep things in perspective. I'm making so much progress in the grand scheme of things and that's fantastic!
+
+### Links to work / resources:
+
+Our Connect Four game designed using OOP principles:
+
+![Our Connect Four Game](./Assets/Images/connect4.PNG)
 
 ### Day
 
