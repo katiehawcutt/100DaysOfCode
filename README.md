@@ -2114,6 +2114,20 @@ Our Connect Four game designed using OOP principles:
 
 ![Our Connect Four Game](./Assets/Images/connect4.PNG)
 
+### Day 81
+
+_25th October_
+
+### Today's progress:
+
+- I spent some time working on the SoC Bootcamp Mastery Tasks and completed one on CSS basics, logic flow and loops. The loops one was the trickiest and required me to use all sorts of loops (some of which I hadn't used before) including a for loop, do-while loop, while loop, for in, for of, and I had to use a loop label, a break statement and continue statement.
+
+### Thoughts:
+
+I'm enjoying doing the mastery tasks and it's giving me a good sense of where I'm at with things. I haven't struggled with any of them too much yet. It's also good to recap things we learnt a few weeks ago!
+
+### Links to work / resources:
+
 ### Day
 
 ### Today's progress:
