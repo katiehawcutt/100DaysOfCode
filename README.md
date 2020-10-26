@@ -2128,6 +2128,67 @@ I'm enjoying doing the mastery tasks and it's giving me a good sense of where I'
 
 ### Links to work / resources:
 
+### Day 82
+
+_26th October_
+
+#### Day 26 of the MOB
+
+### Today's progress:
+
+- We started this week with an individual recap task on OOP and HTML5 Canvas - the two things we learnt about last week. I made a simple picture using the canvas which I think demonstrated I knew the basics but this is something I'd like to look into more at some point as I know I am just scrapping the surface at the moment!
+
+- Before lunch we had a fun task of recreating the Google webpage but we had to do it in a text-editor (so no help from VS Code), we weren't allowed to check to see what it was looking like as we made it (we could only look at the end), we weren't allowed to Google anything and we only had 10 minutes! I feel fairly confident with CSS so I enjoyed this task and I think I did quite well considering!! (see picture below!) Big learning points from this task were:
+
+  - how nice it is using VSCode which tidies everything up, auto fills, and uses different colors so you can see what everything does! It's so much quicker and less error prone. I had to concentrate so much when coding in the text-editor! Good practice though...
+  - I look a lot in the browser when designing / creating with HTML and CSS to check that everything is rendering as I want it to - I probably don't need to do this quite as much although I am a perfectionist when it comes to design so I find it hard not to keep checking!
+
+- We started learning about React! I learnt that:
+
+  - React is a front-end framework
+  - It allows us to keep the view and state of our app in sync
+  - It's simple
+  - It allows us to create modular reusable components
+  - It's scalable and maintainable
+  - It's open-source, infuential and widely used
+  - It's almost like JavaScript!
+
+- What does it mean to be scalable?
+
+  - it can be worked on by a large team
+  - it can get information from lots of places
+
+- Other important things I learnt:
+  - OOP relies on mutation whereas React is functional programming which should be immutable
+  - React has a virtual DOM which is a virtual representation of the DOM but it is quicker to update and then it's reconciled to the real DOM
+  - React uses component-based architecture - components are like building bricks in that they are re-useable and we can use them to build anything so they're very useful.
+  - Components have single responsibility and should only do one thing
+  - JSX stands for JavaScriptXML and it is a syntax extension specifically designed for use with React. It is a declarative API for how we write components.
+  - Babel is a JavaScript compiler that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments.
+  - We need Babel if we want to use JSX. It takes JSX and transpiles it into raw Javascript (which the computer can understand)
+  - Babel can transpile other things such as JS ES6 syntax into more traditional JS syntax
+  - To use JSX you have to load Babel into the document which will convert the JSX we write back into the raw API
+
+### Thoughts:
+
+I was a bit worried about the recap task this week after struggling a bit with OOP at the start of last week but I think that making a Connect Four for our hackathon challenge really helped me to get to grips with it more. There was one hard question at the end of the recap which I'm not sure I got right but I gave it a good go (creating a juggling loop)! Definitely lots of progress since last week so overall I'm happy.
+
+I enjoyed our introduction to React and I'm looking forward to seeing where it leads the rest of this week!
+
+### Links to work / resources:
+
+My Google homepage which I made in a text-editor in 10 minutes without looking at it once (until the end)! 😂
+
+![Google homepage attempt](./Assets/Images/googleRecreate.PNG)
+
+My first HTML5 Canvas picture 😂:
+
+![my first canvas picture](./Assets/Images/firstCanvasDrawing.PNG)
+
+My first React component:
+
+![My first React component](./Assets/Images/firstReactComponent.PNG)
+
 ### Day
 
 ### Today's progress:
