@@ -2032,7 +2032,9 @@ Two of the kata's we solved:
 
 ![A Wolf In Sheeps Clothing kata](./Assets/Images/aWolfInSheepsClothingKata.PNG)
 
-The famous painting we tried to re-create using HTML5 - _#3 Composition II in Red, Blue, and Yellow by Mondrian_:
+The famous painting we tried to re-create (on the right) versus our version using HTML5 (on the left) - _#3 Composition II in Red, Blue, and Yellow by Mondrian_:
+
+![Mondrian's painting done in Canvas](./Assets/Images/canvasFamousPainting.PNG)
 
 ### Day 79
 
