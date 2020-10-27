@@ -2166,8 +2166,9 @@ _26th October_
   - React uses component-based architecture - components are like building bricks in that they are re-useable and we can use them to build anything so they're very useful.
   - Components have single responsibility and should only do one thing
   - JSX stands for JavaScriptXML and it is a syntax extension specifically designed for use with React. It is a declarative API for how we write components.
+  - JSX means that we can write HTML and JS together in the same file. It's easier to write.
   - Babel is a JavaScript compiler that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments.
-  - We need Babel if we want to use JSX. It takes JSX and transpiles it into raw Javascript (which the computer can understand)
+  - We need Babel if we want to use JSX. It takes JSX and transpiles it into raw Javascript (which the browser can understand)
   - Babel can transpile other things such as JS ES6 syntax into more traditional JS syntax
   - To use JSX you have to load Babel into the document which will convert the JSX we write back into the raw API
 
@@ -2190,6 +2191,85 @@ My first HTML5 Canvas picture 😂:
 My first React component:
 
 ![My first React component](./Assets/Images/firstReactComponent.PNG)
+
+### Day 83
+
+_27th October_
+
+#### Day 27 of the MOB
+
+### Today's progress:
+
+- Today we continued learning React and I learnt lots! My main learning points are:
+
+JSX:
+
+- JSX allows us to combine HTML & JS together in the same file
+- It's easier to read and understand which is why we use it
+- properties become camelCase
+- the `class` attribute becomes `className`
+- tags must be closed
+
+COMPONENTS:
+
+- a component is a small reusable code block
+- they mean we can divide the webpage (UI) into lots of small chunks
+- each component has it's own HTML, CSS andJS file
+- there are two types of components - Functional (stateless) and Class (stateful). The ones we are learning to build at the moment are Functional. Functional components are stateless unless we use hooks.
+- a functional component is a JS function that returns a JSX element
+- Function names must start with a capital letter
+
+PROPS:
+
+- Props is a special word in React which stands for properties
+- They can be passed like function arguments
+- They can only be used in a uni-directional flow (from parent to child)
+
+OTHER REACT STUFF:
+
+- React is immutable
+- React handles the DOM updates - we don't need to worry about it
+- React is modular and has a component tree
+- To create a React app we have to run `npx create-react-app my-app` <-- name of app
+- A Create React App does Babel transpilation for us, has Jest installed for us, runs a Webpack server for us and will build us raw HTML/CSS/JS for production
+- Webpack is a tool that lets you compile JavaScript modules, also known as module bundler. Given a large number of files, it generates a single file (or a few files) that run your app. It can perform many operations: helps you bundle your resources.
+- We import and export different files (not require)
+- State is just stuff we want to remember such as variables, objects, arrays, etc.
+- I learnt that useState is a hook and that basic state syntax is: `const[state, setState] = useState(initialState)`
+
+### Thoughts:
+
+I enjoyed learning more about React today and how to use it to make components. It was interesting to learn about state and how to use it. Really starting to see now how React keeps state and view in sync. Pretty awesome!
+
+### Links to work / resources:
+
+What is state?
+
+![what is state](./Assets/Images/state.PNG)
+
+Lifting state:
+
+![lifting state in React](./Assets/Images/liftingState.PNG)
+
+React hooks:
+
+![React hooks intro](./Assets/Images/reactHooks.PNG)
+
+Props:
+
+![props](./Assets/Images/oneWayComs.PNG)
+
+### Day 84
+
+_28th October_
+
+### Day 28 of the MOB
+
+### Today's progress:
+
+### Thoughts:
+
+### Links to work / resources:
 
 ### Day
 
