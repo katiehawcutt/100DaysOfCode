@@ -2267,6 +2267,39 @@ _28th October_
 
 ### Today's progress:
 
+- Today we continued learning about React and built a few more little apps which helped us to understand better how component trees work, how props work, and how states and behaviours affect components. I'm getting more used to breaking down apps into components, separating out these components into different folders and files and then linking them together (importing and exporting). The work we did on OOP last week is really helping me with this 'separation of concerns' concept.
+
+- We learnt about the spread operator `...` which is an ES6 operator which takes in an iterable (e.g an array) and expands it into individual elements. The spread operator is commonly used to make copies of JS objects. Using this operator makes the code concise and enhances its readability.
+
+- We learnt about the `slice()` method which returns the selected elements in an array, as a new array object. It does not mutate the original array. The slice() method selects the elements starting at the given start argument (integer/index), and ends at, but does not include, the given end argument (integer/index).
+
+- Spread and slice are really useful when we want to avoid array mutations (eg. they allow us to write immutable code). Some problems with mutation are:
+  - Mutation may lead to unexpected and hard-to-debug issues, where data becomes incorrect somewhere, and you have no idea where it happens.
+  - Mutation makes code harder to understand: at any time, an array or object may have a different value, so we need to be very careful when reading the code.
+  - Mutation of function arguments makes the behaviour of a function surprising.
+
+### Thoughts:
+
+I'm not always feeling 100% clear on props and behaviour and still getting to grips with the component tree / separation of components but I think I'm getting there. I understand the overall concept now, it's just that sometimes I'm unsure of the details / which function / component needs to return what etc. After today I feel clearer on props though including when to destructure them and how to use them in components.
+
+### Links to work / resources:
+
+A little app we made which posts small articles of information to the page:
+
+![](./Assets/Images/postAppMain.PNG)
+
+The Post component:
+
+![](./Assets/Images/postComponent.PNG)
+
+### Day 85
+
+_29th October_
+
+#### Day 29 of the MOB
+
+### Today's progress:
+
 ### Thoughts:
 
 ### Links to work / resources:
