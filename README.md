@@ -2310,6 +2310,8 @@ _29th October_
   - BDD describes application behavior from a user’s point of view. Overall, the main goal of BDD is to improve the collaboration between all stakeholders involved in developing software and form a shared understanding among them.
   - I also learnt that when testing you can implement fakes within tests. Fakes helps you isolate the code you are testing by replacing other parts of the application with stubs or shims (types of fakes). These are small pieces of code that are under the control of your tests. By isolating your code for testing, you know that if the test fails, the cause is there and not somewhere else. Stubs and shims also let you test your code even if other parts of your application are not working yet.
   - Were were introduced to Cucumber (a platform for BDD testing), Mountebank (an open source, cross-platform, multi-protocol service virtualization tool) and Docker (an open platform for developing, shipping, and running applications). I need to look into these more and find out what exactly they do and how to use them!
+  - Unit testing is when you test a function or method in code to ensure it is giving the desired outcome.
+  - Examples of JavaScript testing frameworks are Mocha, Jasmine and Jest.
 
 - We spent the rest of the day finishing off our to-do lists:
   - We added a couple of new bits of functionality - a new component which was a delete all button (which as it suggests deleted all the list items) and we also enabled a list item to have a strike-through it when clicked.
@@ -2333,9 +2335,29 @@ _29th October_
 
 ### Today's progress:
 
+- Today was Hackathon Friday and we made a Noughts & Crosses game! It was really interesting as we were following a tutorial that that made Noughts & Crosses with the old style of React - using Class components. Our job was to translate that into new React - Functional Components and hooks! It was a very helpful task. My main learning points were:
+
+  - React components automatically re-render whenever there is a change in state or props.
+  - `useState()` is asynchronous which can cause problems sometimes! (I think we will be learning more about this next week)
+  - Dumb components (functional components without hooks) can also be called presentational components.
+  - If you're trying to create a new array from `setState()` don't forget to use the square brackets inside the parenthesis!! (held us up for ages)
+  - `console.log` everything! At one point I had handed in an argument to a function as a number but it was expecting an object as I'd put curly braces around it in the params. Again this held us up for a while but was easily caught once we had console logged.
+  - you can have more than one 'useState()' in a component
+  - even if you're following a tutorial it's still important to make a plan
+
 ### Thoughts:
 
+I enjoyed today and found it really useful. A lot of React code online / on StackOverflow etc. is written in the old style React (class based) which I didn't always fully understand before but after today's task I think I will be able to use that and take from it what I need much more easily. It'll be really useful when I'm Googling how to do things! I'm feeling quite tired now (I've worked pretty hard this week!) but overall really pleased with my progress and I'm feeling like I'm getting to grips with React. Looking forward to learning more next week!
+
 ### Links to work / resources:
+
+![Noughts and Crosses Games](./Assets/Images/noughts&crosses.PNG)
+
+Some of the code for our game:
+
+![](./Assets/Images/noughts&crossesCode1.PNG)
+
+![](./Assets/Images/noughts&crossesCode2.PNG)
 
 ### Day
 
