@@ -2300,6 +2300,39 @@ _29th October_
 
 ### Today's progress:
 
+- This morning we had a talk from Joe on Group Decision Making. We learnt that when making decisions as a group it's important to leave your ego behind. It's all about the team dynamic - that you've got each others backs and will work together to solve the problem. We learnt that some decisions are a one way door which means there is not going back and once that decision is made you are committed to that course of action. But other decisions are are two way door - you can try it, see what happens and back-track if you need too. More decisions than you think are two-way decisions so bear that in mind and if making a two-way decision, set yourselves a trip-wire/ a testing period to see if that choice is working and if not, backtrack or go another route. Another good thing to consider when making decisions is as a percentage, how confident are you that your decision is the right one? This sparks discussion and may help to bring clarity to the situation.
+
+- We had a guest lecture on Web App Testing. I was introduced to Behaviour Driven Development (BDD) which I'd not heard of before. I learnt that:
+
+  - BDD is an agile software development practice – introduced by Dan North in 2006 – that encourages collaboration between everyone involved in developing software: developers, testers, and business representatives such as product owners or business analysts.
+  - BDD aims to create a shared understanding of how an application should behave by discovering new features based on concrete examples. Key examples are then formalized with natural language following a Given/When/Then structure.
+  - BDD is facilitated through examples expressed in natural-language constructs expressing the expected system behavior, and automation validating these examples as acceptance tests.
+  - BDD describes application behavior from a user’s point of view. Overall, the main goal of BDD is to improve the collaboration between all stakeholders involved in developing software and form a shared understanding among them.
+  - I also learnt that when testing you can implement fakes within tests. Fakes helps you isolate the code you are testing by replacing other parts of the application with stubs or shims (types of fakes). These are small pieces of code that are under the control of your tests. By isolating your code for testing, you know that if the test fails, the cause is there and not somewhere else. Stubs and shims also let you test your code even if other parts of your application are not working yet.
+  - Were were introduced to Cucumber (a platform for BDD testing), Mountebank (an open source, cross-platform, multi-protocol service virtualization tool) and Docker (an open platform for developing, shipping, and running applications). I need to look into these more and find out what exactly they do and how to use them!
+
+- We spent the rest of the day finishing off our to-do lists:
+  - We added a couple of new bits of functionality - a new component which was a delete all button (which as it suggests deleted all the list items) and we also enabled a list item to have a strike-through it when clicked.
+  - I learnt that a “key” is a special string attribute you need to include when creating lists of elements. Keys help React identify which items have changed, are added, or are removed. Keys should be given to the elements inside the array to give the elements a stable identity. The best way to pick a key is to use a string that uniquely identifies a list item among its siblings. Most often you would use IDs from your data as keys. Using indexes is not recommended for keys if the order of items may change. This can negatively impact performance and may cause issues with component state.
+  - We spent some time styling our components and got used to using CSS within React and using individual stylesheets for each component.
+  - I also learnt that you can link google fonts in the public/index.html file and then use them anywhere in the app.
+
+### Thoughts:
+
+I really enjoyed working on our React apps today. I felt like a lot of concepts have been solidified in my mind and I also learnt the importance of using keys, amongst lots of other things. I feel like I am understanding what's going on and I'm looking forward to testing this knowledge with our hackathon tomorrow!
+
+### Links to work / resources:
+
+![My first React App](./Assets/Images/todoListAppReact.PNG)
+
+### Day 86
+
+_29th October_
+
+#### Day 30 of the MOB
+
+### Today's progress:
+
 ### Thoughts:
 
 ### Links to work / resources:
