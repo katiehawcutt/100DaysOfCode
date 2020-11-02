@@ -2359,6 +2359,32 @@ Some of the code for our game:
 
 ![](./Assets/Images/noughts&crossesCode2.PNG)
 
+### Day 87
+
+### Today's progress:
+
+- I started the Codecademy React course to help me solidify all the learning we did last week on the bootcamp. It's really useful to go over everything again and I've learnt a few new things including:
+
+  - ReactDOM.render() is the most common way to render JSX. It takes a JSX expression, creates a corresponding tree of DOM nodes and adds that tree to the DOM.
+  - Self-closing tags in JSX must have a /
+  - You cannot insert an if statement into a JSX tag as an if statement is not a JavaScript expression. However, you can use one outside of the JSX tags.
+  - However, instead of an if statement you might choose to use the ternary operator or the && operator.
+  - The && operator reads the expression on the left of the && and if it is true, it renders the JSX on the right side of the &&. If it is not true, it will be ignored and not rendered.
+
+- I listened to a great SyntaxFM podcast on Git Fundamentals. It was useful to have all the git commands explained and to understand exactly what they do.
+
+### Thoughts:
+
+Really enjoyed listening to Wes and Scott talk about Git Fundamentals today. I think I've only really scraped the surface of Git and I'm looking forward to doing more. The Codecademy course is good and I'm feeling reassured that I understand and took on board least week's SoC teaching!
+
+### Links to work / resources:
+
+[SyntaxFM Podcast on Git Fundamentals](https://open.spotify.com/episode/3E9rAq4OUO5KNH9dEFVony?si=f03z_aTCQSSAkAYBPKjhsA)
+
+Modules completed of the Codecademy React course:
+
+![First module complete of React Course](./Assets/Images/ReactCourse1.PNG)
+
 ### Day
 
 ### Today's progress:
