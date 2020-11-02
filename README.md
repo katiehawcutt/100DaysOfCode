@@ -2385,6 +2385,59 @@ Modules completed of the Codecademy React course:
 
 ![First module complete of React Course](./Assets/Images/ReactCourse1.PNG)
 
+### Day 88
+
+_2nd November_
+
+#### Day 31 of the MOB
+
+### Today's progress:
+
+- This morning we had our individual recap task and we had to make a to-do list using React. I felt fairly confident doing this and managed to get it working. If I had a bit more time I might have added some extra features but I completed all the tasks given and added some CSS so was pleased with what I achieved in the time. It's great to think how far I've come in a week!
+
+- We had a helpful Q&A session after lunch with an ex-bootcamper who now works at Jump24 in Birmingham. It was nice to hear his story and he had some helpful words of wisdom. He said that one of the most valuable things SoC taught him was _how_ to learn - it's meant that whatever challenges he faces in his job he is able to pick up new skills, learn new languages and generally be adaptable.
+
+- Today we learnt about `useEffect()`. I learnt that:
+  - `useEffect()` is a Hook that allows you to perform side-effects in functional components. These effects are only executed after the component has rendered, therefore not blocking the render itself.
+  - example of effects (or side-effects) are when we are directly changing the DOM, sending HTTP requests, using `setTimeout()` or anything else you interact with outside of React.
+  - when we use `useEffect()` we are telling React that our component needs to do something after `render()`. React will remember the function we passed and call it later after performing the DOM updates.
+  - there are two types of side-effects - effects that don't require clean-up (such as a HTTP request or directly changing the DOM), and effects that do require a clean-up (such as using setTimeout)
+  - the anatomy of `useEffect()` is: `useEffect(callback function, optional dependancies array)`
+  - the callback function takes whatever function we want to run after render
+  - the dependency array is the second optional argument in the useEffect function. As the name implies, it is an array of dependencies that, when changed from the previous render, will recall the effect function defined in the first argument.
+
+### Thoughts:
+
+I've enjoyed learning more about React today and using `useEffect()` for the first time. I'm really pleased with my progress so far over the past week and hope to build on this over the coming week. I'm not totally sure I understand about the two types of side-effect yet and what 'clean-up' actually means so I will look into this more.
+
+### Links to work / resources:
+
+Helpful articles:
+
+[The Virtual DOM](https://www.codecademy.com/articles/react-virtual-dom)
+
+[Understanding the useEffect dependency array](https://medium.com/better-programming/understanding-the-useeffect-dependency-array-2913da504c44)
+
+My to-do list recap task - creating a to-do list with React:
+
+![Another React to-do list](./Assets/Images/anotherToDoListReact.PNG)
+
+My first time using useEffect() to send a HTTP request to a Pokemon API:
+
+![Pokemon Generator using fetch and useEffect()](./Assets/Images/pokemonFetch.PNG)
+
+### Day 89
+
+_3rd November_
+
+#### Day 32 of the MOB
+
+### Today's progress:
+
+### Thoughts:
+
+### Links to work / resources:
+
 ### Day
 
 ### Today's progress:
