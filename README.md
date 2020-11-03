@@ -2434,6 +2434,54 @@ _3rd November_
 
 ### Today's progress:
 
+- Today we learnt about testing in React. I learnt that:
+
+  - tests are for our users and other other developers
+  - the React Testing Library is a light-weight solution for testing React components, it uses actual DOM nodes querying the DOM in the same way the user would, and it works with Jest but includes it's own React-specific matchers as well.
+  - React Testing Library / Jest come with React already so there is no need to install it again. To use it to test our code we have to import it in the top of our file like so: `import {render} from @testing-library/react`
+  - Some examples of custom React library matchers are `toBeInTheDocument`, `toHaveAttribute`, `toHaveBeenCalled`, `toContainElement`, `toHaveClass` and `toBeVisible`.
+  - [See here for all custom matchers](https://github.com/testing-library/jest-dom)
+  - queries include `getByTestId`, `getByText`, `findByValue` and `queryAllByAltText`.
+  - [See here for all queries](https://testing-library.com/docs/react-testing-library/cheatsheet)
+  - Remember (because I forgot) - you can also use all the normal Jest matchers!
+  - we can use `fireEvent` to check if a function is being called. To use it we must import it at the top of the file along with render: `import {render, fireEvent} from @testing-library/react`
+
+- This afternoon we learnt about PropTypes:
+
+  - PropTypes defines type and which props are required. This benefits the future you and other developers using your component in two ways:
+
+  1. You can easily open up a component and check which props are required and what type they should be.
+  2. When things get messed up React will give you an error message in the console, saying which props is wrong/missing plus the render method that caused the problem.
+
+  - prop-types is an npm package we can install and it enables runtime type checking for React props and similar objects.
+
+  - You can use prop-types to document the intended types of properties passed to components. React will check props passed to your components against those definitions, and warn in development if they don’t match.
+
+  - how to install prop-types: `npm install --save prop-types`
+  - how to import prop-types into your file: `import PropTypes from 'prop-types'`
+
+### Thoughts:
+
+Struggling a bit with motivation today. Powered through the day and completed all the tasks but in need of a rest tonight. Not sure why today has felt like hard work - maybe the topics? And also the pace was definitely slower today and maybe I needed a bit more adrenaline! But maybe I'm just a bit tired - who knows!
+
+### Links to work / resources:
+
+Some of the React tests we wrote:
+
+![React tests we wrote](./Assets/Images/ReactTestingExamples.PNG)
+
+An example of using PropTypes in our code:
+
+![An example of using PropTypes in our code](./Assets/Images/propTypesExample.PNG)
+
+### Day 90
+
+_4th November_
+
+#### Day 33 of the MOB
+
+### Today's progress:
+
 ### Thoughts:
 
 ### Links to work / resources:
