@@ -2482,6 +2482,51 @@ _4th November_
 
 ### Today's progress:
 
+- Today we learnt about Routing. I learnt that:
+
+  - a router allows your application to navigate between different components (pages), changing the browser URL, modifying the browser history, and keeping the UI state in sync.
+  - React is a popular library for building Single Page Applications (SPA's). However, as React focuses only on building user interfaces, it doesn’t have a built-in solution for routing.
+  - React Router is the most popular routing library for React. It allows you define routes in a declarative style.
+  - `react-router-dom` contains the router components for websites (which is what we need). To use it we need to install it like so: `npm install --save react-router-dom`
+  - At the top of our file (the main index.js) we also need to `import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";`
+  - The React Router API is based on three components: `<Router>` : The router that keeps the UI in sync with the URL, `<Link>`: Renders a navigation link, `<Route>`: Renders a UI component depending on the URL.
+  - [see the docs for more help](https://reactrouter.com/web/guides/quick-start)
+
+- We spent the rest of the morning practicing using React by making lots of little components. I was able to practice using the ternary operator again (to toggle a class on a button) and I'm feeling quite confident using this now. 🙂
+
+- This afternoon we got introduced to Model-View-Controller (MVC). I learnt that:
+  - Model–view–controller (usually known as MVC) is a software design pattern commonly used for developing user interfaces that divides the related program logic into three interconnected elements. This is done to separate internal representations of information from the ways information is presented to and accepted from the user.
+  - MVC became one of the first approaches to describe and implement software constructs in terms of their responsibilities.
+  - Although originally developed for desktop computing, MVC has been widely adopted as a design for World Wide Web applications in major programming languages. Several web frameworks have been created that enforce the pattern. These software frameworks vary in their interpretations, mainly in the way that the MVC responsibilities are divided between the client and server.
+  - MVC can be useful as it is a way to organize your code’s core functions into their own, neatly organized boxes. This makes thinking about your app, revisiting your app, and sharing your app with others much easier and cleaner.
+  - MODEL: The central component of the pattern. It is the application's dynamic data structure, independent of the user interface. It directly manages the data, logic and rules of the application. The model is responsible for managing the data of the application. It receives user input from the controller.
+  - VIEW: The view means presentation of the model in a particular format.
+  - CONTROLLER: The controller responds to the user input and performs interactions on the data model objects. The controller receives the input, optionally validates it and then passes the input to the model.
+  - [Helpful intorduction to MVC](https://www.codecademy.com/articles/mvc)
+
+### Thoughts:
+
+I struggled a bit with MVC this afternoon. I understand the overall concept and it makes sense to me. But what I didn't understand was actually how to then structure my code. For example, I don't understand how we can now pass state from the models file to the other files. Hopefully we will go over this again with maybe a few more examples!
+Thankfully everyone was in the same boat so I don't feel too worried.
+
+### Links to work / resources:
+
+How we used react-router-dom to
+
+![Using react-router-dom](./Assets/Images/reactRouterDOM.PNG)
+
+Our toggleButton component which we created in React - I got to practice using the ternary operator again:
+
+![toggleButton component](./Assets/Images/toggleButtonComponentReact.PNG)
+
+### Day 91
+
+_5th November_
+
+#### Day 34 of the MOB
+
+### Today's progress:
+
 ### Thoughts:
 
 ### Links to work / resources:
