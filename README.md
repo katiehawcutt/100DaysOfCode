@@ -2527,6 +2527,60 @@ _5th November_
 
 ### Today's progress:
 
+- This morning we had a talk from Joe on Effective Teams & Psychological Safety and how to develop it in a team:
+
+  - Making people feel safe within the team means that the team can function much more effectively so it's important to establish some group principles to help facilitate this. I want to be part of a team where people feel they can bring up problems and tough issues when appropriate, where people can ask for help and not be made to feel bad for doing so, where it's safe to take risks and mistakes are not held against you, where everyone's unique skills are valued and where everyone has the whole groups best interests at heart.
+  - To enable effective meetings it might be helpful to define some roles which different people in the group take on (just to make sure things are moving in the right direction) such as a facilitator, time-keeper and project manager.
+  - It's also a good idea to establish what the meeting is for before you have it - whether it's an ideas meeting, an action planning meeting or a decision-making meeting. That way, everyone comes with the right expectations and are aligned on the meeting goal.
+  - A good way to see if everyone on the team is okay and whether there are any problems is to have a check-in and check-out structure in place.
+  - An good idea for a check-in activity is WIFLE (What I Feel Like Now). Everyone takes a minute at the beginning of the meeting to say what's on their mind and if there are a lot of similar concerns regarding the project these can be addressed at a later point.
+  - Regarding check-out, it might be helpful to have a few questions to ask at the end of the meeting to ascertain whether things are good to go after the meeting. (see example questions below)
+
+- For the rest of the morning we continued learning about Agile Methodology and ways to implement it. I learnt that:
+
+  - Kanban and Scrum are both ways of implementing Agile Methodology
+  - When planning a product, make the MVP first and then once that's achieved you can move onto the MLP (Minimum Loveable Product)
+  - story points and estimation are a big part of the planning process. Breaking down work items into little pieces and estimating via story points helps use prioritize all (and potentially hidden!) areas of work.
+  - Traditional software teams give estimates in a time format: days, weeks, months. Many agile teams, however, have transitioned to story points. Story points rate the relative effort of work. The abstraction is helpful because it pushes the team to make tougher decisions around the difficulty of work.
+  - [Here is a fuller explanation of story points and some reasons to use them](https://www.atlassian.com/agile/project-management/estimation)
+
+- This afternoon we learnt how to make a branch on git! This is very useful when we are working in teams on projects as we can all work on different parts of the app at the same time. I learnt that:
+
+  - `git checkout -b nameOfBranch` creates a new branch
+  - `git branch` shows you all the branches there are
+  - `git branch -d nameOfBranch` will delete a specific branch
+  - `git merge main` will merge the main branch into the branch you're on
+  - you can make a pull request on Github
+  - if there is a merge conflict you can resolve it in Github or locally in the terminal
+
+- We spent the last part of the day continuing with some React Cardio exercises. I was pleased with the digital clock we made in React and how we formatted it (with 0's in front of the numbers if the number was less that 10)
+
+### Thoughts:
+
+We covered a lot of different topics today and they are all going to be really useful as we move into project week next week. I'm looking forward to implementing the Effective Team learning and Agile Methodology we've learnt about but I'm also a little bit apprehensive as we've not worked in 4's before. My brain is feeling quite full this week and I'm feeling like I'm reaching my capacity at the moment so I'm looking forward to implementing everything we've learnt so far next week and letting everything sink in.
+
+### Links to work / resources:
+
+The digital clock we made in React:
+
+![React Digital Clock](./Assets/Images/reactDigitalClock.PNG)
+
+The Four Quadrants of Psychological Safety:
+
+![Psychological Safety](./Assets/Images/4QuadrantsOfSafety.PNG)
+
+Good questions to ask at the end of a meeting (during checkout):
+
+![checkout questions](./Assets/Images/checkoutQuestions.PNG)
+
+### Day 92
+
+_6th November_
+
+#### Day 35 of the MOB
+
+### Today's progress:
+
 ### Thoughts:
 
 ### Links to work / resources:
