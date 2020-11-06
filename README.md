@@ -2581,6 +2581,34 @@ _6th November_
 
 ### Today's progress:
 
+- Today was hackathon Friday and this weeks task was to make a React app and use an API. We researched some API's and decided that we wanted to make a weather app! For this hackathon we worked in teams of 4 which we hadn't done before. It was a great opportunity to put into practice some of the team work strategies we have been learning about and to implement agile methods. I think we communicated well as a team and I believe it helped that I had worked with everyone in the team before so we all knew each other and how we worked quite well. We made a good MVP, MLP and plan and used Trello to make a Kanban board. Once we'd written out all the tasks we split into pairs and worked on some specific tasks. We checked in with each other regularly and set up a Slack group so we could keep in contact all the time, and that was really useful. We got our MVP working by lunchtime and then went about working on our MLP. Me and my partner were working on a input field which queried the API for the weather in a specific city by user input. We got a bit stuck on this although we did get it working at the last minute. However, it meant that we didn't have time to merge our branches before we presented so we didn't get to show off our app in all it's glory! But we were really close!! My main take-away points from today were:
+  - get really good at making branches and merging! We had lots of practice of this today but I'm still getting used to it.
+  - always make a branch. The reason we had something to show at the end was because we were working on our input in another branch. This meant, we could show our main branch to the group (which was in a presentable state) and although it was our MVP rather than our MLP that was still good!
+  - make sure everyone is happy in the group and has a chance to speak.
+  - leave more time at the end to prepare for the group presentation. I think I often panic when sharing (often because it's a bit last minute and we are rushing to get things done at the end!) and I don't show our work off enough, explain what we've done or big it up! I need to get better at this.
+
+### Thoughts:
+
+I really enjoyed today. I was a bit apprehensive about working in a bigger team but on the whole it went well and I even had fun!! Super tired now and really hoping I get enough rest and recharging time over the weekend as my brain really needs it.
+
+### Links to work / resources:
+
+Our Trello Board for making our Weather App:
+
+![Trello Board for making our Weather App](./Assets/Images/trelloboardWeatherApp.PNG)
+
+Our Weather App has a 'warm' background when the temperature is over 16°C:
+
+![our weather app warm temps](./Assets/Images/weatherAppWarm.PNG)
+
+And a cold background if the temperature is under 16°C or under:
+
+![our weather app cool temps](./Assets/Images/weatherAppCold.PNG)
+
+### Day 93
+
+### Today's progress:
+
 ### Thoughts:
 
 ### Links to work / resources:
