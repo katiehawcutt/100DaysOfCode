@@ -2607,6 +2607,52 @@ And a cold background if the temperature is under 16°C or under:
 
 ### Day 93
 
+_9th November_
+
+#### Day 36 of the MOB
+
+### Today's progress:
+
+- Today was the start of project week and our aim is to build something which enhances the SoC Mentoring experience. We spent most of the day thinking about the current bootcamper/mentor experience, identifying problem areas, and coming up with some possible solutions. We used the Disney Ideation Method to help us do this and recorded our ideas on Trello. We whittled down our ideas to one which we felt solved a current problem and then worked on an MVP and MLP for that product. Then we broke the MVP down into small manageable tasks and wrote them in a to do list. In the afternoon we were ready to start coding so we assigned each pair some tasks to do and split up to work on them. We kept checking in throughout the afternoon and set up a Slack channel so we could keep in regular communication. I think this worked well. I was working on the front end and we set up our component files and started building some components, as well as using react-router-DOM to link all the pages together. In the evening I spent a bit of time working on some basic CSS.
+
+### Thoughts:
+
+I think today went well overall. We're still getting to know each other as a team but I think we are working and communicating well together so far. We've never spent that much time planning before and I feel like it's something I want to get better at - knowing how to plan effectively and what tools to use to help us do so (eg. Trello, Figma, etc). I feel a but overwhelmed but I think once we've made a bit more progress towards our MVP I'll be able to relax more!
+
+### Links to work / resources:
+
+Our Trello board we used to plan:
+
+![Trello board for SoC Mentor app](./Assets/Images/trelloboardProjectWeek.PNG)
+
+### Day 94
+
+_10th November_
+
+#### Day 37 of the MOB
+
+### Today's progress:
+
+- This morning we had a guest lecture on SQL.
+
+- Seeing other peoples project plans this morning made me /us realise we might not have done enough detailed planning as a team. We had talked about a lot yesterday but not necessarily documented it so I think that is a good learning point - write everything down so you can refer back to it later. We spent about an hour this morning having another planning session and filling in some gaps from yesterday. We made a component tree diagram to help us and padded out our Trello board more. Once we had done this, we assigned each pair tasks to work on for the rest of the day, and we were pretty productive which was great! We split into different pairs from yesterday and worked on our assigned tasks. We came back together occasionally when we got stuck to try and help each other which I think was a nice way of doing things, and made sure we had regular check-ins (each time we had finished our tasks). Today I was working on the backend, getting the routes and models set up in a way which meant they were ready to receive the data from the front end in the correct format. It was good to refresh on this as I hadn't done much back-end for a few weeks.
+
+### Thoughts:
+
+I felt quite overwhelmed this morning and a bit stressed. I was worried that we hadn't done our planning correctly - even though we all knew what we were doing we didn't have as much written down as other groups. I felt better after we all agreed on this and did a bit more planning /writing down. The rest of the day has gone well and we've made good progress so I feel a bit better now.
+
+### Links to work / resources:
+
+We got all the routes set up for our app on the back-end:
+
+![routes](./Assets/Images/routesProjectWeek.PNG)
+
+### Day 95
+
+_11th November_
+
+#### Day 38 of the MOB
+
 ### Today's progress:
 
 ### Thoughts:
