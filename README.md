@@ -2633,7 +2633,16 @@ _10th November_
 
 ### Today's progress:
 
-- This morning we had a guest lecture on SQL.
+- This morning we had a guest lecture on SQL. It was fantastic to hear from someone so passionate about SQL explain to us why he loves it so much! It was a really useful overview of SQL and as well as covering some of the things we'd already learnt (like how to make queries and use joins) he also introduced us to a few more complex features. Here are my main learning points:
+
+  - There are two types of SQL statements - Data Definition Language (DDL) which is used to define the structure of the server and database (eg. create or delete tables, etc) and Data Manipulation Language (DML) which is used to manipulate the data found within databases and servers (eg. insert, delete or update records).
+  - Constraints are a set of rules that define how certain elements in a table work. Some examples of constraints are `not null`, `index`, `primary key`, `unique`, `default` and `check`.
+  - Data integrity: `Entity Integrity` ensures that each Primary Key value within a table is unique; `Domain Integrity` ensure that all rows follow the same data format for each column; `Referential Integrity` ensures that any references from one table or another can be satisfied by preventing the deletion of linked data.
+  - Execution plans
+  - Stored procedures (see below)
+  - There are two types of indexes - clustered and non-clustered (see picture below for more info)
+  - The Primary Key constraint is used to mark a column as a unique identifier for rows within a table. A reference to this Primary Key in another table should be marked with the constraint Foreign Key. This creates a link between the two tables and helps to maintain referential integrity.
+  - Schemas are a collection of database objects (tables, functions, indexes, stored procedures, etc) that logically relate to one another. They can be used to secure sensitive data by giving them restricted access at the database level.
 
 - Seeing other peoples project plans this morning made me /us realise we might not have done enough detailed planning as a team. We had talked about a lot yesterday but not necessarily documented it so I think that is a good learning point - write everything down so you can refer back to it later. We spent about an hour this morning having another planning session and filling in some gaps from yesterday. We made a component tree diagram to help us and padded out our Trello board more. Once we had done this, we assigned each pair tasks to work on for the rest of the day, and we were pretty productive which was great! We split into different pairs from yesterday and worked on our assigned tasks. We came back together occasionally when we got stuck to try and help each other which I think was a nice way of doing things, and made sure we had regular check-ins (each time we had finished our tasks). Today I was working on the backend, getting the routes and models set up in a way which meant they were ready to receive the data from the front end in the correct format. It was good to refresh on this as I hadn't done much back-end for a few weeks.
 
