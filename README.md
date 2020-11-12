@@ -2656,6 +2656,16 @@ We got all the routes set up for our app on the back-end:
 
 ![routes](./Assets/Images/routesProjectWeek.PNG)
 
+Learning from our SQL lecture:
+
+![Relational v Non-relational databases](./Assets/Images/sqlDB.PNG)
+
+![Relational data structure](./Assets/Images/relationalDBstructure.PNG)
+
+![Indexes](./Assets/Images/indexes.PNG)
+
+![Stored procedures](./Assets/Images/storedProcedures.PNG)
+
 ### Day 95
 
 _11th November_
