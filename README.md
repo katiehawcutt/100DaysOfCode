@@ -2674,9 +2674,76 @@ _11th November_
 
 ### Today's progress:
 
+- Made the nav links highlight to show the current page
+- Wrote the fetch requests and connected the front end to the back end
+- Worked on creating the mentor cards and all the CSS that went with it
+- Added images of all the mentors to the database / cards by having an input on the form where you add an image URL location. There are then rendered to the mentor cards.
+
 ### Thoughts:
 
+We had a positive day today and have pretty much finished our MVP. Doing the fetch requests took longer than we expected so there is a good learning point there about realistic time management/planning. But we still had a productive day overall and it was great seeing the card component coming together on the front end!
+
 ### Links to work / resources:
+
+Our fetch requests to the backend:
+
+![our fecth requests](./Assets/Images/fetchRequestsMentorApp.PNG)
+
+### Day 96
+
+_12th November_
+
+#### Day 39 of the MOB
+
+### Today's progress:
+
+- Today we were working on our MLP. We worked on a filter component for our app which filtered the mentor data according to criteria and only displayed those mentors which matched the criteria on the page
+- We finished the layout of our Find A Mentor page and added the filter bar to it
+- We started work on another page to display bootcamper data and their mentor choices. A stretch goal is to make this page accessible to the SoC Team only by having a login
+- We populated the database
+- We started work on another stretch goal - a Chris sorting hat feature
+- Wrote the article blurb for the bootcamper and mentor pages
+- Changed the background image across the site to the SoC starry night background
+- Made an input for bootcampers to choose their top five mentors
+
+### Thoughts:
+
+We've achieved a lot today and I think our app is now in a really good state to present tomorrow. I'm hoping we can add the last couple of features tomorrow morning which Patrick and Anna are working on tonight. Nervous but excited for our presentation tomorrow!
+
+### Links to work / resources:
+
+The code we wrote to filter our mentor data to specific criteria:
+
+![filter function](./Assets/Images/filterFunctionMentorApp.PNG)
+
+### Day 97
+
+_13th November_
+
+#### Day 40 of the MOB
+
+### Today's progress:
+
+- We put the finishing touches to our app!
+- We merged all the branches and sorted out any last conflicts
+- We went through whole website as a team and checked we were happy with all of it
+- We wrote our presentation and created some slides to go with it
+- We practiced our presentation a few times and did a mock-presentation to two of the SoC Team members and got feedback on areas to improve
+- We did the real thing and presented our product to Chris and some SoC Board members!
+
+### Thoughts:
+
+I'm so pleased with and proud of our project and with how our presentation went today! We worked really well as a team and I have learnt so much about working on an agile team and how to plan, process and structure work, not to mention git branching and merging. Our presentation went really well and I think we spoke really clearly and concisely and showed off our product to it's best. I've been running on a lot of adrenaline this week and there have been moments when I've felt overwhelmed but I'm super happy with how it's finished. Looking forward to some down time this weekend now!
+
+### Links to work / resources:
+
+The homepage of our app:
+
+![Mentor App Homepage](./Assets/Images/mentorAppHome.PNG)
+
+The Find A Mentor page of our app:
+
+![Find a mentor page](./Assets/Images/mentorAppFind.PNG)
 
 ### Day
 
