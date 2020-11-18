@@ -2733,7 +2733,7 @@ _13th November_
 
 ### Thoughts:
 
-I'm so pleased with and proud of our project and with how our presentation went today! We worked really well as a team and I have learnt so much about working on an agile team and how to plan, process and structure work, not to mention git branching and merging. Our presentation went really well and I think we spoke really clearly and concisely and showed off our product to it's best. I've been running on a lot of adrenaline this week and there have been moments when I've felt overwhelmed but I'm super happy with how it's finished. Looking forward to some down time this weekend now!
+I'm so pleased with and proud of our project and with how our presentation went today! We got a special mention from the judges for presenting a really well finished product with great UX and design so I was very happy with that! 😀😀 We worked really well as a team and I have learnt so much about working on an agile team and how to plan, process and structure work, not to mention git branching and merging. Our presentation went really well and I think we spoke really clearly and concisely and showed off our product to it's best. I've been running on a lot of adrenaline this week and there have been moments when I've felt overwhelmed but I'm super happy with how it's finished. Looking forward to some down time this weekend now!
 
 ### Links to work / resources:
 
@@ -2744,6 +2744,196 @@ The homepage of our app:
 The Find A Mentor page of our app:
 
 ![Find a mentor page](./Assets/Images/mentorAppFind.PNG)
+
+### Day 98
+
+_16th November_
+
+#### Day 41 of the MOB
+
+### Today's progress:
+
+- We had a retrospective in our project week teams about how we thought last week went. We used the Start, Stop, Continue style of retro and made a Trello board with the three columns. We reflected on and discussed all the points we put in each column. It was a really helpful exercise and I have lots of learning points to take forward to the next project.
+
+- I refreshed myself on the CSS position property with a SoC Mastery Task.
+
+- As I was completing another SoC Mastery Task on Agile I learnt about different ways / frameworks in which to implement Agile Methodology: Scrum, Kanban, Scrumban (a hybrid or Scrum and Kanban), XP (Extreme Programming), LSD (Lean Software Development, ), SAF (Scaled Agile Frameworks) and LSS (Large Scale Scrum)
+
+- We were introduced to Microservice Architecture. I learnt that Microservices - also known as the microservice architecture - is an architectural style that structures an application as a collection of services that are:
+
+  - Highly maintainable and testable
+  - Loosely coupled
+  - Independently deployable
+  - Organized around business capabilities
+  - Owned by a small team
+
+- The microservice architecture enables the rapid, frequent and reliable delivery of large, complex applications. It also enables an organization to evolve its technology stack.
+
+- Continuous Integration (CI) is a development practice where developers integrate code into a shared repository frequently, preferably several times a day. Each integration can then be verified by an automated build and automated tests. While automated testing is not strictly part of CI it is typically implied.
+
+- Continuous Deployment (CD) is a software release process that uses automated testing to validate if changes to a codebase are correct and stable for immediate autonomous deployment to a production environment. The software release cycle has evolved over time.
+
+- Continuous delivery (CD) is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time and, when releasing the software, doing so manually. It aims at building, testing, and releasing software with greater speed and frequency. The approach helps reduce the cost, time, and risk of delivering changes by allowing for more incremental updates to applications in production. A straightforward and repeatable deployment process is important for continuous delivery.
+
+- Continuous Delivery and Continuous Deployment have a lot in common BUT THEY ARE DIFFERENT. The key difference is that with Continuous Deployment, your application is run through an automated pipeline workflow. Whereas with Continuous Delivery, your application is ready to be deployed whenever your team decides it's time to do so. Delivery is the precursor to deployment. In delivery, there is a final manual approval step before production release.
+
+- We learnt how to deploy our apps. Deploying an application is the process of copying, configuring and enabling a specific application to a specific URL. Once the deployment process has finished, the application becomes publicly accessible on the URL. The goal of deployment is to make a product available to end users. We deployed our back-end using Heroku and our front-end end using Netlify. We had a few errors when trying to deploy to Netlify and we are yet to resolve these.
+
+### Thoughts:
+
+I really enjoyed our retros this morning and it was good to reflect on last weeks work. There were quite a few things we said that we would like to start doing next time so I will remember this list and look at it before the next project starts. This afternoon the energy levels felt a bit low on the bootcamp! But I enjoyed starting to learn about CICD - this is something which my mentor has said is important to know about so I'm going to research it further so I'm really clear on it. I think it might come up in interviews...
+
+### Links to work / resources:
+
+[Helpful article on Continuous Deployment](<./https://www.atlassian.com/continuous-delivery/continuous-deployment#:~:text=Continuous%20Deployment%20(CD)%20is%20a,cycle%20has%20evolved%20over%20time.>)
+
+[Helpful article on Continuous Integration](https://www.atlassian.com/continuous-delivery/continuous-integration)
+
+[Helpful article on MicroServices](https://smartbear.com/solutions/microservices/)
+
+Our project week Retro - Start, Stop & Continue!
+
+![Project Week Retro](./Assets/Images/projectWeekRetro.PNG)
+
+### Day 99
+
+_17th November_
+
+#### Day 42 of the MOB
+
+### Today's progress:
+
+- We learnt about `useReducer`. My main learning points are:
+
+  - it separates the logic from the action
+  - it makes our code more human readable
+  - it is good because it allows us to write maintainable code and test it more easily
+  - is is an alternative to `useState`
+  - `useReducer `is usually preferable to `useState` when you have complex state logic that involves multiple sub-values or when the next state depends on the previous one
+  - `useReducer` also lets you optimize performance for components that trigger deep updates because you can pass dispatch down instead of callbacks.
+  - the basic set up of the useReducer hook is the following:`const [state, dispatch] = useReducer(reducer, initialState)`
+  - you also need to create the initial state
+  - like other React hooks we need to import `useReducer` from react
+
+- We had a talk from an ex-bootcamper on his role on DevOps. I learnt that key things to look into if I've interested in getting into DevOps are:
+
+  - Docker
+  - CI/CD
+  - general understanding of infrastructure as code
+
+- I attended a Women in Tech event that was put on by BBC Click. It was a great experience and really interesting to hear some top female tech leaders!
+
+### Thoughts:
+
+I really enjoyed hearing from Dave today about DevOps. My mentor also works in DevOps and over the past few weeks it's an area that I've become increasingly interested in. So it was fantastic to hear from him and he also shared some great resources which I will be looking at 😀
+
+I also enjoyed learning about useReducer and I think I'm getting to grips with it! Looking forward to learning about custom react hooks tomorrow 😀
+
+### Links to work / resources:
+
+Helpful reads on useReducer:
+
+https://reactjs.org/docs/hooks-reference.html#usereducer
+
+https://css-tricks.com/getting-to-know-the-usereducer-react-hook/
+
+https://alligator.io/react/usereducer/
+
+We used `useReducer`for the first time in a list app:
+
+![useReducer example](./Assets/Images/useReducerHook.PNG)
+
+I took part in a BBC Click Women in Tech event! It will be aired in a few weeks...
+
+![bbc click women in tech event](./Assets/Images/bbcClickEvent.PNG)
+
+### Day 100
+
+_17th November_
+
+#### Day 43 of the MOB
+
+### Today's progress:
+
+- Today we learnt about custom React hooks! I learnt:
+
+  - (a bit of history about React...) hooks have replaced lifecycle methods
+  - the rules of using hooks are that order matters as React relies on the order that the hooks are called. Hooks must be called at the top level and must not be nested in any other code block (eg. a for loop or if statement)
+  - custom hooks return functionality or values. They are different from components which return JSX.
+  - you should use a custom hook if you want a re-useable piece of logic and/or to tidy up components
+
+  Why are custom hooks good?
+
+  - separation of concerns (the logic and the actions are separated)
+  - human readability (clean components)
+  - re-useable logic (you can reuse the logic without having to reuse the component)
+  - it is easier to test things in isolation
+
+- In the afternoon we had a guest lecture from an Agile Coach & Delivery Lead on Remote Facilitation. I learnt about a few new technologies to help with meeting facilitation including [Slido](https://www.sli.do/features-polls) which allows you to run quick polls (like [Mentimeter](https://www.mentimeter.com/)) and [funRetro](https://easyretro.io/) which is a bit like Trello but you can vote on list items and order them in different ways. Notes from the session:
+
+![lecture notes](./Assets/Images/remoteFacilitationLecture.jpg)
+
+- Finally today we learnt about User Driven Development. I learnt about:
+
+  USER STORIES
+
+  - the tell us why we're making a product and what the end goal is
+  - they give us purpose during development
+  - they are not written in technical language and are human readable
+  - you can have multiple user stories per product
+  - you will most likely have to break down your user story into manageable tickets
+
+  KEY POINTS ON USER STORIES
+
+  - they keep us focused on the user
+  - they enable collaboration because the end goal is clearly defined
+  - they drive creative solutions
+  - they help to create momentum
+
+  USER PERSONAS
+
+  - who is going to be using our app
+  - use https://www.hubspot.com/make-my-persona to help get into the mind our the user
+
+  USER STORY TEMPLATE
+
+  - a helpful template to use is:
+    `"As a [person], I [want to...], [so that..]"`
+
+  TECHNICAL REQUIREMENTS
+
+  - break the story points down into smaller to-do's / tickets that can realistically be achieved
+
+  STORY POINTS
+
+  - how long will each task take?
+  - each ticket should have a story point and you can choose your points system
+
+  Things to consider - the definition of done
+
+### Thoughts:
+
+A lot of learning today on three quite different topics! It was a really interesting day though and I liked the variety. I think I'm getting to grips with custom hooks although I definitely want a bit more practice at them as I'm not feel 100% confident yet..got to remember it's the first day we've done them though 😅
+
+Also it's the 100th day of code!! 🎉🎉🎉 I have learnt SO SO much since starting this journey and it's amazing to look back on my progression. I'm going to continue with a diary until the end of the SoC Bootcamp as it's a really valuable resource to have and a great way to reflect and consolidate my learning. I'm proud of myself for sticking with it - doing the diary every night has been a big discipline in itself but it's 100% worth it. 🎆
+
+### Links to work / resources:
+
+We made a fetch custom hook which could be re-used anywhere:
+
+![fetch custom hook 1](./Assets/Images/fetchCustomHook1.PNG)
+
+![fetch custom hook 2](./Assets/Images/fetchCustomHook2.PNG)
+
+### Day 44 of the MOB
+
+_19th November_
+
+### Today's progress:
+
+### Thoughts:
+
+### Links to work / resources:
 
 ### Day
 
