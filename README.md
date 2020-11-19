@@ -1,4 +1,4 @@
-# 100 Days Of Code Diary 2020
+# 100 Days Of Code Diary / School of Code Bootcamp Diary
 
 ## Day 1
 
@@ -2928,6 +2928,55 @@ We made a fetch custom hook which could be re-used anywhere:
 ### Day 44 of the MOB
 
 _19th November_
+
+### Today's progress:
+
+- This morning we had a Mindset session on Values & Archetypes - Personal Drivers & The Subconscious. It was a really helpful time to reflect on my values and how that affects what I bring to a team dynamic. It was hard to narrow down to just 5 of my top values but I think that these are them:
+  1. Integrity (which includes honesty and trust)
+  2. Progress / Achievement / Growth
+  3. Compassion / Justice
+  4. Strength / robustness
+  5. Adventure /Challenge
+     We also looked at the different archetypes and reflected on whether we identify strongly with any of them, or which we would aspire to be. It was helpful to reflect on how these might impact teamwork:
+
+![archetypes](./Assets/Images/Archetypes.png)
+
+- To learn more about what goes into making a good user experience, we had a fun challenge of doing the complete opposite and making the most inventive worst volume control we could think of! We only had one hour to code it so we kept ours fairly simple and had a button which when clicked, increased or decreased the volume by a random amount. The button also moved around the page and changed size randomly! I learnt that there is a module you can install which allows you to embed YouTube videos in a React app. Docs here: https://www.npmjs.com/package/@u-wave/react-youtube
+
+- We had a great talk on Software Development from a guest lecturer who works at Bravissimo. He covered five important non-technical aspects of software development which are:
+
+  - PURPOSE: what are my intrinsic motivations? Does my purpose align with my potential employers purpose? Am I aligned with the company?
+  - PEOPLE: software is about people, not products. Don't under-estimate the importance of soft skills. Listen to your users. Value communication, listening, collaboration and people skills. The principle of least surprise.
+  - PRAGMATISM: you need to balance perfectionism and pragmatism. Sweat the small stuff but keep it in perspective. Pay attention to the details but remember "perfect is the enemy of the good" - Voltaire. Technical debt is the cost of additional rework caused by choosing the easy solution now instead of using a better approach that would take longer.
+  - REFLECTION: a very important part of the process. Consider marginal gains. Leave your ego at the door.
+  - DEPTH: being busy doesn't mean we're being productive. Make sure you set time aside to work with not distractions. Before interrupting someone think - is this necessary?
+
+- Our afternoon lecture was on CSS box model and the position property. We used what we learnt to make a pure CSS Koala picture!
+
+- We had another guest lecture from Will at Capgemini. Helpful things to consider and do after the bootcamp:
+  - Be intentional - what do I want from a job?
+  - Set some plans - be thoughtful, be aware, set some goals
+  - Know what I want from the plan - be on the front-foot and in a position to act
+  - Prepare for comparison anxiety when people get jobs before me - build robustness and keep coming back to my plans
+  - Self-reflection - modify and shape my ambition if needs be. Trust others to be truthful to me (proxy agency)
+
+### Thoughts:
+
+Wow, lots to think about and consider today about the bigger picture / life after the bootcamp / moving into a job / getting realistic goals. I've got a lot to process but I'm thankful that we're getting such valuable advice from those further along the road to us.
+
+I'm very tired tonight and feeling quite drained. Had a positive day though - I think my brain is just having to work very hard at the moment so I'm feeling really tired at the end of the days. The week has flown by - looking forward to another hackathon tomorrow!
+
+### Links to work / resources:
+
+Our bad UX - a volume control button which when clicked, increased or decreased the volume by a random amount. The button also moved around the page and changed size randomly!
+
+![bad UX](./Assets/Images/badUX.PNG)
+
+A cute little Koala that we made with pure CSS!
+
+![CSS koala](./Assets/Images/cssKoala.PNG)
+
+### Day 45 of the MOB
 
 ### Today's progress:
 
