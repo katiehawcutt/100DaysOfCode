@@ -2980,6 +2980,26 @@ A cute little Koala that we made with pure CSS!
 
 ### Today's progress:
 
+- Today we were put into teams of four and our task was to make a video about any topic covered on the SoC Bootcamp so far. We spent about 20 minutes ideating and coming up with some initial ideas. Then we narrowed it down to our top four and discussed how we might implement each of them. We finally decided to go with Array Methods. We decided that the basis for our video would be to have slides showing our content while we commentate over then. We also hoped to have some examples of us coding in the console to display these array methods in action but unfortunately we ran out of time to do this. We did have good code examples on our slides though so hopefully this didn't affect the outcome too much. We broke down the video content into different sections and each took on some slides to create. In the afternoon we did the filming and then edited it together. A new thing I did today was to use Canva for the first time so that was great!
+
+### Thoughts:
+
+I really enjoyed working in a new team today and getting to know some different people. The actual task felt like hard work but I know it's because I'm tired. It's been another very full week with loads of amazing content to absorb. It's been a great and I've enjoyed the variety of content and lecturers but thankful I've got the weekend to recover now! I want to try and put in some time over the weekend to network / think about jobs / CV / work on some side projects / sort my GitHub out. Hoping I have energy to do so! Things are ramping up now and I want to be on the front-foot.
+
+### Links to work / resources:
+
+Our TrelloBoard plan for our video:
+
+![Plan for Array video](./Assets/Images/trelloboardArrayVideo.PNG)
+
+I used Canva for the first time to make our presentation:
+
+![Canva presentation on array methods](./Assets/Images/canvaPresentation.PNG)
+
+### Day
+
+### Today's progress:
+
 ### Thoughts:
 
 ### Links to work / resources:
