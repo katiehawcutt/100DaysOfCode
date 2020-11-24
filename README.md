@@ -2978,6 +2978,8 @@ A cute little Koala that we made with pure CSS!
 
 ### Day 45 of the MOB
 
+_20th November_
+
 ### Today's progress:
 
 - Today we were put into teams of four and our task was to make a video about any topic covered on the SoC Bootcamp so far. We spent about 20 minutes ideating and coming up with some initial ideas. Then we narrowed it down to our top four and discussed how we might implement each of them. We finally decided to go with Array Methods. We decided that the basis for our video would be to have slides showing our content while we commentate over then. We also hoped to have some examples of us coding in the console to display these array methods in action but unfortunately we ran out of time to do this. We did have good code examples on our slides though so hopefully this didn't affect the outcome too much. We broke down the video content into different sections and each took on some slides to create. In the afternoon we did the filming and then edited it together. A new thing I did today was to use Canva for the first time so that was great!
@@ -2996,7 +2998,53 @@ I used Canva for the first time to make our presentation:
 
 ![Canva presentation on array methods](./Assets/Images/canvaPresentation.PNG)
 
-### Day
+### Day 46 of the MOB
+
+_23rd November_
+
+### Today's progress:
+
+- We started the day with our individual Monday recap. We had to refactor a counter to use the useReducer hook, store our action type strings in an actionTypes object (not done before so useful) and separate the reducer function and actionTypes object into their own files and import / export them as necessary (not done before either so again really useful). Then we had to write our own custom React hook. Finally we had to practice deploying a back-end app on Heroku and a front-end on Netlify. I didn't get time to do this during the morning workshop but I did it this evening and it was so helpful to practice doing this process again (especially as I missed some of the workshop where we did it last time as I was attending a Women In Tech event). I learnt more about the environment and the processes I need to go through to deploy.
+
+- We had an introduction to Regex (Regular Expressions). I've done a bit of Regex before but not for a long time so it was useful to go over it again. It was good to be reminded of the basics - _A regular expression (shortened as regex or regexp) is a sequence of characters that define a search pattern. Usually such patterns are used by string-searching algorithms for "find" or "find and replace" operations on strings, or for input validation._ We used an online tutorial to practice what we'd learnt - https://regexone.com/lesson/introduction_abcs.
+
+- In the afternoon we learnt about Authorization & Authentication:
+
+![Auth notes 1](./Assets/Images/Auth1.jpg)
+
+![Auth notes 2](./Assets/Images/Auth2.jpg)
+
+We did a workshop in which we practiced using the JS implementation of the bcrypt algorithm provided by the bcrypt npm package (remember to install) to hash our users passwords before storing them in our database. We then used the same library to then check our users passwords match when attempting to make a request. This was all done in our models fileTo begin with we used basic auth and then we switched to token based / bearer auth. To do this we had to make a new route to listen to POST requests to users/tokens. We used Postman to check it was working and to make requests. JWT [(jsonwebtoken)](https://github.com/auth0/node-jsonwebtoken) is a module we have to install to use Bearer Auth and create tokens.
+
+KEY POINT:
+Basic auth requires you to send your username and password to the server every time you make a request. With Bearer Auth, you send your username and password the first time and it gives you back a token which you then use for future requests.
+
+OTHER IMPORTANT POINTS
+- HTTPS requests are more secure than HTTP requests
+- Authentication checks who a user is, authorisation checks whether a user has permission to do something.
+- The most common way to authenticate users on the internet is with passwords
+- A hashed password is a password that has been transformed into an unrecognisable representation
+- The difference between hashing and encryption is that encryption is two-way (can be decrypted), Hashing is one-way (can't be "un-hashed")
+- The module have we used to encrypt our passwords is bcrypt
+- saltRounds represent how securely you encrypt your password
+- we must never save a plain text password
+
+### Thoughts:
+
+I was a bit disappointed I didn't get further on the recap task this morning but I took my time with the questions and tried to do them all really well. I didn't skip any out and spent time solving the initial problems I had which is why I didn't get to finish the deployment exercises. I think I did the right thing by not skipping over questions and trying to do things thoroughly but I don't like not finishing things! However, I spent some time this evening finishing the deployment tasks and I'm really glad I did as I learnt a lot.
+
+Authentication and authorization seem a bit fiddley and complicated but I get the overall concepts and know the difference between basic auth, bearer auth and session cookies.
+
+### Links to work / resources:
+
+
+![middleware password auth](./Assets/Images/middlewarePasswordAuth.PNG)
+
+![route password auth](./Assets/Images/routesPasswordAuth.PNG)
+
+### Day 47 of the MOB
+
+_24th November_
 
 ### Today's progress:
 
