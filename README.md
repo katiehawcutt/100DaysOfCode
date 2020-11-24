@@ -3020,6 +3020,7 @@ KEY POINT:
 Basic auth requires you to send your username and password to the server every time you make a request. With Bearer Auth, you send your username and password the first time and it gives you back a token which you then use for future requests.
 
 OTHER IMPORTANT POINTS
+
 - HTTPS requests are more secure than HTTP requests
 - Authentication checks who a user is, authorisation checks whether a user has permission to do something.
 - The most common way to authenticate users on the internet is with passwords
@@ -3037,8 +3038,11 @@ Authentication and authorization seem a bit fiddley and complicated but I get th
 
 ### Links to work / resources:
 
+Using Bearer Auth:
 
 ![middleware password auth](./Assets/Images/middlewarePasswordAuth.PNG)
+
+Creating a route for tokens:
 
 ![route password auth](./Assets/Images/routesPasswordAuth.PNG)
 
@@ -3048,9 +3052,55 @@ _24th November_
 
 ### Today's progress:
 
+- We had a great session this morning on CV's and building our digital profile. I learnt what I need to put on my CV to make it relevant to applying for tech jobs and also what to include on my LinkedIn and GitHub profile. We have to do a first draft of our CV's this week and I'm looking forward to getting that done.
+
+- We learnt about the array method `reduce()` and did lots of exercises (reduce cardio!) to practice using it in different situations. I learnt that:
+
+  - the `reduce()` method reduces the array to a single value
+  - the return value of the function is stored in the accumulator
+  - it does not mutate the original array
+  - it takes 4 arguments 1) accumulator 2) current value 3) current index (optional) 4) source array (optional)
+
+  99% of the time, `reduce()` is better that `map()` and `filter()`. But occasionally there might be a reason not to use `reduce()` such as:
+
+  - it might create more cognitive load / be harder for humans to read and understand (we are constantly weighing up efficiency vs readability)
+  - sometimes it might be more efficient to filter an array first (if it's very large) before using `reduce()` or any other array methods on it
+
+- This afternoon we had a guest lecture on Psychological Safety. I learnt that psychological safety is _"a shared belief held by members of a team that the team is safe for interpersonal risk-taking"._ Psychological safety makes teams more effective and it means that:
+
+  - people can ask questions and share ideas without fear
+  - they can learn from mistakes rather than there being a blame culture
+  - they have an equal voice in the team
+  - it is easy to ask for help
+  - there are regular healthy debates
+
+  It is not:
+
+  - being nice
+  - to do with personality type
+  - mean there are low standards
+
+  These are common misconceptions.
+
+  Ways to increase psychological safety:
+
+  - Active listening
+  - Avoid dominating meetings and encourage others to participate
+  - React to mistakes with curiosity and a desire to learn
+  - Show your vulnerable side
+  - Respond appropriately to feedback
+
 ### Thoughts:
 
+I got some feedback on the recap task from yesterday and I'm really happy as I got an A grade and some really good comments on my code. Definitely made the right choice to take my time and work through things properly. There were a couple of stretch points for me to think about which have been helpful feedback, but I'm really happy that my hard work is paying off and that I'm on the right track! 🙂
+
+Also, I think we did really well with the reducer cardio tasks this afternoon and managed to complete a lot of them without too much trouble. I'm definitely feeling a lot more comfortable with array methods now and have more confidence approaching problems and coming up with solutions.
+
 ### Links to work / resources:
+
+Our `reduce()` cardio exercises:
+
+![]
 
 ### Day
 
