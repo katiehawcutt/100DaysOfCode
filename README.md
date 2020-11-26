@@ -3100,7 +3100,112 @@ Also, I think we did really well with the reducer cardio tasks this afternoon an
 
 Our `reduce()` cardio exercises:
 
-![]
+![reduce method cardio exercises](./Assets/Images/reduceCardio.PNG)
+
+### Day 48 of the MOB
+
+_25th November_
+
+### Today's progress:
+
+- This morning we had a guest lecture from a senior developer at Click Travel on Domain Driven Design (DDD):
+
+![DDD notes1](./Assets/Images/DDD1.jpg)
+
+![DDD notes2](./Assets/Images/DDD2.jpg)
+
+- We had a quick recap on CSS Flexbox & Grid and played [Flexbox Froggy](https://flexboxfroggy.com/) and [Grid Garden](https://cssgridgarden.com/)!
+
+- We had a great talk from two developers from Loupe Testing & Software about user journey testing. They told us about a technology called [Cypress](https://www.cypress.io/) which automates and tests the user flow. It is different to and more powerful than Jest (Jest is good for unit testing). I liked its visual aspect (you can see it run through the user flow) and could can see all tests that passed and failed with details of why. I'd like to try using this myself and look into it more.
+
+- To end the day we looked at scope, closures and recursion. My main learning points were:
+  - Hoisting is JavaScript's default behaviour of moving all declarations to the top of the current scope (to the top of the current script or the current function).
+  - Lexical Scope: JavaScript implements a scoping mechanism named lexical scoping (or static scoping). Lexical scoping means that the accessibility of variables is determined statically by the position of the variables within the nested function scopes: the inner function scope can access variables from the outer function scope.
+  - ES6 arrow functions use lexical scope where as traditional functions do not
+  - Closures: A closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment). In other words, a closure gives you access to an outer function's scope from an inner function.
+  - Recursion is a method of solving a problem where the solution depends on solutions to smaller instances of the same problem. Such problems can generally be solved by iteration, but this needs to identify and index the smaller instances at programming time. Recursion solves such recursive problems by using functions that call themselves from within their own code. The approach can be applied to many types of problems, and recursion is one of the central ideas of computer science.
+
+### Thoughts:
+
+I enjoyed learning about some new things today. I'd not heard of Domain Driven Design before so that was new to me. I really enjoyed seeing Cypress run some user flow tests and to learn about a different testing technology. We covered some complex topics at the end of the day and I know I need to look into these concepts a little more to take my current understanding to the next level! Great to be learning about these things though and glad we are getting taught about more complex theories and topics.
+
+### Links to work / resources:
+
+A basic example of recursion:
+
+![recursion example](./Assets/Images/recursionExample.PNG)
+
+### Day 49 of the MOB
+
+_26th November_
+
+### Today's progress:
+
+- This morning we had a great lecture on Perspectives & Problem Solving and how to prepare our minds to work together. Sometimes when something happens or someone says something which doesn't fit into our existing way of thinking it can be challenging to relate or connect to that person. Ways that we can try to overcome this disconnect are:
+
+  - always be prepared to listen
+  - be open to different perspectives
+  - 'Sawubona' - "I see you..." - There's a principle in it about two people coming together with a mindset of 'what does being with each other at this moment in time enable us to achieve together'.
+  - try to be less black and white / right and wrong and see things more as 'interesting'. Interesting is much more powerful than black and white and allows us to be open to different perspectives. Be more grey!
+  - The Dreamer, Realist and Critic model can be a helpful construct for allowing a place for freedom of thinking (Dreamer phase) where anything goes without critique.
+  - self awareness is key - am I being positional? Being positional isn't always bad - we just need to be aware when we are taking that stance.
+
+- We had a talk from Liz about some some Atlassian products which we will most likely be using in our tech teams. We delved into:
+
+  - Trello: we already use Trello but there are some features I used yet so I want to explore it's potential more
+  - Jira: is Trelllo's older sibling! (and not free!) It has some very useful features such as a backlog, cards can have a unique ID, story poit estimates, team velocity
+  - [The Atlassian Playbook](https://www.atlassian.com/team-playbook): A bit like an Agile handbook which contains lots of ideas for running stand up's, retro's, etc. They are set out a bit like a recipe - what you need, how to run it, etc.
+
+  We also looked into Themes / initiatives: These are big blocks of work / a whole project, and they can be broken down into Epics, then Stories, then Tasks/Tickets
+
+  We learnt how to write Documentation. Docs are for users, developers, stakeholders and also ourselves! Good documentation should include (but isn't limited to!) the following:
+
+  - Purpose - what problem is it solving?
+  - What your components do and how they fit together - component tree
+  - How to start it and instructions for use
+  - Examples showing your software in use
+  - Dependencies list and what each dependency does in your code
+  - Any other information users and developers might need to know
+
+  Great resources on writing good documentation:
+
+[Write The Docs](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
+
+[Atlassian Confluence: Building Better Documentation](https://www.atlassian.com/software/confluence/documentation)
+
+- This afternoon we learnt about component based thinking. I learnt that components should be:
+
+  - INDEPENDENT: they should be able to be used on their own and rely on only a limited set of dependencies
+  - CLEARLY DEFINED: they should be useful but have limited scope
+  - ENCAPSULATED: they should 'wrap-up' their functionality within themselves and provide set ways of implementation
+  - RE-USEABLE: they should be built with useability in mind although they may initially only be implemented once
+
+  Component Libraries:
+
+  - Ant Design
+  - Chakra-UI
+  - Material-UI
+  - Semantic-UI
+
+  Advantages of frameworks:
+
+  - consistent
+  - maintainable
+  - scaleable
+
+We learnt about and used Storybook for the first time. Storybook is a tool for UI development. It generates a component library for your project. It makes development faster and easier by isolating components. This allows you to work on one component at a time.
+
+### Thoughts:
+
+Today we learnt about quite a few new technologies which I know will be really useful when we get into the industry and I am hoping to set aside some time to explore these more. I missed not doing as much actual coding today. I think that's a good sign! 🙂 Also, I am attending an online Fusion meetup tonight and it's great to feel part of the Birmingham tech community. I just wish we were meeting in real life!
+
+### Links to work / resources:
+
+My first attempt at writing docs for a simple weather app I made in Week 7 of the bootcamp:
+
+![Weather App Docs 1](./Assets/Images/docsWeatherApp1.PNG)
+
+![Weather App Docs 2](./Assets/Images/docsWeatherApp2.PNG)
 
 ### Day
 
