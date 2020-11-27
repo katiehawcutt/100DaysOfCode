@@ -3153,12 +3153,11 @@ _26th November_
 - We had a talk from Liz about some some Atlassian products which we will most likely be using in our tech teams. We delved into:
 
   - Trello: we already use Trello but there are some features I used yet so I want to explore it's potential more
-  - Jira: is Trelllo's older sibling! (and not free!) It has some very useful features such as a backlog, cards can have a unique ID, story poit estimates, team velocity
+  - Jira: is Trello's older sibling! (and not free!) It has some very useful features such as a backlog, cards can have a unique ID, story point estimates, team velocity
+  - Jira uses Epics to organise workloads with a hierarchy. We also looked into Themes / initiatives: These are big blocks of work / a whole project, and they can be broken down into Epics, then Stories, then Tasks/Tickets
   - [The Atlassian Playbook](https://www.atlassian.com/team-playbook): A bit like an Agile handbook which contains lots of ideas for running stand up's, retro's, etc. They are set out a bit like a recipe - what you need, how to run it, etc.
 
-  We also looked into Themes / initiatives: These are big blocks of work / a whole project, and they can be broken down into Epics, then Stories, then Tasks/Tickets
-
-  We learnt how to write Documentation. Docs are for users, developers, stakeholders and also ourselves! Good documentation should include (but isn't limited to!) the following:
+    We learnt how to write Documentation. Docs are for users, developers, stakeholders and also ourselves! Good documentation should include (but isn't limited to!) the following:
 
   - Purpose - what problem is it solving?
   - What your components do and how they fit together - component tree
@@ -3206,6 +3205,42 @@ My first attempt at writing docs for a simple weather app I made in Week 7 of th
 ![Weather App Docs 1](./Assets/Images/docsWeatherApp1.PNG)
 
 ![Weather App Docs 2](./Assets/Images/docsWeatherApp2.PNG)
+
+### Day 50 of the MOB
+
+_27th November_
+
+### Today's progress:
+
+- Today was Hackathon Friday and this week it was an Auth hackathon! Our task this week was to make anything we wanted as long as the user had to log in to use it. We chose to use Auth0 for our authentication which is a service that will allow you to have users sign into your project.
+
+- We decided to focus on working in an Agile way and spent quite a bit of time on our Ideation & Planning phase which I was really pleased about. We made a great Trello board to record our ideas and then plan our our smaller tasks. We also had a go at writing an Epic, User Stories and Tickets which was really helpful and meant that we could keep coming back and checking we were sticking to the plan! The actual app that we decided to make was a Community Noticeboard where you could login, see any community notices for your street/area and publish a notice. All the notice data is stored on a database and we made GET and POST requests to it. One of our MLP's would be to have the ability to comment on or like a post. In terms of how we ordered our work, we decided to get the Auth done first as we hadn't done it before and didn't know how long it would take. I think this was a good choice as it meant we had time to get it done and learn about it (as that was our main learning objective for the day) rather than leaving it to the end and not having time to complete it.
+
+- It was also really good practice to set up a backend node project from scratch again as lately we have been using repos which already have this done for us. So we had to remember to git init, install express, postgres, dotenv and cors for it all to work!
+
+### Thoughts:
+
+I am so pleased with how Isobel and I worked together today. I'm super glad we took the time to ideate using the Disney ideation method, refine ideas, come up with our MVP and MLP, write user stories and use Trello to plan our work flow - all of which helped us to work in an Agile way. We pushed ourselves and got a working back-end, an almost working front end! (just didn't have enough time to render the data from the db) and we learnt how to make a user login with Auth0. I feel like we went about things in the right way, the Agile way, and it's great to have to chance to practice doing this with hackathons. Very happy 🙂
+
+I'm really tired this evening - been pushing myself this week with late nights, staying up late to work. But I've got my LinkedIn looking great now and I'm ready to start work on my CV this weekend!
+
+### Links to work / resources:
+
+Our Ideation & Planning phases on Trello:
+
+![Our Ideation & Planning phases on Trello](./Assets/Images/hackathonNoticeboardTrello.PNG)
+
+We had a go at writing an Epic and User Stories:
+
+![Epic and user stories for our noticeboard app](./Assets/Images/hackathonNoticeboardUserStories.PNG)
+
+The homepage of our app:
+
+![Community Noticeboard Homepage](./Assets/Images/noticeboardHomepage.PNG)
+
+Using Auth0 to login:
+
+![Auth0 login page](./Assets/Images/noticeboardAuth.PNG)
 
 ### Day
 
