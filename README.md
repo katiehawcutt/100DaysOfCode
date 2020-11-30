@@ -3242,6 +3242,44 @@ Using Auth0 to login:
 
 ![Auth0 login page](./Assets/Images/noticeboardAuth.PNG)
 
+### Day 51 of the MOB
+
+_30th November_
+
+### Today's progress:
+
+- This morning we learnt a bit more about Test Driven Development (TDD). Things I learnt about TDD:
+  - you write the tests before the code
+  - then you write code which will pass the tests
+  - the tests are formulated such that they result in requirements being met
+  - the aim of TDD is to create clean, simple code that satisfies the requirements with no or minimal bloat
+
+![TDD diagram](./Assets/Images/TDDdiagram.jpg)
+
+- This afternoon we learnt about Web Sockets. A WebSocket is a persistent connection between a client and server. WebSockets provide a bidirectional, full-duplex communications channel that operates over HTTP through a single TCP/IP socket connection. At its core, the WebSocket protocol facilitates message passing between a client and server.
+
+- Our workshop this afternoon was to follow a [tutorial on Socket.IO](https://socket.io/get-started/chat/) to make a chat app. It was really interesting and part of it involved translating some jQuery into JavaScript. I'd never used or worked with jQuery before so this required some detective work but it was great to learn how to translate one into another. We used [ngrok](https://dashboard.ngrok.com/get-started/setup) (a cross-platform application that enables developers to expose a local development server to the Internet) to enable us to chat to each other. It was pretty exciting!
+
+### Thoughts:
+
+I enjoyed covering TDD and Web Sockets today. Over the weekend I spent a lot of time working on my CV and also looking into some DevOps practices such as the CI/CD pipeline and infrastructure as code. I also started work on my technical blog post which I am writing about 'what happens when you click on a link in a web browser?'. It's a busy time at the moment but I'm enjoying the momentum of building up to the final project and job interviews. It's giving me real purpose. 🙂
+
+### Links to work / resources:
+
+Translating jQuery into JavaScript:
+
+![Translating jQuery into JavaScript](./Assets/Images/webSocketsJquery.PNG)
+
+### Day 52 of the MOB
+
+_1st December_
+
+### Today's progress:
+
+### Thoughts:
+
+### Links to work / resources:
+
 ### Day
 
 ### Today's progress:
