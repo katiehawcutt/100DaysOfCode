@@ -3276,6 +3276,54 @@ _1st December_
 
 ### Today's progress:
 
+We've been learning about lots of different technologies / libraries / frameworks today. We covered:
+
+- NodeMailer
+
+  - a single module with zero dependencies for Node.js designed for sending emails
+  - main features include security, in particular, email delivery with TLS/STARTTLS and DKIM email authentication
+  - in our workshop we created a simple emailer where we were able to send emails by running our index.js file in node
+  - then we made it more secure by using authentication tokens instead of the actual login credentials
+  - then we abstracted the functionality away by wrapping our email-sending logic into a function to use anywhere in our app.
+  - Important things to remember - when storing credentials in the .env file I must install dotenv and then use the --require (-r) command line option to preload dotenv in the scripts
+
+- Web Scraping with Axios and Puppeteer
+
+  - _What is it?_ Web scraping (web harvesting or web data extraction) is data scraping used for extracting data from websites. Web scraping software may access the World Wide Web directly using the Hypertext Transfer Protocol, or through a web browser. While web scraping can be done manually by a software user, the term typically refers to automated processes implemented using a bot or web crawler. It is a form of copying, in which specific data is gathered and copied from the web, typically into a central local database or spreadsheet, for later retrieval or analysis.
+  - We had a go at using to libraries to do it - Axios and Puppeteer
+  - Axios - a library that allows you to make fetch() requests from the browser, make fetch() requests from node.js, supports the Promise API, intercept request and response, transform request and response data, cancel requests and performs automatic transforms for JSON dat. It gives us back HTML. fetch() is a browser API and cannot be used on the backend which is why we must use Axios.
+  - jsdom is a web package which allows us to access the DOM on the backend. eg, `dom.window.document` gives us access to normal DOM properties and methods. jsdom is a pure-JavaScript implementation of many web standards for use with Node.js. In general, the goal of the project is to emulate enough of a subset of a web browser to be useful for testing and scraping real-world web applications.
+  - there are two types of HTML pages - static and dynamic. Axios is good for working with static pages and Puppeteer is good for dynamic pages.
+
+- Animation Frameworks (Motion API & React-Spring)
+  - in my group we looked into and used Motion API which is an animation and gesture library. We found the docs really useful and clear and were able to implement some basic animation on our webpage.
+  - in general, you might want to use CSS animations for simpler "one-shot" transitions, like toggling UI element states but it is probably easier and better to use use JavaScript animations when you want to have advanced effects like bouncing, stop, pause, rewind, or slow down.
+  - all of my CSS drawing work came in handy this afternoon when we were animating. Glad to be using my knowledge!
+
+### Thoughts:
+
+Wow, we really are being introduced to a lot of different things this week! It's great but a little overwhelming at times! Glad we are getting exposed to all these different libraries though - we obviously won't be able to become pros in all of them right now but it's good to be thinking which we might want to look into more and use in our final projects. Very tired this evening though! (also it's my birthday 🙂 🎈)
+
+### Links to work / resources:
+
+How we sent an email using NodeMailer:
+
+![using NodeMailer](./Assets/Images/nodeMailer.PNG)
+
+We got some data back on the Premier League using Axios:
+
+![web scraping football tables](./Assets/Images/webScraping.PNG)
+
+Using MotionAPI to animate a cocktail being poured!
+
+![using MotionAPI to animate a cocktail being poured!](./Assets/Images/motionAPIcocktail.PNG)
+
+### Day 52 of the MOB
+
+_2nd December_
+
+### Today's progress:
+
 ### Thoughts:
 
 ### Links to work / resources:
