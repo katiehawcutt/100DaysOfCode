@@ -3417,15 +3417,30 @@ _4th December_
 
 ### Today's progress:
 
-- We spent all morning learning about some Project management processes and explored new tools to help with PM. We reflected in our small groups on our project / PM experiences so far and spent a lot of time thinking about how an effective teams functions and what processes you need in place. It was really useful and a great time to be growing in this area with the final projects only being a week away. I learnt that TRIZ (The Theory of Inventive Problem Solving) may help us to be more creative in the initial dreamer phase of the project and may be a good tool to use even before the Disney Ideation Method. I also learnt about the Pre-Mortem Technique which is where you consider the worse possible outcome of the project (before it's even started). It's useful as it gives people permission to call things out that might break / slip. Questions to consider are what happened that led to that outcome? What did we do / not do / miss? How can we make sure that doesn't happen? Within our break-out sessions I researched and learnt about a new PM tool called a Gantt chart. Gantt charts are a simple, visual way to track tasks across the lifecycle of a project and they can be used in an Agile way. In Agile PM, teams are doing sprints, which are basically short clusters of related tasks. A Gantt chart is a helpful way to capture and plan this work.
+- We spent all morning learning about some Project management processes and explored new tools to help with PM. We reflected in our small groups on our project / PM experiences so far and spent a lot of time thinking about how an effective teams functions and what processes you need in place. It was really useful and a great time to be growing in this area with the final projects only being a week away. I learnt that TRIZ (The Theory of Inventive Problem Solving) may help us to be more creative in the initial dreamer phase of the project and may be a good tool to use even before the Disney Ideation Method. I also learnt about the Pre-Mortem Technique which is where you consider the worse possible outcome of the project (before it's even started). It's useful as it gives people permission to call things out that might break / slip. Questions to consider are what happened that led to that outcome? What did we do / not do / miss? How can we make sure that doesn't happen? Within our break-out sessions I researched and learnt about a new PM tool called a Gantt chart. Gantt charts are a simple, visual way to track tasks across the lifecycle of a project and they can be used in an Agile way to help capture and plan a sprint.
+
+- This afternoon we learnt about some design ideas / tools to help us create great look, user friendly, responsive websites. Things to consider:
+  - White space
+  - Alignment
+  - Contrast
+  - Scale
+  - Colours
+  - Fonts
+  - Visual hierarchy
+  - Use media queries to help build responsive sites
+  - Decide whether you are taking a mobile first or website first approach - it depends on what your website is for and how it's going to be used
 
 ### Thoughts:
+
+I enjoyed Joe's session this morning and it was really helpful to reflect on the team dynamic/ethos, planning phase and development timeline of a project. It's going to be super useful as we go into our final projects. It was good to go over a few design basics this afternoon - I've not designed for mobile-first before so this could be a good side project to look into. It's the end of a very busy week with so many new things covered. But I'm feeling good and think that it's fantastic that we've had exposure to all of these tools and technologies because as long as we know they exist we can learn how to use them when we need them.
 
 ### Links to work / resources:
 
 An example of a Gantt chart:
 
-![Gantt chart example](./Assets/Images)
+![Gantt chart example](./Assets/Images/ganttChart1.PNG)
+
+![Gantt chart example2](./Assets/Images/ganttChart2.PNG)
 
 ### Day 55
 
