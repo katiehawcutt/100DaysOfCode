@@ -3010,9 +3010,9 @@ _23rd November_
 
 - In the afternoon we learnt about Authorization & Authentication:
 
-![Auth notes 1](./Assets/Images/Auth1.jpg)
+![Auth notes 1](./Assets/Images/auth1.jpg)
 
-![Auth notes 2](./Assets/Images/Auth2.jpg)
+![Auth notes 2](./Assets/Images/auth2.jpg)
 
 We did a workshop in which we practiced using the JS implementation of the bcrypt algorithm provided by the bcrypt npm package (remember to install) to hash our users passwords before storing them in our database. We then used the same library to then check our users passwords match when attempting to make a request. This was all done in our models fileTo begin with we used basic auth and then we switched to token based / bearer auth. To do this we had to make a new route to listen to POST requests to users/tokens. We used Postman to check it was working and to make requests. JWT [(jsonwebtoken)](https://github.com/auth0/node-jsonwebtoken) is a module we have to install to use Bearer Auth and create tokens.
 
