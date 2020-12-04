@@ -3286,16 +3286,19 @@ We've been learning about lots of different technologies / libraries / framework
   - then we made it more secure by using authentication tokens instead of the actual login credentials
   - then we abstracted the functionality away by wrapping our email-sending logic into a function to use anywhere in our app.
   - Important things to remember - when storing credentials in the .env file I must install dotenv and then use the --require (-r) command line option to preload dotenv in the scripts
+  - The four things you need to obtain during the "OAuth2" dance in order to securely connect your Nodemailer app to Gmail (or another email provider) are client ID, client secret, refresh token and access token
 
 - Web Scraping with Axios and Puppeteer
 
   - _What is it?_ Web scraping (web harvesting or web data extraction) is data scraping used for extracting data from websites. Web scraping software may access the World Wide Web directly using the Hypertext Transfer Protocol, or through a web browser. While web scraping can be done manually by a software user, the term typically refers to automated processes implemented using a bot or web crawler. It is a form of copying, in which specific data is gathered and copied from the web, typically into a central local database or spreadsheet, for later retrieval or analysis.
-  - We had a go at using to libraries to do it - Axios and Puppeteer
-  - Axios - a library that allows you to make fetch() requests from the browser, make fetch() requests from node.js, supports the Promise API, intercept request and response, transform request and response data, cancel requests and performs automatic transforms for JSON dat. It gives us back HTML. fetch() is a browser API and cannot be used on the backend which is why we must use Axios.
+    - We had a go at using two libraries to scrape data from the web - Axios and Puppeteer
+  - Axios - a library that allows you to make fetch() requests from the browser, make fetch() requests from node.js, supports the Promise API, intercept request and response, transform request and response data, cancel requests and performs automatic transforms for JSON dat. It gives us back HTML. fetch() is a browser API (not a core node.js API) and cannot be used on the backend which is why we must use Axios.
+  - you can use a headless browser to load the page's DOM upon which you can use the normal DOM methods to interrogate
   - jsdom is a web package which allows us to access the DOM on the backend. eg, `dom.window.document` gives us access to normal DOM properties and methods. jsdom is a pure-JavaScript implementation of many web standards for use with Node.js. In general, the goal of the project is to emulate enough of a subset of a web browser to be useful for testing and scraping real-world web applications.
   - there are two types of HTML pages - static and dynamic. Axios is good for working with static pages and Puppeteer is good for dynamic pages.
 
 - Animation Frameworks (Motion API & React-Spring)
+  - the benefits of React animation libraries over other CSS animations are that they help keep our code maintainable and scaleable, and they provide a more intergrated wasy to control animations in our React components
   - in my group we looked into and used Motion API which is an animation and gesture library. We found the docs really useful and clear and were able to implement some basic animation on our webpage.
   - in general, you might want to use CSS animations for simpler "one-shot" transitions, like toggling UI element states but it is probably easier and better to use use JavaScript animations when you want to have advanced effects like bouncing, stop, pause, rewind, or slow down.
   - all of my CSS drawing work came in handy this afternoon when we were animating. Glad to be using my knowledge!
@@ -3321,6 +3324,112 @@ Using MotionAPI to animate a cocktail being poured!
 ### Day 52 of the MOB
 
 _2nd December_
+
+### Today's progress:
+
+- This morning we had a guest lecture on another programming language - Go. My main learning points were:
+
+  - Go prizes simplicity, clarity and performance
+  - It evolved from C
+  - It was designed by 3 programmers who have all worked at Google at some point or another in R&D. At the time they were coding in C++ - a complied language - which took ages to compile. So they designed a new language.
+  - Go is designed, not evolved.
+  - There are two types of languages - complied and interpreted.
+  - With complied languages (eg. C++, Go), the code the computer runs is not the code that you've written:
+    CODE => COMPLIED => OUTPUT RUN BY COMPUTER
+    They are statically typed / strongly typed (once a given type, always a given type). They are faster at run time but can be a pain to work with! You have to wait for them to compile.
+  - Interpreted languages (eg. JavaScript) are dynamically typed / loosely typed (you can change the type - no type safety). They are fun to write in but can take longer to run as they are complied at run time.
+  - Another difference is that Go is multi-threaded where as JavaScript is single-threaded
+  - Check out the Go Proverbs. As important to the syntax and semantics of Go are it's philosophies. Another language that is similar to this is Python.
+  - Uses for Go - Docker and Kubenetes are written in Go. G is often used when producing software for the cloud.
+  - Go developers are affectionately known as Gophers!
+  - The Go Playground is an online platform where you can write and run programmes in Go.
+  - We learnt about types, variables, functions and packages
+  - Packages are a way of controlling the visibility of your codes components. A package typically refers to a directory (folder) in your application
+  - The struct type is like a class in JS
+  - `func main` is the standard entry point into an app
+  - You must always use double quotes for strings in Go
+  - Some general advice in regards to programming:
+    - don't be afraid to explore other languages
+    - use the best tool for the job
+    - beware of the language zealot!
+
+- In the afternoon we delved a little deeper into React and learnt about React Context. Context is designed to share data that can be considered “global” for a tree of React components, such as the current authenticated user, theme, or preferred language. So far we have been handing data down as props which is fine if the component tree is quite small but can be less convenient if your component tree is very large. In this situation, context can help (although be warned- it's not always the answer!). The process you have to go through to get data to parts of the React Component tree is also known as prop drilling or threading.
+  - Use cases: user data, colour themes, language, react router, Auth0
+
+### Thoughts:
+
+It was really interesting to learn another programming language today and to understand how it compares to JavaScript. I liked learning the differences between complied and interpreted languages and to learn a bit more about language history. I think that now we have a solid understanding of JavaScript it will make it easier to learn other programming languages as we can pick out the similarities and differences and have a reference point to hang the new syntax on.
+
+### Links to work / resources:
+
+REACT CONTEXT
+
+Creating the context:
+
+![createContext](./Assets/Images/createContext.PNG)
+
+Providing the context:
+
+![provideContext](./Assets/Images/provideContext.PNG)
+
+Comsuming the context:
+
+![comsumeContext](./Assets/Images/consumeContext.PNG)
+
+### Day 53 of the MOB
+
+_3rd December_
+
+### Today's progress:
+
+- A team from The Economist came in to talk to us about AWS. It really helped to clarify some big picture stuff for me including:
+
+  - With cloud, everything is done with an API
+  - Infrastructure that previously used to be a hardware issue is now a software issue. Infrastructure such as servers used to be physically installed in work places (actual computers) that engineers had to set up and configure. Now we can do all of that through code (like with AWS) which is why we now talk about infrastructure as code. Obviously the hardware still exists in huge Google and Amazon warehouses but it has been abstracted away from the users. Infrastructure as Code is good because it is easy to scale, it is consistent and it is less costly to set up in terms of time and manpower.
+  - Services we were introduced to were:
+    - EC2 which we can use to commission a cloud server
+    - S3 (Simple Storage System) which is a storage bucket
+    - CDN (Content Distribution Network) which is a highly-distributed platform of servers that helps minimize delays in loading web page content by reducing the physical distance between the server and the user. This helps users around the world view the same high-quality content without slow loading times. It involves caching.
+    - Lamda which AWS is a service that runs your code (functions) in response to events and automatically manages the underlying compute resources for you.
+    - DynamoDB which is a native AWS database
+    - RDS is database management
+    - IAM which is an identity & access management - a way to keep your AWS account secure
+
+- The CTO of Wealth Wizards can in to talk to us about different roles in tech and gave us some insights into the tech industry. It was great to hear from him and I learnt that it's very possible to have a career in tech and never be a developer! Other possible important job roles are Platform Engineer, Operations, Infrastructure Engineer, Product Manager/ Owner (a very valuable role and one of the better paid) and Architect. I liked the way he described DevOps - as the 'operations equivalent of Agile'.
+
+### Thoughts:
+
+Big day today - so much to take in with regards to AWS. So grateful for the opportunity to be learning this stuff at SoC though as I know many bootcamps don't offer this. I really enjoyed learning about the different services and getting to work with developers from The Economist who helped us with the tasks. I think I might like to get the AWS Cloud Practitioner certification as I think it would really help me to learn more about it all and look really great on my CV. So I am going to look into doing this after SoC (if I have a bit of time before I get a job).
+
+### Links to work / resources:
+
+What is the cloud?
+
+![the cloud](./Assets/Images/WhatIsTheCloud.PNG)
+
+An example of Infrastructure as Code - using code to create a server:
+
+![IaC example](./Assets/Images/IaC.PNG)
+
+### Day 54
+
+_4th December_
+
+### Today's progress:
+
+- We spent all morning learning about some Project management processes and explored new tools to help with PM. We reflected in our small groups on our project / PM experiences so far and spent a lot of time thinking about how an effective teams functions and what processes you need in place. It was really useful and a great time to be growing in this area with the final projects only being a week away. I learnt that TRIZ (The Theory of Inventive Problem Solving) may help us to be more creative in the initial dreamer phase of the project and may be a good tool to use even before the Disney Ideation Method. I also learnt about the Pre-Mortem Technique which is where you consider the worse possible outcome of the project (before it's even started). It's useful as it gives people permission to call things out that might break / slip. Questions to consider are what happened that led to that outcome? What did we do / not do / miss? How can we make sure that doesn't happen? Within our break-out sessions I researched and learnt about a new PM tool called a Gantt chart. Gantt charts are a simple, visual way to track tasks across the lifecycle of a project and they can be used in an Agile way. In Agile PM, teams are doing sprints, which are basically short clusters of related tasks. A Gantt chart is a helpful way to capture and plan this work.
+
+### Thoughts:
+
+### Links to work / resources:
+
+An example of a Gantt chart:
+
+![Gantt chart example](./Assets/Images)
+
+### Day 55
+
+_7th December_
 
 ### Today's progress:
 
