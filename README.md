@@ -3442,9 +3442,91 @@ An example of a Gantt chart:
 
 ![Gantt chart example2](./Assets/Images/ganttChart2.PNG)
 
-### Day 55
+### Day 55 of the MOB
 
 _7th December_
+
+### Today's progress:
+
+- We spent the first part of the morning working on a recap task which covered React Context and a couple of new libraries. I learnt about:
+
+  - Luxon: a library for working with dates and times in JS. The features I used were the DateTime and Duration types.
+  - Supertest: is an HTTP assertions library that allows you to test your Node. js HTTP servers. I used it along with Jest to test API endpoints and make sure that my routes are behaving as I expected.
+
+- We learnt about CSS modules which are CSS files in which all class names and animation names are scoped locally by default. `createReactApp` comes with CSS modules already installed. To use them we have to: `import classnames from "classnames";`, rename our CSS files: `App.module.css`, then import the css file where we want to use it: `import css from "./App.module.css`, and then we use it in our components like so: `className = {css.className}`. You cannot use kebab-case for you class names so much use camelCase.
+
+- We spent the afternoon looking at Promises. We've touched on them before but it was really helpful to do more of a deep dive on them. Main learning points:
+  - A JavaScript Promise object can be pending, Fulfilled or rejected
+  - The Promise object supports two properties: state and result.
+  - While a Promise object is "pending" (working), the result is undefined.
+  - When a Promise object is "fulfilled", the result is a value.
+  - When a Promise object is "rejected", the result is an error object.
+  - an async function always returns a promise
+  - async functions are syntactic sugar
+  - promises are also syntactic sugar on callback functions. We use them to avoid callback hell!
+  - the node.js callback pattern is `(err, data) => {//code}`
+  - util is a core module which allows us to promisify!
+  - The `Promise` constructor is primarily used to wrap functions that do not already support promises.
+  - The `Promise.all()` method takes an iterable of promises as an input, and returns a single Promise that resolves to an array of the results of the input promises. This returned promise will resolve when all of the input's promises have resolved, or if the input iterable contains no promises. It rejects immediately upon any of the input promises rejecting or non-promises throwing an error, and will reject with this first rejection message / error.
+  - The `Promise.allSettled()` method returns a promise that resolves after all of the given promises have either fulfilled or rejected, with an array of objects that each describes the outcome of each promise. It is typically used when you have multiple asynchronous tasks that are not dependent on one another to complete successfully, or you'd always like to know the result of each promise.
+  - In comparison, the Promise returned by `Promise.all()` may be more appropriate if the tasks are dependent on each other / if you'd like to immediately reject upon any of them rejecting.
+
+### Thoughts:
+
+Learning about CSS modules was really useful today as now we are using React and working with multiple components and stylesheets I have experienced the scoping issue and had to come up with some rather inventive class names! Using modules is much easier and clearer - I like it! I found the work on promises more challenging but really useful and I think I am starting to get more of the nitty gritty now!
+
+### Links to work / resources:
+
+Using Luxon to work with dates and times in JS:
+
+![luxon library](./Assets/Images/luxon.PNG)
+
+An example of using Promise.allSettled():
+
+![Promise.allSettled example](./Assets/Images.PromiseAllSettled.PNG)
+
+### Day 56 of the MOB
+
+_8th December_
+
+### Today's progress:
+
+- We had a great guest talk first thing this morning from the Principle Consultant from Hippo Digital who talked to us about tech team roles. It was super interesting to learn about all the different roles and what they involve, especially as we head into final projects next week. The roles we learnt about:
+
+  - Product Owner (PO)
+  - Delivery Manager (DM)
+  - User Researcher (UR)
+  - Content Designer (CD)
+  - Performance Analyst (PA)
+  - User Experience Designer (UX)
+  - Technical Architect (TA)
+  - Developer (D)
+  - Quality Assurance Tester (QA)
+
+- We spent some time looking into UI libraries. They are useful because they allow your components to be reuseable, consistent and scaleable. My partner and I looked in Chakra UI and played around with using some of their components. It was a really useful session as I am fairly certain we might use a UI library in our final projects.
+
+- This afternoon we had a session on debugging tools abd learnt how to use the debugger in Google Chrome. You write `debugger;` in your code at the line you want to pause from and then open the debugger in the dev tools and it pauses at each step so you can inspect what is going on and hopefully find some clues as to where the bug is.
+  - Debugging checklist
+    1. Recognise the bug
+    2. Investigate the source
+    3. Identify the cause
+    4. Test the solution
+    5. Fix the bug
+    6. Review the code
+
+### Thoughts:
+
+I really enjoyed hearing from Colin this morning about tech roles. I need to start deciding which direction I want to go in but it's hard because I enjoy so much! The debugging tools were also very useful and something I'd not used before so really good to learn!
+
+### Links to work / resources:
+
+Using the debugger tool in Google Chrome:
+
+![example of using debugger](./Assets/Images/usingDebugger.PNG)
+
+### Day 57 of the MOB
+
+_9th December_
 
 ### Today's progress:
 
