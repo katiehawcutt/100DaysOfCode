@@ -3530,6 +3530,47 @@ _9th December_
 
 ### Today's progress:
 
+- We started the day by recapping on some Agile Principles, roles and practices. Agile methodology is a type of project management which values:
+
+  - early and continuous development
+  - customer satisfaction
+  - frequent delivery
+  - working software
+  - sustainable development
+  - face to face communication
+  - self-organising teams
+  - reflection
+
+  - Roles include Product Owner, Scrum Master / Delivery Manager, Dev team members and stakeholders.
+  - What's involved? Product planning, Sprints, Sprint Reviews and Retrospectives
+
+  - Definition of done:
+    - business or functional requirements
+    - quality
+    - non-functional requirements
+
+- We learnt about Figma and used it for the first time to design a mobile layout. It was pretty easy to use and I'm really looking forward to using it in the final project!
+
+- We learnt about static side generation v. server side rendering. We looked into Gatsby and made our app using Gatsby. The other teams did Next.js and we shared knowledge at the end.
+
+### Thoughts:
+
+Really enjoyed learning how to use Figma - it is something I know I want to use in our final projects so it was great to have some time exploring it in class. Still lots to get my head around regarding server-side rendering v static page generation as I don't think I fully understand what's happening yet or in which cases you would use them.
+
+### Links to work / resources:
+
+Using Figma for the first time to design a PubFinder mobile app:
+
+![first page on figma](./Assets/Images/figma1.PNG)
+
+![second page on figma](./Assets/Images/figma2.PNG)
+
+### Day 58 of the MOB
+
+_10th December_
+
+### Today's progress:
+
 ### Thoughts:
 
 ### Links to work / resources:
