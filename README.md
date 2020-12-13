@@ -3571,14 +3571,81 @@ _10th December_
 
 ### Today's progress:
 
+- This morning we had our final session from Joe on Mindset and today we learnt about Project Mindset and reflected on being intentional and purposeful, having a personal vision and co-elevation mindset. We spent some time free writing on:
+
+  - Dharma: my impact on the team - what do I want to do
+  - Artha: my technical skills development - who I want to become
+  - Moksha: my mindset development
+  - Co-elevation: supporting each other as a team, moving from good to great. It's a choice!
+
+- We had a guest lecture on having a customer centric approach and engaging with your customer in a way that provides a positive customer experience. We also covered creating a culture within teams and creating a system of shared values and behaviours.
+
+- Our main technical learning for the day was about containers and using Docker. My main learning points were that:
+
+  - containers allow our code to run on every computer. This is good because we want it to work in every environment
+  - containers provide an environment in which to run our code
+  - inside the container is everything your app needs to run on
+  - containers enabled the move to microservice architecture
+
+  Monoliths v Microservices
+  MONOLITHS
+
+  - single application
+  - high dependant
+  - one language
+  - difficult to scale
+    MICROSERVICES
+  - one app per service eg. database, payment
+  - communicate via API's
+  - easy to iterate
+  - easy to scale
+
+- We spent the afternoon following a Docker tutorial on setting up a container, creating an instance of it and running it. Getting Docker desktop installed and working on my laptop was the biggest challenge and I did some amazing troubleshooting and problem solving to get it working! I was really pleased with myself. We followed the Docker Getting Started tutorial and built an app container image, started the container and saw the running app, updated our source code and replaced our container, learnt how to share our images by creating a repo on Docker Hub and pushing our image there, ran our app on a brand new instance, learnt about persisting our DB with container volumes, earnt about bind mounts which we can use to control the exact mountpoint on the host. There was also a section on multi-container apps and Docker compose which we didn't get on to but I am planning to finish this at the weekend.
+
 ### Thoughts:
+
+I've been excited to learn about containers and use Docker for a while now so I'm really pleased we got a chance to today. It was quite a lot to take in but it was a good learning curve and good practice at reading docs, following instructions and trouble shooting. I'm looking forward to trying it again and maybe using Docker in our final project!
 
 ### Links to work / resources:
 
-### Day
+Using Docker for the first time:
+
+![Our docker file](./Assets/Images/dockerFile.PNG)
+
+![docker desktop](./Assets/Images/dockerDesktop.PNG)
+
+### Day 59 of the MOB
+
+_11th December_
 
 ### Today's progress:
 
+- Today is the last day before the final projects start! We started the day with some Codewars and I was really pleased with a 6kyu kata that I managed to solve!
+
+- For the rest of the day we were working on an AWS hackathon. The AWS services I used were:
+  - IAM: Identity and Access Management enables you to manage access to AWS services and resources securely. Using IAM, you can create and manage AWS users and groups, and use permissions to allow and deny their access to AWS resources.
+  - S3: Simple Storage Service - static storage which stores our code in a 'bucket'.
+  - API Gateway: holds our endpoints and acts like a router. A service for creating, publishing, maintaining, monitoring, and securing REST, HTTP, and WebSocket APIs at any scale.
+  - Lamda: holds our functions that talk to our database and acts like models. Lambda is a compute service that lets you run code without provisioning or managing servers. Lambda runs your code only when needed and scales automatically, from a few requests per day to thousands per second. You pay only for the compute time that you consume—there is no charge when your code is not running.
+  - DynamoDB: non-relational database that stores data in key-value pairs
+
+Other learning points were:
+  - YAML is a human-readable data serialization standard that can be used in conjunction with all programming languages and is often used to write configuration files.
+  - The YAML file in our app is like a map for the Lambda functions
+  - Objects in AWS can't be kebab-case
+  - When accessing data from Dynamo DB we don't do a query, we write `scan`. 
+  - One of the ways that a non-relational database differs to a relational database if that with non-relational you don't have to define the structure up front - it's like a big JS object
+
 ### Thoughts:
 
+Today was quite challenging as we were using lots of new AWS services for the first time but I really enjoyed it and it was great to get some hands on experience of using AWS. We went through writing the YAML file in lots of detail which really helped as I feel like I really understand what everything is doing now. A great way to round off our final non-proect week! 
+
 ### Links to work / resources:
+
+A 6kyu Codewars Kata I solved today:
+
+![Codewars Kata 6kyu](./Assets/Images/persistantBugger.PNG)
+
+---
+
+### I'm going to finish my 100 Days of Code / SoC Bootcamp Diary here as we're about to start our Final Project for the last four weeks of the bootcamp. I'm going to be keeping a separate log for the last few weeks to document my progress through my final project! Doing 100 Days of Code and then continuing to keep this diary during the SoC bootcamp and been a discipline but I am so happy I've done it. I've now got an amazing record of all my progress and achievement and it's already amazing to look back and see how far I've come! It's been an amazing year of learning and I can't wait to get a job as a Software Developer in the new year. Here's to more happy coding!
