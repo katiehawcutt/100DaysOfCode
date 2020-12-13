@@ -3630,15 +3630,35 @@ _11th December_
   - DynamoDB: non-relational database that stores data in key-value pairs
 
 Other learning points were:
-  - YAML is a human-readable data serialization standard that can be used in conjunction with all programming languages and is often used to write configuration files.
-  - The YAML file in our app is like a map for the Lambda functions
-  - Objects in AWS can't be kebab-case
-  - When accessing data from Dynamo DB we don't do a query, we write `scan`. 
-  - One of the ways that a non-relational database differs to a relational database if that with non-relational you don't have to define the structure up front - it's like a big JS object
+YAML
+
+- YAML is a human-readable data serialization standard that can be used in conjunction with all programming languages and is often used to write configuration files.
+- YAML files use indentation instead of brackets / semi-colons - white space matters!
+- It's commonly used for configuration files ad in apps where data is being stored or transmitted
+- The YAML file in our app is like a map for the Lambda functions
+
+SERVERLESS ARCHITECTURE
+
+- serverless doesn't mean no servers!
+- Instead, it's Functions as a Service (FaaS). You send your code to a cloud provider who runs it as a function when triggered by an event (like a HTTP request)
+- Your code is still on their servers but they dynamically allocate resource to you and you're only charged for what you use
+- This differs from traditional servers where you're responsible for maintainence and security updates, paying for upkeep even when the server isn't receiving requests, and managing scaling based on traffic / amount of requests
+
+SERVERLESS
+
+- Serverless (with a big S!) is an application framework that offers easy YAML and CLI deployment of serverless API's to cloud providers like AWS
+- a single config file allows you to list your functions (models) and define the endpoints (routes) that they're subscribed to.
+- you can view traffic, useage and other stats on the online dashboard
+
+OTHER
+
+- Objects in AWS can't be kebab-case
+- When accessing data from Dynamo DB we don't do a query, we write `scan`
+- One of the ways that a non-relational database differs to a relational database if that with non-relational you don't have to define the structure up front - it's like a big JS object
 
 ### Thoughts:
 
-Today was quite challenging as we were using lots of new AWS services for the first time but I really enjoyed it and it was great to get some hands on experience of using AWS. We went through writing the YAML file in lots of detail which really helped as I feel like I really understand what everything is doing now. A great way to round off our final non-proect week! 
+Today was quite challenging as we were using lots of new AWS services for the first time but I really enjoyed it and it was great to get some hands on experience of using AWS. We went through writing the YAML file in lots of detail which really helped as I feel like I really understand what everything is doing now. A great way to round off our final non-proect week!
 
 ### Links to work / resources:
 
@@ -3646,6 +3666,20 @@ A 6kyu Codewars Kata I solved today:
 
 ![Codewars Kata 6kyu](./Assets/Images/persistantBugger.PNG)
 
+The serverless flow:
+
+![The serverless flow](./Assets/Images/theServerlessFlow.PNG)
+
+Serverless V Express:
+
+![serverless v express](./Assets/Images/expressVserverless.PNG)
+
+Our YAML file:
+
+![Our YAML file](./Assets/Images/ymlFile1.PNG)
+
+![Our YAML file](./Assets/Images/ymlFile2.PNG)
+
 ---
 
-### I'm going to finish my 100 Days of Code / SoC Bootcamp Diary here as we're about to start our Final Project for the last four weeks of the bootcamp. I'm going to be keeping a separate log for the last few weeks to document my progress through my final project! Doing 100 Days of Code and then continuing to keep this diary during the SoC bootcamp and been a discipline but I am so happy I've done it. I've now got an amazing record of all my progress and achievement and it's already amazing to look back and see how far I've come! It's been an amazing year of learning and I can't wait to get a job as a Software Developer in the new year. Here's to more happy coding!
+### I'm going to finish my 100 Days of Code / SoC Bootcamp Diary here as we're about to start our Final Project for the last four weeks of the bootcamp. I'm going to be keeping a separate log for the last few weeks to document my progress through my final project! Doing 100 Days of Code and then continuing to keep this diary during the SoC bootcamp and been a discipline but I am so happy I've done it. I've now got an amazing record of all my progress and achievement and it's already amazing to look back and see how far I've come! It's been a fantastic year of learning and I can't wait to get a job as a Software Developer in the new year. Here's to more happy coding!
